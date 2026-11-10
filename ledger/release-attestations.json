@@ -1,0 +1,3859 @@
+{
+ "alg": "ed25519",
+ "attestations": [
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "553c7d73a92cdab0",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://8984f82adab0a6061491e1eaf4d9c61f.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "2b2376a0f446ca7496b169cd89c6892061337a0579152ae2255c050e366598d4df9fe85917302d9b6ac1a681554063d52c06cb1af3b6a19d4bab23792eba1209",
+    "ts": 1790972383,
+    "v": 1
+   },
+   "filename": "rttp-1.2.8-py3-none-any.whl",
+   "package": "rttp",
+   "registry": "PyPI",
+   "sha256": "8984f82adab0a6061491e1eaf4d9c61f13f9c7b091b227d02fac02531253255f",
+   "size": 35281,
+   "url": "https://files.pythonhosted.org/packages/0a/07/24e5d3899c196935b8560882e34f3c771b6f4c344bf72b5feba2548aa720/rttp-1.2.8-py3-none-any.whl",
+   "version": "1.2.8"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "3c083940cc1a7281",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://071c823f676b3295b265a54f3f24687a.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "2535272756dd4df504cab1df9de32d3c110885ea4f605680d3dec3cafd0652f4318e0e4848e88ac18d5e01c91af2eaaad2fd43620602c0fcdb33a19a84d79507",
+    "ts": 1790972385,
+    "v": 1
+   },
+   "filename": "iqa_org-1.2.8-py3-none-any.whl",
+   "package": "iqa-org",
+   "registry": "PyPI",
+   "sha256": "071c823f676b3295b265a54f3f24687a086eab454e32ea284b8c2555444750de",
+   "size": 28803,
+   "url": "https://files.pythonhosted.org/packages/15/3f/f44eceebd4e72d628fb17488c551c10c26c3dbb60014a2a574c408ff8f99/iqa_org-1.2.8-py3-none-any.whl",
+   "version": "1.2.8"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "6ad96ef4418af747",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://33a51f9d21b523944097917b2653b912.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "73182c02bc5ac55c068d1baa08626b9ff657b10b3e2d9765add3855d0cd0b72ec8a043a077610788f2d32e281cdd8d1bc8c1ed58e2f2c68904c75ededac4090c",
+    "ts": 1790972387,
+    "v": 1
+   },
+   "filename": "rttp-1.2.8.tgz",
+   "package": "@aicent/rttp",
+   "registry": "npm",
+   "sha256": "33a51f9d21b523944097917b2653b91287f042676e21813ae2a2e78fc9dd08f9",
+   "size": 20614,
+   "url": "https://registry.npmjs.org/@aicent/rttp/-/rttp-1.2.8.tgz",
+   "version": "1.2.8"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "852e08bc562b5581",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://9b55799a4c99c5e878030aba87e1db0c.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "db7e2350c524d60b62a1036623c0c9096b5e201747c79322eab3af92d24d192ac91825088f5859f6b9b507a273d448431b10a00043034acaa7e180eaac3eba0a",
+    "ts": 1790972389,
+    "v": 1
+   },
+   "filename": "iqa-1.2.8.tgz",
+   "package": "@aicent/iqa",
+   "registry": "npm",
+   "sha256": "9b55799a4c99c5e878030aba87e1db0cd3319335016a0773993c55c8c3b47be3",
+   "size": 16404,
+   "url": "https://registry.npmjs.org/@aicent/iqa/-/iqa-1.2.8.tgz",
+   "version": "1.2.8"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "ec6a8c3322b48220",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://6125684522438dcff5031f7312ef5618.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "534e79080885b26b51845e48344a50666d7593d56363de079254b01b61a44496ea690be599da9b2c49f2209b74a9c2525a80dba71f6e03c2feb8e63a2136c50b",
+    "ts": 1790972391,
+    "v": 1
+   },
+   "filename": "rttp-1.2.8-alpha.crate",
+   "package": "rttp",
+   "registry": "crates.io",
+   "sha256": "6125684522438dcff5031f7312ef56188f30d3110198680851f77ae2e7cae1ef",
+   "size": 30943,
+   "url": "https://crates.io/api/v1/crates/rttp/1.2.8-alpha/download",
+   "version": "1.2.8-alpha"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "4ea5d613a76eb126",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://0360334b086f861534b3f6d66d6cfda4.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "6bc77ce01934a5f7bca4e20007afe7ff19d895f27e68e60b3c9b6c3ff60d5db5ad571212766d107bc2e27cbd2bf652aa2c15ec9a347a2d4069c72ad192bade04",
+    "ts": 1790972393,
+    "v": 1
+   },
+   "filename": "iqa-org-1.2.8-alpha.crate",
+   "package": "iqa-org",
+   "registry": "crates.io",
+   "sha256": "0360334b086f861534b3f6d66d6cfda4ce8f6baf676681ddc23801f6a5863538",
+   "size": 27254,
+   "url": "https://crates.io/api/v1/crates/iqa-org/1.2.8-alpha/download",
+   "version": "1.2.8-alpha"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "43193cf7e0221ea6",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://5d130927cefa520038e6b8cfd63a5e84.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "8d81b13fb049a35ff7a2fc799415babdf315e03781ffb55db84002d7b9105015bdd41d635b5364ccb075876df46c0e50b5319ac32ca7375ad354c634c93dd006",
+    "ts": 1791184096,
+    "v": 1
+   },
+   "filename": "rttp-1.3.1-py3-none-any.whl",
+   "package": "rttp",
+   "registry": "PyPI",
+   "sha256": "5d130927cefa520038e6b8cfd63a5e8485aacae57a71e873cabd1dade4654cc8",
+   "size": 35439,
+   "url": "https://files.pythonhosted.org/packages/d6/34/f9656fa051d12564a37454337891e30dece27c27039a4584b8f9b9a58525/rttp-1.3.1-py3-none-any.whl",
+   "version": "1.3.1"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "0d58496995d76ddf",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://05e11d9ceac2388d1b286a64ebfeb8ed.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "bf4872712a76f794315a51bde48dfbbc2dc69c7feb0ccc99bba2ec4b075c97a5213a152140065c3fe4daa59052dc2a31ad0cfb5be9b5819125792edf8cba450b",
+    "ts": 1791184096,
+    "v": 1
+   },
+   "filename": "iqa_org-1.3.1-py3-none-any.whl",
+   "package": "iqa-org",
+   "registry": "PyPI",
+   "sha256": "05e11d9ceac2388d1b286a64ebfeb8ed774ca74625b135d6543d66875087836c",
+   "size": 37870,
+   "url": "https://files.pythonhosted.org/packages/44/e7/786f8706cf73c95428a9560de070c1975ba02da6a57e7b3070915a7a72e1/iqa_org-1.3.1-py3-none-any.whl",
+   "version": "1.3.1"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "7e93ed371c24f6dc",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://9eafb2eea42ad015dd062230c10fa116.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "1d8f85662f7a9284a72e939ec77ac6b397ce4430ada2c052b2ae8aeee7aa0d26d104d94a9bf7fa86fd1fe3e96d9b1c5103954184b98276ae55b75fa7f44c190a",
+    "ts": 1791184096,
+    "v": 1
+   },
+   "filename": "rttp-1.3.1.tgz",
+   "package": "@aicent/rttp",
+   "registry": "npm",
+   "sha256": "9eafb2eea42ad015dd062230c10fa1169657582ed96f6ea0dd04101c0f37fd76",
+   "size": 20733,
+   "url": "https://registry.npmjs.org/@aicent/rttp/-/rttp-1.3.1.tgz",
+   "version": "1.3.1"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "d7fd6e3800055182",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://4c6b2aff81c8409e07fb57fb0a4f46d6.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "34811dd6a104e106a77807cd26532e5b4c395e07239a2da2736e0f04d1a2327218ac8c679a193b96926a3172c33a3569c281c88f0b55c4f9ade8cccc093d8107",
+    "ts": 1791184096,
+    "v": 1
+   },
+   "filename": "iqa-1.3.1.tgz",
+   "package": "@aicent/iqa",
+   "registry": "npm",
+   "sha256": "4c6b2aff81c8409e07fb57fb0a4f46d64f5bec4040fd402ffee84d189b3cafd2",
+   "size": 23032,
+   "url": "https://registry.npmjs.org/@aicent/iqa/-/iqa-1.3.1.tgz",
+   "version": "1.3.1"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "0badbd41489e3099",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://315fb53cdbcf19f4fdcb5d8048878463.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "fb511b37ee237f7b18613ea1d93c4a78ab8fdecc00e875d7e5a0dfebc71cc03eef5fd9db1d8286c79000686e7774ae596f4cbf229b2d0558042895cfe26ab802",
+    "ts": 1791184096,
+    "v": 1
+   },
+   "filename": "rttp-1.3.1.crate",
+   "package": "rttp",
+   "registry": "crates.io",
+   "sha256": "315fb53cdbcf19f4fdcb5d8048878463665b2a8815f08c150865a6a16f55833f",
+   "size": 31592,
+   "url": "https://crates.io/api/v1/crates/rttp/1.3.1/download",
+   "version": "1.3.1"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "d5030b5c4848984f",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://4196ed4a0c3bd458b68295b1b09a6825.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "eaea5bc61fdf10a6bc4eb3364c2318963aae59f15cf92af81d5caa457c4e7027b487cb892eb4cfd7a5c97fe2a66cb36f38ef51e75848bc8986dea7ff0e78db06",
+    "ts": 1791184096,
+    "v": 1
+   },
+   "filename": "iqa-org-1.3.1.crate",
+   "package": "iqa-org",
+   "registry": "crates.io",
+   "sha256": "4196ed4a0c3bd458b68295b1b09a68258b9403c909bf6482015bdfd97deeb0a1",
+   "size": 34821,
+   "url": "https://crates.io/api/v1/crates/iqa-org/1.3.1/download",
+   "version": "1.3.1"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "7d4b33835d261c69",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://eb77c8c3619e2fa5bddebd39509a59fc.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "785e736f95ebe332e1bd76b5832626629f237ddef63ba678fbc97b3533d87672d22c4c97b4a8294156ac6b50ed4dcea944c5a21ad2889318541b94a2a7ea720f",
+    "ts": 1791205857,
+    "v": 1
+   },
+   "filename": "iqa-1.2.6.tgz",
+   "package": "@aicent/iqa",
+   "registry": "npm",
+   "sha256": "eb77c8c3619e2fa5bddebd39509a59fc63c58d5a6782f93670afa9fa9f7bf635",
+   "size": 16090,
+   "url": "https://registry.npmjs.org/@aicent/iqa/-/iqa-1.2.6.tgz",
+   "version": "1.2.6"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "c95d7c239efa2999",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://a2883f5de44a857f1e8de18fd14b33c5.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "c62b87bf5b37e4210942e3c26b2b6b5a714861205f4d114ff4dc113e599ccf53e95a09bda008b7e9e914f1a914aec6386af012233fca83d3a5410a3c29df0600",
+    "ts": 1791205857,
+    "v": 1
+   },
+   "filename": "rttp-1.2.6.tgz",
+   "package": "@aicent/rttp",
+   "registry": "npm",
+   "sha256": "a2883f5de44a857f1e8de18fd14b33c506c229fab40887a52fc1977529081fa2",
+   "size": 18108,
+   "url": "https://registry.npmjs.org/@aicent/rttp/-/rttp-1.2.6.tgz",
+   "version": "1.2.6"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "a71ca618bf260d12",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://4768fe0c44ac81b6e0a51983847345f4.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "6e45ae3566eab7905adf34570e002117e48dea4347ba089d8dd1ad14c493c75e39d593c8eb36b6765f9a6a24cc5d775942eb0fae7b9e76c90fe77c3fb134f304",
+    "ts": 1791205857,
+    "v": 1
+   },
+   "filename": "iqa_org-1.2.6-py3-none-any.whl",
+   "package": "iqa-org",
+   "registry": "PyPI",
+   "sha256": "4768fe0c44ac81b6e0a51983847345f4b4933e2ebe6b4a9fd2c2bf4a88530c79",
+   "size": 25360,
+   "url": "https://files.pythonhosted.org/packages/b6/92/9ee4177dd7fde7992c634a5c11571db5b4f54b7d5632de255db304e23181/iqa_org-1.2.6-py3-none-any.whl",
+   "version": "1.2.6"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "b4cbce6e1b8068ef",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://2799399a5cc96e55b3da8389e19bd762.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "df3c4f3523652eaa973ab006a8485e6fcf5bbbac98c09568859db7280cb19e0f01cce3e7e5de4a2a673fe9a944a9c0dd75930927c3f8db828676c3486d92670e",
+    "ts": 1791205857,
+    "v": 1
+   },
+   "filename": "iqa-org-1.2.6-alpha.crate",
+   "package": "iqa-org",
+   "registry": "crates.io",
+   "sha256": "2799399a5cc96e55b3da8389e19bd7620fb8035c41cdbfc4e4fdffa8927812b5",
+   "size": 25556,
+   "url": "https://crates.io/api/v1/crates/iqa-org/1.2.6-alpha/download",
+   "version": "1.2.6-alpha"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "37e3448b42daa4c5",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://96a24e9883b70847e2bb9c778d6bbe85.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "d5f529923efc5aad4dd8cc8039c079902251bc734a8198e3c6bf7df19cdb0206fcbf5c76a6286009ba07df9e0bf851de9d2f68a4e6d42a6145b0f0bda6f58907",
+    "ts": 1791205857,
+    "v": 1
+   },
+   "filename": "rttp-1.2.6-py3-none-any.whl",
+   "package": "rttp",
+   "registry": "PyPI",
+   "sha256": "96a24e9883b70847e2bb9c778d6bbe85c7964217e46b49d3303bf3830c8c8474",
+   "size": 34712,
+   "url": "https://files.pythonhosted.org/packages/94/2e/3de8c42db62581f4caf9d4c415b5ea8db942fed3658a8d1d0ac2c92ca774/rttp-1.2.6-py3-none-any.whl",
+   "version": "1.2.6"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "fb86012746841178",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://ff58954c5b4d9d8988fe32a17e42929c.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "9ee6268590451f1bc89aec17768d9d4730a1cb67da45526522c37cd185a96490a90a62ca12b67f6ca10d6b1a012a2e6e0e51c1cbc9905ca3a65aee7d36547e0d",
+    "ts": 1791205857,
+    "v": 1
+   },
+   "filename": "rttp-1.2.6-alpha.crate",
+   "package": "rttp",
+   "registry": "crates.io",
+   "sha256": "ff58954c5b4d9d8988fe32a17e42929ca141286366f7e5db3a673320aa97efa5",
+   "size": 27027,
+   "url": "https://crates.io/api/v1/crates/rttp/1.2.6-alpha/download",
+   "version": "1.2.6-alpha"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "87ac2091a86fd67a",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://704cbd9f4643a70a468eabe4aeca0c29.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "3680893088778a98eaf94b5d49fe394c4ca8ed423246a1a14850244b71ae3c633cc0b5cd07088a191384d10e9adf4468b62f3187ca5ca1dfc7ee490a9058880c",
+    "ts": 1791409072,
+    "v": 1
+   },
+   "filename": "iqa_mcp-0.1.0-py3-none-any.whl",
+   "package": "iqa-mcp",
+   "registry": "PyPI",
+   "sha256": "704cbd9f4643a70a468eabe4aeca0c2988fe66fb09a6ce4ceabf4541b95498d8",
+   "size": 9453,
+   "url": "https://files.pythonhosted.org/packages/c2/c2/ad1f29e0218d248742b0d77d94aab378cb062da8b3e7e3a937296a796f8b/iqa_mcp-0.1.0-py3-none-any.whl",
+   "version": "0.1.0"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "9b5a9a6f65e08188",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://491f37421cdaa12f6b5e31734fad1c8e.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "a986dedc0a1ccb758ee37dfdf2712113eefc6d5f22af266004e8a035ca9723fa7664a2be9227b2ce403eb2038976258cdf2541d3df54f3af1878b1e15cdb2f01",
+    "ts": 1791409072,
+    "v": 1
+   },
+   "filename": "iqa_mcp-0.1.0.tar.gz",
+   "package": "iqa-mcp",
+   "registry": "PyPI",
+   "sha256": "491f37421cdaa12f6b5e31734fad1c8e3b196c3ecf9c068fce7dd213cd5f30c8",
+   "size": 8826,
+   "url": "https://files.pythonhosted.org/packages/dc/e8/e78d40fbbfeabe0e8b20610d73f3f1daa7b1818631fbfea8ff8bffa7353b/iqa_mcp-0.1.0.tar.gz",
+   "version": "0.1.0"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "984d0c4c5e223708",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://c09b5c6f0d91489af188b5ed00804a37.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "aa07f9b55f7fb8ac00c713b847138c7283235146b2ffc526a87ace7a7e8c4871a3b7c7287399938eed57502e186c1ad3d1fd6fb9872b641380ab084954133104",
+    "ts": 1791482145,
+    "v": 1
+   },
+   "filename": "iqa_mcp-1.0.0-py3-none-any.whl",
+   "package": "iqa-mcp",
+   "registry": "PyPI",
+   "sha256": "c09b5c6f0d91489af188b5ed00804a37f4fd0855893389fd6c32172eba6826d1",
+   "size": 10234,
+   "url": "https://files.pythonhosted.org/packages/70/35/e7da3e61e20059234a37820c54d3001166fb568ded96cab51f5ec85872ec/iqa_mcp-1.0.0-py3-none-any.whl",
+   "version": "1.0.0"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "09f2138ccf209d1d",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://bbc5f3872c02fa038c119d621b3e7d75.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "f41e39d1f4453bca033f2e7d9e5f6f519bf5a0569e4ec00603ac98493536a7e19c6db6b768b73046294cf434d26d469d2fb81f4ded6beda5a684597f2766ee02",
+    "ts": 1791482145,
+    "v": 1
+   },
+   "filename": "iqa_mcp-1.0.0.tar.gz",
+   "package": "iqa-mcp",
+   "registry": "PyPI",
+   "sha256": "bbc5f3872c02fa038c119d621b3e7d7598153cbd342650121a4a0ef42ab74bcd",
+   "size": 9645,
+   "url": "https://files.pythonhosted.org/packages/c4/8b/118ed2158625e39e439bf05adbec8002d92d8836f02c1a159cfa2d913cee/iqa_mcp-1.0.0.tar.gz",
+   "version": "1.0.0"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "715129fbd8e469cc",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://4f1b7a8d55ff58f971f6eb6e1dc402eb.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "2b4879e77abbb326c27945a3d1e722cfe8eb888f61c37edba56533a35b003906349be530d03d46c17b4fd9b4974ae9af138a96003444f6d90329b99a1a89bd06",
+    "ts": 1791482145,
+    "v": 1
+   },
+   "filename": "iqa_mcp-1.0.1-py3-none-any.whl",
+   "package": "iqa-mcp",
+   "registry": "PyPI",
+   "sha256": "4f1b7a8d55ff58f971f6eb6e1dc402eb1f0c4a7edfa9ecc951297bdcbb6f40f9",
+   "size": 12147,
+   "url": "https://files.pythonhosted.org/packages/22/58/877a20031c69ca22d5ad1cd6719f36887bde0e5ac9d9e4c57589f969380d/iqa_mcp-1.0.1-py3-none-any.whl",
+   "version": "1.0.1"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "1740bf0d85553694",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://613f29fce1b4d5813f39e3c29b3171e9.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "16711cbf0929947b6358ca45735a0dfe5f0d8121ec446f8226300efbf332b4404d2522d173ff4bf380aae97bc478e47c71facd3056d241fb57da968517080e02",
+    "ts": 1791482145,
+    "v": 1
+   },
+   "filename": "iqa_mcp-1.0.1.tar.gz",
+   "package": "iqa-mcp",
+   "registry": "PyPI",
+   "sha256": "613f29fce1b4d5813f39e3c29b3171e9af1e466e258a5372f72b6e2ae25949f3",
+   "size": 11133,
+   "url": "https://files.pythonhosted.org/packages/7c/d9/f48c34ef2af4eaefd355706898099f12d2c35feab3de1707837f1980fff2/iqa_mcp-1.0.1.tar.gz",
+   "version": "1.0.1"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "574898a3403e0293",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://45bfdbe38d63f01b022b797ed1b16f11.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "f8e599bc6e456e745ad0a2aa4ede37f2bcfca913fd3b7fe9d2b9cc129094f0b0cc04f2018376103a1a95f19fa701280b0b39ca589b891497bf7a8b22c3114404",
+    "ts": 1791485858,
+    "v": 1
+   },
+   "filename": "iqa-mcp-1.0.1.tgz",
+   "package": "iqa-mcp",
+   "registry": "npm",
+   "sha256": "45bfdbe38d63f01b022b797ed1b16f1187b9a10b61e93c4dbd48f12f7be4ed9d",
+   "size": 1525,
+   "url": "https://registry.npmjs.org/iqa-mcp/-/iqa-mcp-1.0.1.tgz",
+   "version": "1.0.1"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "998de5dede5d1b77",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://ae2b10a66c8834abedb4fec3666f4931.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "fee81b0f5bf452dddc17e13e1cb58eed75e3929bb60f47c5e1a17dc6ff809657d40a2ed6a3139076966a17f11474eac8443b9306a4da738391c3a6acaebeb808",
+    "ts": 1791487661,
+    "v": 1
+   },
+   "filename": "iqa-mcp-1.0.0.crate",
+   "package": "iqa-mcp",
+   "registry": "crates.io",
+   "sha256": "ae2b10a66c8834abedb4fec3666f4931449c4e323a0c75294598bc8f9854ca00",
+   "size": 2094,
+   "url": "https://crates.io/api/v1/crates/iqa-mcp/1.0.0/download",
+   "version": "1.0.0"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "02b778c361a5c397",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://687b6c9c0ffa6c7264be9f839d367635.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "4c4adb3d9afd2c35b826c08fa0327aa5b23a0c609dc8dc7716171dac46ad9da5d0d5c520348bb83b2e11546c224cd48828d657663be22f6c61915c243097aa0c",
+    "ts": 1791487661,
+    "v": 1
+   },
+   "filename": "iqa-mcp-1.0.1.crate",
+   "package": "iqa-mcp",
+   "registry": "crates.io",
+   "sha256": "687b6c9c0ffa6c7264be9f839d367635a9517f10f009649f71610a5b39948775",
+   "size": 2062,
+   "url": "https://crates.io/api/v1/crates/iqa-mcp/1.0.1/download",
+   "version": "1.0.1"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "7fc49ae17ef5f141",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://5b0a6445bcf69a57bd17e9cfcb0a78ac.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "0bfb58ede2c1b5bb5dc8012fc4b897d3d8978c0512b5b9e5fa9632dcaf5bdde3d94f4ea8de4321384d1d2a203508936e22bdd7f4425116fea6e549985c71bc07",
+    "ts": 1791489419,
+    "v": 1
+   },
+   "filename": "iqa-mcp-1.0.0.tgz",
+   "package": "iqa-mcp",
+   "registry": "npm",
+   "sha256": "5b0a6445bcf69a57bd17e9cfcb0a78ac33aae05f87c2bd98092ee67bb5cbf041",
+   "size": 1524,
+   "url": "https://registry.npmjs.org/iqa-mcp/-/iqa-mcp-1.0.0.tgz",
+   "version": "1.0.0"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "af0ad0ff99579941",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://c518c657a12ec2cc09cc1d863688274d.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "b18fac5d306911c604c4e5b3350e1c5c49a09726ee0fbaea14648a8081163d9b6b38f017070b95903ed633745afffb2a45ba59ff3a6f0d07c921d5e066e5c50a",
+    "ts": 1791721245,
+    "v": 1
+   },
+   "filename": "iqa_mcp-1.0.2-py3-none-any.whl",
+   "package": "iqa-mcp",
+   "registry": "PyPI",
+   "sha256": "c518c657a12ec2cc09cc1d863688274d599a2b28cc12cec3a6181009dc6eaf00",
+   "size": 12498,
+   "url": "https://files.pythonhosted.org/packages/42/19/866c863ef8efd1328bf3cce07e88d36af7fbfe241c9bd196155c69e8d869/iqa_mcp-1.0.2-py3-none-any.whl",
+   "version": "1.0.2"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "5b29eaec235af3ef",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://a504687562f39320edbb1880718a5962.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "121a1c4a0e053217e2b7c889d96e507c642628cbfc9f44adb456a62f67c87a7960ad98539c6b07fc88034becc4d7f0a403a28df78e87697762ec6d729cff4f02",
+    "ts": 1791721247,
+    "v": 1
+   },
+   "filename": "iqa_mcp-1.0.2.tar.gz",
+   "package": "iqa-mcp",
+   "registry": "PyPI",
+   "sha256": "a504687562f39320edbb1880718a5962c3b8527619725db9f173866a02caf738",
+   "size": 11522,
+   "url": "https://files.pythonhosted.org/packages/3f/79/bfd9d2b7af52e2e0d23f70bdbf73b26391f71b5e61f639fa2c7182d110aa/iqa_mcp-1.0.2.tar.gz",
+   "version": "1.0.2"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "f5837fdde34921bb",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://a65fa1f639b144c04beb656a0b026d9a.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "0200902d78c232dd499d62dd2dd98342c62075f8f43bc9a014ad2ffc0815898fa42d2a2a7eb2f9234725d53dcb0f20693eafcaa61db935393c8ce6823e1f310a",
+    "ts": 1791723394,
+    "v": 1
+   },
+   "filename": "iqa-mcp-1.0.2.tgz",
+   "package": "iqa-mcp",
+   "registry": "npm",
+   "sha256": "a65fa1f639b144c04beb656a0b026d9aa6da0ee9ead546f8175fa296782325bb",
+   "size": 1526,
+   "url": "https://registry.npmjs.org/iqa-mcp/-/iqa-mcp-1.0.2.tgz",
+   "version": "1.0.2"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "4481683d710cea6d",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://ed40e6ca991a876d6979fede82c2d37e.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "15dd0cf7874b502a15577cc67fe4678d953ef89e50708b3f5d38bf0fb5081bc0226417ab975144f2715dadfcca2678107f17f0854d4baa7f882b76393ea57c01",
+    "ts": 1791723394,
+    "v": 1
+   },
+   "filename": "iqa-mcp-1.0.2.crate",
+   "package": "iqa-mcp",
+   "registry": "crates.io",
+   "sha256": "ed40e6ca991a876d6979fede82c2d37ed0f9b52010b7e1c18139d6423cf2c448",
+   "size": 2061,
+   "url": "https://static.crates.io/crates/iqa-mcp/iqa-mcp-1.0.2.crate",
+   "version": "1.0.2"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "e8e97a998ec82d22",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://70e812f78fd02fde063c83d52a89ceea.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "29d38ef0cd51bcab1383d03233ba7c4cc2ce08032d2666efc546d8fb5eaca0ac355802925005d8bb54d2d5b01e2f2653676aabb0cb29f743544860f5996c0d0f",
+    "ts": 1792744777,
+    "v": 1
+   },
+   "filename": "lra-runner-20261023.tar.gz",
+   "package": "conformance/lra-runner",
+   "registry": "iqa.org",
+   "sha256": "70e812f78fd02fde063c83d52a89ceea782ecc8213e2096b81d9ddd58879303d",
+   "size": 27215,
+   "url": "https://iqa.org/conformance/files/lra-runner-20261023.tar.gz",
+   "version": "2026-10-23"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "86a2a445336d129a",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://71c4e2a875cfdda1c0f31a1cc8b44bb1.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "749966fbad624ccfa4ef684b95d102c9df297a4ee08fdef117b946f98a843ee7ddd833ac411a25757d81f80c8397aea0a4de237c4d00d8fca2d7ae0b90ef8a04",
+    "ts": 1792748567,
+    "v": 1
+   },
+   "filename": "lra-runner-20261023b.tar.gz",
+   "package": "conformance/lra-runner",
+   "registry": "iqa.org",
+   "sha256": "71c4e2a875cfdda1c0f31a1cc8b44bb15e4e80ee0b4076e0cfd2884592c3e892",
+   "size": 27608,
+   "url": "https://iqa.org/conformance/files/lra-runner-20261023b.tar.gz",
+   "version": "2026-10-23-rev-b"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "bc552d50ac8bff19",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://94bbaf3c292abf69595bf5782d1db8cb.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "5a1792a71e79c0b338ff1fc00f42fcd949de627ee6f24e615e1f5e1e675448bb1af804cdcce5153ca8df245c337a28a81164eb477496735c67737c17c213d10c",
+    "ts": 1792770768,
+    "v": 1
+   },
+   "filename": "lra-runner-20261023c.tar.gz",
+   "package": "conformance/lra-runner",
+   "registry": "iqa.org",
+   "sha256": "94bbaf3c292abf69595bf5782d1db8cbb4178536d53182578b46cff94a5c4b15",
+   "size": 30455,
+   "url": "https://iqa.org/conformance/files/lra-runner-20261023c.tar.gz",
+   "version": "2026-10-23-rev-c"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "109c7546342fc3f8",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://0bd67a7a89c1a0ff46f72c119ca84786.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "262e75d7aad0505ab41844200b52f4944ad29cab1f4eddf30d8e3e1c0cf4d03170eb218d53995fd860da982ba6cbbf5e28e4fa9e340143ba8be1cc7d48223802",
+    "ts": 1792997998,
+    "v": 1
+   },
+   "filename": "lra-runner-20261026a.tar.gz",
+   "package": "conformance/lra-runner",
+   "registry": "iqa.org",
+   "sha256": "0bd67a7a89c1a0ff46f72c119ca847868d04b5ca333d5eb35701ff88e7e0d152",
+   "size": 47462,
+   "url": "https://iqa.org/conformance/files/lra-runner-20261026a.tar.gz",
+   "version": "2026-10-26-rev3"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "fbff50b158d3e52e",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://9dcf3b85017f853bac6c1ed9cb4f299a.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "f1081d70927d07ea15dca5644ac1aa87480098c1f36b1d21b80203cf14a34e8c1870c0b8349ab16551f3a42b783d0d2db55690a2e1b6e76949f6b33199d94401",
+    "ts": 1793129830,
+    "v": 1
+   },
+   "filename": "draft-li-rttp-intent-addressing-00.txt",
+   "package": "draft-li-rttp-intent-addressing",
+   "registry": "IETF",
+   "sha256": "9dcf3b85017f853bac6c1ed9cb4f299a67c1ed45342900f4a39cf9b5ffdfec16",
+   "size": 26054,
+   "url": "https://www.ietf.org/archive/id/draft-li-rttp-intent-addressing-00.txt",
+   "version": "-00"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "264de333149e9fb7",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://10ffa674331e7c4c42b784458c82cd8a.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "cd87d89fc3fd5e845b07b007cd41f082dca302629fd1128f5dfd68788236946c02e2f2aee38af96ea4d6938bf305c17796d3d99bca58f685e214d950d21ddb02",
+    "ts": 1793129831,
+    "v": 1
+   },
+   "filename": "draft-li-iqa-subject-attestation-00.txt",
+   "package": "draft-li-iqa-subject-attestation",
+   "registry": "IETF",
+   "sha256": "10ffa674331e7c4c42b784458c82cd8a7e52ab6f91b25e84072e8cbf9ee1ce77",
+   "size": 30578,
+   "url": "https://www.ietf.org/archive/id/draft-li-iqa-subject-attestation-00.txt",
+   "version": "-00"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "c5fb35b98265d1f2",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://5b6dabcba0bba824ca249dcdb28693dd.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "c64f2ed3dd21d5f81f53e4748d6684880dd07e73c62a4762b300bd9faa7c68eb3176edec8642955fd41a71557bb1c221f0484ba72574df7abd7c29a1371a5b02",
+    "ts": 1793129832,
+    "v": 1
+   },
+   "filename": "draft-li-rttp-intent-addressing-01.txt",
+   "package": "draft-li-rttp-intent-addressing",
+   "registry": "IETF",
+   "sha256": "5b6dabcba0bba824ca249dcdb28693ddb33dafc19afdc3e89ff0408c530d8644",
+   "size": 26057,
+   "url": "https://www.ietf.org/archive/id/draft-li-rttp-intent-addressing-01.txt",
+   "version": "-01"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "7c0ae63bbcd38a95",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://1d9ea6770e7553ac32d36baaddd9c93c.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "0fc67a92ed0686107f10ea3cc4aae02d4a3520175d5573ed954f104f046beed73a6a602a42f635b14fb9fbcd3f4d69de6b06a29aaee840fa3a59fc43b18a370f",
+    "ts": 1793129833,
+    "v": 1
+   },
+   "filename": "draft-li-rttp-iqa-addressing-00.txt",
+   "package": "draft-li-rttp-iqa-addressing",
+   "registry": "IETF",
+   "sha256": "1d9ea6770e7553ac32d36baaddd9c93c842a08fd21132f94459f74b0a1980165",
+   "size": 33331,
+   "url": "https://www.ietf.org/archive/id/draft-li-rttp-iqa-addressing-00.txt",
+   "version": "-00"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "9121e82e2f8bfd6e",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://c7ede77a674e163ec4ce9bdba0b8f196.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "6b930f6a44fd9696333c8138f743d82218cd874b511ed87754056881f317ee2928a11e5dfe7dcfc0dbc5f8ecb5dcc2d2a2f222dbe72f3b4b4830b0c3fbf3100e",
+    "ts": 1793129834,
+    "v": 1
+   },
+   "filename": "draft-li-rttp-iqa-addressing-01.txt",
+   "package": "draft-li-rttp-iqa-addressing",
+   "registry": "IETF",
+   "sha256": "c7ede77a674e163ec4ce9bdba0b8f196cc5f27b507907584457f309d9c7d9a03",
+   "size": 82529,
+   "url": "https://www.ietf.org/archive/id/draft-li-rttp-iqa-addressing-01.txt",
+   "version": "-01"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "ea85a9de1a335cd5",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://81a1d222f3a175527e1a7e5f614fda56.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "f7bc655c587d7423cf30a46b21b2db53c801cb4617851f7e349161e686383897e85b51137ede4ceeb2489179f5d0660c98888acb48c163c4822de0ba6bd72607",
+    "ts": 1793291427,
+    "v": 1
+   },
+   "filename": "epoekie-site-20261030b.tar.gz",
+   "package": "site/epoekie",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://81a1d222.site.iqa",
+   "sha256": "81a1d222f3a175527e1a7e5f614fda56ec7a1308ad7672c201e32f0b5e5aed7c",
+   "size": 35288,
+   "tarball_sha256": "6412070ac7dca6c28ebc90a24a70d9607852ebc90dd5bdc590fe68ecfb74965b",
+   "tarball_size": 415885,
+   "url": "https://epoekie.com/seal/epoekie-site-20261030b.tar.gz",
+   "version": "2026-10-29-myth-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "01ade53e8bd4d5ab",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://4172d8ad96baeb8742a4325d0324b0f9.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "88fcebdaab43eb1d854e3f5123ab941b067d2bc0741cf4ba8085ee30ad25c841a08f4d05ab02fecdd484ee9fb39bd5ee919c984625dc366ced2dcdbca599e605",
+    "ts": 1793291427,
+    "v": 1
+   },
+   "filename": "aicent-site-20261030b.tar.gz",
+   "package": "site/aicent",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://4172d8ad.site.iqa",
+   "sha256": "4172d8ad96baeb8742a4325d0324b0f916544c367c70f7d0b3ad0de744f32cb8",
+   "size": 35227,
+   "tarball_sha256": "0ec10ae93808aebc088a9c4409ddef039b1b2e7c96379a3badb1b39c7f038b32",
+   "tarball_size": 415616,
+   "url": "https://aicent.com/seal/aicent-site-20261030b.tar.gz",
+   "version": "2026-10-29-myth-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "39892e0fc690e225",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://166025be64bb76566534aa103edb47fa.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "c013aa72f10417ef06a0f19b968d059d0635b03946d80029c5a7a6f3e3bae4bcef9ba37292b03507d7792566f06fe25d85bf3da80f69fc5f866b2bc032f85006",
+    "ts": 1793300705,
+    "v": 1
+   },
+   "filename": "rpki-site-20261030a.tar.gz",
+   "package": "site/rpki",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://166025be.site.iqa",
+   "sha256": "166025be64bb76566534aa103edb47fab956957520240d459dabf946854757e7",
+   "size": 36847,
+   "tarball_sha256": "39900fc3be42013d9502053b6bf836f24d1fdda462d0f593587a1569a071b6ff",
+   "tarball_size": 416197,
+   "url": "https://rpki.com/seal/rpki-site-20261030a.tar.gz",
+   "version": "2026-10-30-myth-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "0f4f07c79818f5f9",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://2457e5d9297f7b2f877ceec1e39eb836.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "6f132bbce390b9c6a1a6d4f4c7aa1e977746cfb3cc4b2f140bc7f96d7f3fab48577e0a8217ab4871279d6fe3e8f8f7097aa254ecf08a55c243b965a6dbd0e00b",
+    "ts": 1793300705,
+    "v": 1
+   },
+   "filename": "zcmk-site-20261030a.tar.gz",
+   "package": "site/zcmk",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://2457e5d9.site.iqa",
+   "sha256": "2457e5d9297f7b2f877ceec1e39eb836c1356d2daea6db5ca8030e92eb01fcc0",
+   "size": 37695,
+   "tarball_sha256": "8b785cb3797d3a3cc3066e7935a62d32343d29f8868ec98ea575bef088be5818",
+   "tarball_size": 416287,
+   "url": "https://zcmk.com/seal/zcmk-site-20261030a.tar.gz",
+   "version": "2026-10-30-myth-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "e4612647a2357f47",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://e75d36b93c1f5dfbf3ac413cbc78571d.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "7174830a234870b94cb634000f1408778c01b173a05809db29cc9ed366126925bfa45dea207bb2cc670ab83d33f404fad20b34644ebf54c4b9d75276259c8702",
+    "ts": 1793300705,
+    "v": 1
+   },
+   "filename": "gtiot-site-20261030a.tar.gz",
+   "package": "site/gtiot",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://e75d36b9.site.iqa",
+   "sha256": "e75d36b93c1f5dfbf3ac413cbc78571d44f43293a9a72390a52248c1adaafbb4",
+   "size": 38045,
+   "tarball_sha256": "b4306198c1b854af252c9c76710a725600eadd1c8368ed154eff6c581b7207bc",
+   "tarball_size": 416396,
+   "url": "https://gtiot.com/seal/gtiot-site-20261030a.tar.gz",
+   "version": "2026-10-30-myth-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "1b1adeeb596cea88",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://87d924c90576d1442d1e63f5a8fe9a1e.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "e8028f7064be3e8fd7ff325d7d561138c597491ee7ef924b958a577a4d2ac29114702efe3cf8e9115b98ba178df8c9bdad0b827c947f293ba755b94bf604530e",
+    "ts": 1793300706,
+    "v": 1
+   },
+   "filename": "aicent-net-site-20261030a.tar.gz",
+   "package": "site/aicent-net",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://87d924c9.site.iqa",
+   "sha256": "87d924c90576d1442d1e63f5a8fe9a1ee6f9dde1065ab9271de27544cca1d3f1",
+   "size": 38001,
+   "tarball_sha256": "bb8da606979cf4d30a262dcb9f7e73b0411ab4fbf0849255a9847ed5e15dd51d",
+   "tarball_size": 416269,
+   "url": "https://aicent.net/seal/aicent-net-site-20261030a.tar.gz",
+   "version": "2026-10-30-myth-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "56c5f60923d8e5a0",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://e3079764afbcd99477c350a1aad09983.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "62ec7bd3fbc31e509ec7b4eb720562a78a1616689769de1f111a15d029ab01ad060d947fb0f4d0a1ae41c5d2f5a222d975cf2dd0da47df9dd42878cba2044801",
+    "ts": 1793300706,
+    "v": 1
+   },
+   "filename": "bewho-site-20261030a.tar.gz",
+   "package": "site/bewho",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://e3079764.site.iqa",
+   "sha256": "e3079764afbcd99477c350a1aad0998378f965923638654c802a7c42de87dd04",
+   "size": 36960,
+   "tarball_sha256": "9ac485b0b5c53fc1b4d3e4b3f59cb0c19db8fa2e7868c1dd4f01e20109781b7f",
+   "tarball_size": 416172,
+   "url": "https://bewho.com/seal/bewho-site-20261030a.tar.gz",
+   "version": "2026-10-30-myth-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "bcdc846f1f6244ae",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://7488acd8675e0bc23f0da8859379e1ab.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "1df2b55d8074f1348b2299a52c0d19ade5ce5029469bea2f176bb6356e2021de0aa9903a30a5b4103063cc897f406c3aff5ca64071234e9da6fc969601a8fe07",
+    "ts": 1793300706,
+    "v": 1
+   },
+   "filename": "cmtn-site-20261030a.tar.gz",
+   "package": "site/cmtn",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://7488acd8.site.iqa",
+   "sha256": "7488acd8675e0bc23f0da8859379e1abc3c24bf00fb951f98071788bce911e35",
+   "size": 36370,
+   "tarball_sha256": "747a0e4ca299ffc840126e3d50724934680c77bbad329e12442c6642c9e7e744",
+   "tarball_size": 416199,
+   "url": "https://cmtn.com/seal/cmtn-site-20261030a.tar.gz",
+   "version": "2026-10-30-myth-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "17709ffc8e9ddd26",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://d7ea4dcf5464060ec9d621be54e27233.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "9c96cc8a85f86cc646a8a4d0dbb1ba503c1a5315d294506552e3fa48f986aae2a9f424fc1f7e4e65eae9f586aeaef9d7c7456deb837b30561ee5410237888a03",
+    "ts": 1793300706,
+    "v": 1
+   },
+   "filename": "sascar-site-20261030a.tar.gz",
+   "package": "site/sascar",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://d7ea4dcf.site.iqa",
+   "sha256": "d7ea4dcf5464060ec9d621be54e27233164674e58dd3b90f5a46a08e9c74e80d",
+   "size": 36929,
+   "tarball_sha256": "0be6f792516d402952da2c8385e0e8aef54baedb61511c20c274ffae0ba80dcb",
+   "tarball_size": 416185,
+   "url": "https://sascar.com/seal/sascar-site-20261030a.tar.gz",
+   "version": "2026-10-30-myth-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "a1ca7865db2274f3",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://c9f97a027de5043da6e835089e06888e.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "453098fe9a74aa736e3dffc39fc8ab549195927cf23a24cf8b3ad974cb37cf165c80e6a33e45e85e7919353b0907cc952ea7b45ee76aeb1836c4127bec21060d",
+    "ts": 1793300706,
+    "v": 1
+   },
+   "filename": "itsun-site-20261030a.tar.gz",
+   "package": "site/itsun",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://c9f97a02.site.iqa",
+   "sha256": "c9f97a027de5043da6e835089e06888e61b60100d3c15b74a734e3d0a423daba",
+   "size": 38099,
+   "tarball_sha256": "483b29c9cfdb54dd23adfd7f2187b23b4ae12587a342cdf7b424631f9a5eb9c6",
+   "tarball_size": 416467,
+   "url": "https://itsun.com/seal/itsun-site-20261030a.tar.gz",
+   "version": "2026-10-30-myth-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "ffdc35f6c8f4aa60",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://8606a6a460e6ac8b125072c8c840818d.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "06fd0729bebc803f0a675fb464f108df67996c4b3b2c77b21b20d4b47724ba7800d5d2508cf2fb26bb2f4c9f4514cffd32fd61501b6b0de822b7979aee10910c",
+    "ts": 1793300706,
+    "v": 1
+   },
+   "filename": "moloon-site-20261030a.tar.gz",
+   "package": "site/moloon",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://8606a6a4.site.iqa",
+   "sha256": "8606a6a460e6ac8b125072c8c840818d18dfca0d4e5eb4bf9bb06459870ca091",
+   "size": 37188,
+   "tarball_sha256": "bd5473552322c054dd3836a7c0993b9a95102a68ca792bf11e52509270727b54",
+   "tarball_size": 416266,
+   "url": "https://moloon.com/seal/moloon-site-20261030a.tar.gz",
+   "version": "2026-10-30-myth-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "427a27254d9b7a73",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://0330344eb3e5ccb4839223533b5396c5.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "cb37dbd6d5ae2cf6d153537b7d3c299d81d18f7968f69c769909205ef0dccea5f377eb343753da819188dfb56dd5711c34fd428633f02303b96bcb6310e0b90b",
+    "ts": 1793300706,
+    "v": 1
+   },
+   "filename": "dioon-site-20261030a.tar.gz",
+   "package": "site/dioon",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://0330344e.site.iqa",
+   "sha256": "0330344eb3e5ccb4839223533b5396c50dcb1f41b447530cd092ad96825e2e7c",
+   "size": 36917,
+   "tarball_sha256": "fe5f6f650f140464b3a4a7ec65467497208b942c0857cedf5a1af6366e13eebc",
+   "tarball_size": 416349,
+   "url": "https://dioon.com/seal/dioon-site-20261030a.tar.gz",
+   "version": "2026-10-30-myth-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "fa41d7e623bb71f1",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://077eed3777eea9ffb4cf8a512afeba8d.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "b4dc1c87b694f054c6887a1284d74aa459098777ff32f8ca3bae2dbbd0cf59810c41b865b0f1e4f936c9b393c799e4d2a48230b160d81a6807821170ff081504",
+    "ts": 1793300706,
+    "v": 1
+   },
+   "filename": "picsi-site-20261030a.tar.gz",
+   "package": "site/picsi",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://077eed37.site.iqa",
+   "sha256": "077eed3777eea9ffb4cf8a512afeba8ddd8776245613a490414cd8758158d72a",
+   "size": 37109,
+   "tarball_sha256": "89ac90611dd0cd9af7f97a934231cbd1337f0ccaac525316e71f8fe31bb67efe",
+   "tarball_size": 416221,
+   "url": "https://picsi.com/seal/picsi-site-20261030a.tar.gz",
+   "version": "2026-10-30-myth-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "3adc69422e059f3d",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://828b9591756c7e64aa27308818175543.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "23ae1bbdd179d425fad001fdb3d9d55b9a959e5e339c95f2c6c6fc967986ff41bc1819e7d00c3c84a0ac3dba0e9c213a75a24be88a5a0ea4b3de2ea56101bf0a",
+    "ts": 1793300707,
+    "v": 1
+   },
+   "filename": "maxcap-site-20261030a.tar.gz",
+   "package": "site/maxcap",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://828b9591.site.iqa",
+   "sha256": "828b9591756c7e64aa27308818175543f6472813f80adb5105197a3b50117218",
+   "size": 37387,
+   "tarball_sha256": "22e56463fe420d7ac607ce2ebd3ec94b5713abb039d58c29a24db75110c26c2c",
+   "tarball_size": 416295,
+   "url": "https://maxcap.com/seal/maxcap-site-20261030a.tar.gz",
+   "version": "2026-10-30-myth-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "585b349d72151fce",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://8fbdf6f7132d141cd3666e19450e802f.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "250c0110c4943eafed4a23de666b3764374589ebc915dad7c2b73764c5d5d6c3f7fdff6f1b352f6b72ab50ece57fe25e58f49aeebf49bf7c35ee0eaed456dd0a",
+    "ts": 1793303959,
+    "v": 1
+   },
+   "filename": "gtiot-site-20261030b.tar.gz",
+   "package": "site/gtiot",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "registered-trademark marking (R) applied to all visible brand mentions",
+   "rttp_address": "rttp://8fbdf6f7.site.iqa",
+   "sha256": "8fbdf6f7132d141cd3666e19450e802f460ba4a8620775c37a2a2a80f835b819",
+   "size": 38136,
+   "supersedes": "2026-10-30-myth-seal",
+   "tarball_sha256": "4882da747df6f3466c32be83149448fc78add9f8af731fcfeb81fd9272a69fe4",
+   "tarball_size": 416398,
+   "url": "https://gtiot.com/seal/gtiot-site-20261030b.tar.gz",
+   "version": "2026-10-30-myth-reseal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "505a0dc7e9157376",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://7352af60abbfa105d95d1bc0e3514b5e.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "d46e3cb21539ab26d8c6e02d544325b784eef67ecad90a127b329e876e14e872d8d1d4c1981af5b6cebe32480fc9df05865ba7023f230911e08a58848b757604",
+    "ts": 1793303959,
+    "v": 1
+   },
+   "filename": "itsun-site-20261030b.tar.gz",
+   "package": "site/itsun",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "registered-trademark marking (R) applied to all visible brand mentions",
+   "rttp_address": "rttp://7352af60.site.iqa",
+   "sha256": "7352af60abbfa105d95d1bc0e3514b5ea7285c2bb88cb601b23527ae913d171f",
+   "size": 38200,
+   "supersedes": "2026-10-30-myth-seal",
+   "tarball_sha256": "7985747d061e03be8abcdd3b23f6f2dff18a2e3d8eba72128659e4040bce52e9",
+   "tarball_size": 416468,
+   "url": "https://itsun.com/seal/itsun-site-20261030b.tar.gz",
+   "version": "2026-10-30-myth-reseal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "949abc34be056410",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://a98540056cafaf2a8a00e2bc906a52cd.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "c8d8f93a10b72b95b0dc537f84d40606591dffa21d2cf689ac10d116e66bc41c90a32a20eaccfba9945a30c8bccc9b17ec0e9fbb178c16cbe4968c4768d70304",
+    "ts": 1793303959,
+    "v": 1
+   },
+   "filename": "sascar-site-20261030b.tar.gz",
+   "package": "site/sascar",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "registered-trademark marking (R) applied to all visible brand mentions",
+   "rttp_address": "rttp://a9854005.site.iqa",
+   "sha256": "a98540056cafaf2a8a00e2bc906a52cde9a31d78aee13cbbc4c62b3682e4c611",
+   "size": 37023,
+   "supersedes": "2026-10-30-myth-seal",
+   "tarball_sha256": "837fa45be87e41b64ed15ec4d81e780e5803a32e2117159cf9cf6515fabc9697",
+   "tarball_size": 416186,
+   "url": "https://sascar.com/seal/sascar-site-20261030b.tar.gz",
+   "version": "2026-10-30-myth-reseal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "713fe038f0422002",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://80d7015d1e853ab0ba215539b0353436.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "7781794c1eb06a0c98962aa538a441f08caf5c8121a7e525f823b37f046760ec8b1ab9e72583bad90769ea116dc12916d6b7d22bd99643933dd8b6a3992d1503",
+    "ts": 1793303960,
+    "v": 1
+   },
+   "filename": "picsi-site-20261030b.tar.gz",
+   "package": "site/picsi",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "registered-trademark marking (R) applied to all visible brand mentions",
+   "rttp_address": "rttp://80d7015d.site.iqa",
+   "sha256": "80d7015d1e853ab0ba215539b035343632087270ff2f51f16092cf425a822766",
+   "size": 37210,
+   "supersedes": "2026-10-30-myth-seal",
+   "tarball_sha256": "5091d6dae65b3ecca0581e1347706dcb74cd976ba4ff1c458a4d268eb2b72871",
+   "tarball_size": 416226,
+   "url": "https://picsi.com/seal/picsi-site-20261030b.tar.gz",
+   "version": "2026-10-30-myth-reseal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "21600290d41af143",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://fbd338d7601491259828d67be2c2ac4f.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "a0963c6c975c00dedbb4ca8d2baaa48e8c3af336dbcaf883da0ab0af87e3fa348bc01653f53e366ccf7cc86fb0b36c56f24c9f9c5f68d42246f487d130ce0a08",
+    "ts": 1793303960,
+    "v": 1
+   },
+   "filename": "maxcap-site-20261030b.tar.gz",
+   "package": "site/maxcap",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "registered-trademark marking (R) applied to all visible brand mentions",
+   "rttp_address": "rttp://fbd338d7.site.iqa",
+   "sha256": "fbd338d7601491259828d67be2c2ac4f43376476bfff7ae8fccd69926e26e8b4",
+   "size": 37486,
+   "supersedes": "2026-10-30-myth-seal",
+   "tarball_sha256": "1f8df899c4d43098bf73b889d042039c35ad7c5543e2a7eda142a9291c3fe8ac",
+   "tarball_size": 416298,
+   "url": "https://maxcap.com/seal/maxcap-site-20261030b.tar.gz",
+   "version": "2026-10-30-myth-reseal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "6706ae457543b94b",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://df51dfc9a9a2261e048cf77e375f652f.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "6649651a9f93a0ae678a104a53c71c13f8b585ef956007ed11160faca9219212d0e0c4968371bb2da0be69179236cee0bc4299b38aee1c3e07b3e0b0d886ef04",
+    "ts": 1793303960,
+    "v": 1
+   },
+   "filename": "bewho-site-20261030b.tar.gz",
+   "package": "site/bewho",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "registered-trademark marking (R) applied to all visible brand mentions",
+   "rttp_address": "rttp://df51dfc9.site.iqa",
+   "sha256": "df51dfc9a9a2261e048cf77e375f652f077907baa77b266cd617acbc03fd2667",
+   "size": 37056,
+   "supersedes": "2026-10-30-myth-seal",
+   "tarball_sha256": "bf6789147afb1a49e5a05b404fcacde1ac79ebda9eed29ecc6131f6549187656",
+   "tarball_size": 416170,
+   "url": "https://bewho.com/seal/bewho-site-20261030b.tar.gz",
+   "version": "2026-10-30-myth-reseal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "874a3af3ca549321",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://05bc46353f07888231fa1bb9eae66aaf.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "b49a4a5be8bb91cbd82c29af8aed24ba3b30d440ca0ac606f871f60e6995a4c1258d55202af237c8923cde826d701e9b9cb64a8ed10359113f8f84980f806d05",
+    "ts": 1793303960,
+    "v": 1
+   },
+   "filename": "epoekie-site-20261030c.tar.gz",
+   "package": "site/epoekie",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "registered-trademark marking (R) applied to all visible brand mentions",
+   "rttp_address": "rttp://05bc4635.site.iqa",
+   "sha256": "05bc46353f07888231fa1bb9eae66aafaf0a620d42ddbd7997f1fa1f87481cb7",
+   "size": 35335,
+   "supersedes": "2026-10-29-myth-seal",
+   "tarball_sha256": "a0d4b07e6bbb15b62e4fc1025deb0ef9a98b9f53ab061f28ed550469103acd37",
+   "tarball_size": 415889,
+   "url": "https://epoekie.com/seal/epoekie-site-20261030c.tar.gz",
+   "version": "2026-10-30-myth-reseal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "3a9c796c22a8c140",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://deb6eb857c280460680166ae4f8a095a.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "9c79edff835f6f9303dadb54f933d364f83360cbe54394194dffa77f7d24b8004d900c9af6ac571d08574426342cd3ae602c8dc7d03b4883cd3c3543b6179b05",
+    "ts": 1793367547,
+    "v": 1
+   },
+   "filename": "brief-site-20261030a.tar.gz",
+   "package": "site/brief",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://deb6eb85.site.iqa",
+   "sha256": "deb6eb857c280460680166ae4f8a095a5c3082b0505d267d75f096f7500fa11b",
+   "size": 93984,
+   "tarball_sha256": "6e126dc137b6e34f9d400934352635175b191e28fda6c66ccf4e969da10599b2",
+   "tarball_size": 24605,
+   "url": "https://iqa.org/seal/brief-site-20261030a.tar.gz",
+   "version": "2026-10-30-brief-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "197730adb45c393b",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://5cb6d21dd826bd03a795a87557fc0476.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "4128188a3578ac69eaf785c3fa28cd36b7a241ba94d553916f2ad93b44457d6804a25892333535c3091c824b141fa53fcfa5fb9675dc7bff4b015ae7dabb9701",
+    "ts": 1793459120,
+    "v": 1
+   },
+   "filename": "brief-site-20261031a.tar.gz",
+   "package": "site/brief",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://5cb6d21d.site.iqa",
+   "sha256": "5cb6d21dd826bd03a795a87557fc0476101869c3da66d54cb029ea7b19502291",
+   "size": 95361,
+   "supersedes": "2026-10-30-brief-seal",
+   "tarball_sha256": "da667ea161621c28cb7d933c6af603ac31d63cdf2c36456bdf131f0bbde96d7f",
+   "tarball_size": 24876,
+   "url": "https://iqa.org/seal/brief-site-20261031a.tar.gz",
+   "version": "2026-10-31-brief-reseal"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "77a226945ea2ccf5",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://02491c5a59d1e7471be04e8e0d4933df.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "f8562bc90806d4954ee827d10e46c8118606e14ce15a25a00717f6c03a3a22816505038911bc3d739dc3b7baa436ed55cfb982d5e953d13375e5d286fc228e04",
+    "ts": 1793535927,
+    "v": 1
+   },
+   "filename": "draft-li-rttp-iqa-addressing-02.txt",
+   "package": "draft-li-rttp-iqa-addressing",
+   "registry": "IETF",
+   "sha256": "02491c5a59d1e7471be04e8e0d4933dfc22ce19f9b054ead0aa449d6b4485044",
+   "size": 97594,
+   "url": "https://www.ietf.org/archive/id/draft-li-rttp-iqa-addressing-02.txt",
+   "version": "-02"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "9259756b1741479f",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://0821b86257155110a04d6fe2a7aaaeae.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "3912b9136ee8f3b57373639fc6b4f8b3573a5d8b5e811f67c80394c40227c2ff64e1da5d024121eb715cb6e368954a3c05c480a407a5dc2defbd5eb78dacec04",
+    "ts": 1793535927,
+    "v": 1
+   },
+   "filename": "draft-li-rttp-iqa-addressing-02.tar.gz",
+   "package": "draft-li-rttp-iqa-addressing",
+   "registry": "iqa.org",
+   "sha256": "0821b86257155110a04d6fe2a7aaaeae1209e49307f0aaccbbf78b3350344ab6",
+   "size": 100216,
+   "url": "https://iqa.org/downloads/files/draft-li-rttp-iqa-addressing-02.tar.gz",
+   "version": "2026-11-01-d02"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "7411402e70157547",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://81b07de54b839d93ffb422f5287dc391.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "0730205d9f5207b5ea10f2495fefe4b3608fe26878cdf85b0912aecc02495764bef783fa51430ceed19399e8a6577b4b54f3c2c05ac1c42e1c883f6e19e05b08",
+    "ts": 1793535927,
+    "v": 1
+   },
+   "filename": "brief-site-20261101a.tar.gz",
+   "package": "site/brief",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://81b07de5.site.iqa",
+   "sha256": "81b07de54b839d93ffb422f5287dc3913583b206dfd0e15a6646d87331ffb12f",
+   "size": 96626,
+   "supersedes": "2026-10-31-brief-reseal",
+   "tarball_sha256": "a9931b0731b1fb7c846bf9febe579099ee4f8a782d795f5e422eda738fc68505",
+   "tarball_size": 25089,
+   "url": "https://iqa.org/seal/brief-site-20261101a.tar.gz",
+   "version": "2026-11-01-brief-reseal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "1bf6aa48a2a9bb8a",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://1fe32f28aee6d4aecd7b429a28a21dd2.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "9e667df5add15eedbb55487222dd048289b1fe455fa24c8ef14c3a135b4bb321c92156fdc2e8a199e4417914cd02a56c68a53f6c2f6930b1efb500f8c5c9a90a",
+    "ts": 1793609998,
+    "v": 1
+   },
+   "filename": "rttp-URI-site-20261102a.tar.gz",
+   "package": "site/rttp-URI",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://1fe32f28.site.iqa",
+   "sha256": "1fe32f28aee6d4aecd7b429a28a21dd2a3109676f8ec043619f044bfdda32d54",
+   "size": 66470,
+   "tarball_sha256": "c6e9b41166ab379cd142de735091c3331c78e56b187aa655ea6347cdc8643c73",
+   "tarball_size": 17037,
+   "url": "https://rttp.com/seal/rttp-URI-site-20261102a.tar.gz",
+   "version": "2026-11-02-uri-freeze"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "e1dc5aae7a549bce",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://774f424ba6ec4ebd32ed028297a0c9c5.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "1079f086ada65149277a4b8d88625a39d4bd4a8f674c1b3d50f1525e22e8b8b0763a9c9137d2a602b5414c2111d3abad1549f26ea662ebb59c08475b4919e309",
+    "ts": 1793609998,
+    "v": 1
+   },
+   "filename": "iqa-URI-site-20261102a.tar.gz",
+   "package": "site/iqa-URI",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://774f424b.site.iqa",
+   "sha256": "774f424ba6ec4ebd32ed028297a0c9c5a34457ddec49cf770a4ba75612ebd69e",
+   "size": 60675,
+   "tarball_sha256": "e0c86af961cbb3840ddf8dc3311694e8018db73df2b3ba931d998228e45ff91f",
+   "tarball_size": 17467,
+   "url": "https://iqa.org/seal/iqa-URI-site-20261102a.tar.gz",
+   "version": "2026-11-02-uri-freeze"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "e97cb58a6c8d85fd",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://654fab2ec229cb89729c3f0a0aabf2c2.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "530f309da4c3268189753d981586c8b5074523f3a3847a6da7f8e923d356cfc6c98cdf7a3329285c6a44ef5a2aef0644be888cece5b58a6b151f463141156504",
+    "ts": 1793612894,
+    "v": 1
+   },
+   "filename": "rttp-URI-site-20261102b.tar.gz",
+   "package": "site/rttp-URI",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://654fab2e.site.iqa",
+   "sha256": "654fab2ec229cb89729c3f0a0aabf2c2697e2f66f29e632dee76b6eb52c27fe3",
+   "size": 66442,
+   "supersedes": "2026-11-02-uri-freeze",
+   "tarball_sha256": "82d0a709fd0f1d8cb37feac73c8bc81e08683a125fadc685aee9a1420397bbd8",
+   "tarball_size": 17029,
+   "url": "https://rttp.com/seal/rttp-URI-site-20261102b.tar.gz",
+   "version": "2026-11-02-footer-deroll"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "3bbbf7677b4600a2",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://7ceaf47ec46b9a9de0251f74363b463e.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "0085953146e432cf256ca93a56477904bebd2891652739f809607181430d6ba635ded4507440e2a98b64f78ed72ffd691460140aaf4dec9a606937716ee1fa09",
+    "ts": 1793612895,
+    "v": 1
+   },
+   "filename": "iqa-URI-site-20261102b.tar.gz",
+   "package": "site/iqa-URI",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://7ceaf47e.site.iqa",
+   "sha256": "7ceaf47ec46b9a9de0251f74363b463e63beff7f3b84ee77acf7d5a2f4f26612",
+   "size": 60647,
+   "supersedes": "2026-11-02-uri-freeze",
+   "tarball_sha256": "e4b3065219d182dcc64a94d49bad17c7a9c9943a450b44c0ef5f7e251b4deefe",
+   "tarball_size": 17459,
+   "url": "https://iqa.org/seal/iqa-URI-site-20261102b.tar.gz",
+   "version": "2026-11-02-footer-deroll"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "977be47a24d23a29",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://b58332775a5ac0c87379d7d170455a89.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "25d988ca36617cb9ce2aa3151b62d00420beed6cf2be635ab7db7a3a4d37f7bc20e5ad45482a89a6fb603ddf145e13e37792d47f1014ff2838e7e21f166d1500",
+    "ts": 1793612895,
+    "v": 1
+   },
+   "filename": "brief-site-20261102b.tar.gz",
+   "package": "site/brief",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://b5833277.site.iqa",
+   "sha256": "b58332775a5ac0c87379d7d170455a8903195b77fad708a5b269d697c3be2b7c",
+   "size": 96550,
+   "supersedes": "2026-11-01-brief-reseal",
+   "tarball_sha256": "61a7ce6f4f1486f83aa2636fc4d5b1decba1511ed4329e439fde2a6b9ac4503d",
+   "tarball_size": 25060,
+   "url": "https://iqa.org/seal/brief-site-20261102b.tar.gz",
+   "version": "2026-11-02-footer-deroll"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "ae2f841c12ccd82a",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://6a9ac2c4f20748825bb9cd71bb908e60.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "5083b3cdec5263b908a2342c78d5404a92d25c2fd10f65e8dea55a390e609808262ed07dfd77927d82458c81e18e5c5c54434c8f236fdad4ddcd3723fa54220a",
+    "ts": 1793614615,
+    "v": 1
+   },
+   "filename": "iqa-URI-site-20261102c.tar.gz",
+   "package": "site/iqa-URI",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://6a9ac2c4.site.iqa",
+   "sha256": "6a9ac2c4f20748825bb9cd71bb908e60e1abe0a8f6f7e2467a4918fe4511c122",
+   "size": 60677,
+   "supersedes": "2026-11-02-footer-deroll",
+   "tarball_sha256": "e371ffd018e52d0a5ef0e1f3df777d564c62674b3c66fc26d74b44872552c548",
+   "tarball_size": 17460,
+   "url": "https://iqa.org/seal/iqa-URI-site-20261102c.tar.gz",
+   "version": "2026-11-02-notwhen-align"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "4b9775f296f3dff7",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://9513cd4287e32141819fdb4587e4c066.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "42e7cc695ea33d98872f94c703cf96091a82b4caf14bfa3f4f8c2769b1f41bfafaeae84116668d648c534e17b4b0d76be781f2a650bf9a71fd05bfa75928f100",
+    "ts": 1793620895,
+    "v": 1
+   },
+   "filename": "whitepaper-site-20261102a.tar.gz",
+   "package": "site/whitepaper",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://9513cd42.site.iqa",
+   "sha256": "9513cd4287e32141819fdb4587e4c06684244a6f199eed1d81443b66caa3aa60",
+   "size": 93954,
+   "tarball_sha256": "04f2735e8235f61c1894dc67749e24e7988226ad48a617cee452f3bc08ccad56",
+   "tarball_size": 32117,
+   "url": "https://iqa.org/seal/whitepaper-site-20261102a.tar.gz",
+   "version": "2026-11-02-whitepaper-v07"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "f6135cce47c3cbec",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://5dd92d2729c90932768a408f39c0a9bb.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "a9703897e3de5c15868b56c6f2d8cf97806f9988f9296bb5541a3f2198e55c6e883420ad67d15963a43a22540ed43a3aca4ef286f8d06266160ec9969b68f207",
+    "ts": 1793726511,
+    "v": 1
+   },
+   "filename": "aae-runner-20261104a.tar.gz",
+   "package": "conformance/aae-runner",
+   "registry": "iqa.org",
+   "sha256": "5dd92d2729c90932768a408f39c0a9bb2767c8b9194d1a52b774dfaf56d85695",
+   "size": 54832,
+   "url": "https://iqa.org/conformance/files/aae-runner-20261104a.tar.gz",
+   "version": "2026-11-04-aae"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "a0f2e7c9511aaca4",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://7e7dfedb1e93ce65ba5bbcb48634c2d7.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "0a3ef5679c807df429b4b2de085a159a07688bb2a6780c28322b74446f2d0779977cb0da23faf1dd94c906cf6b5bdace470a32f25eb67ee8286bb061d3edfd0b",
+    "ts": 1793731271,
+    "v": 1
+   },
+   "filename": "lra-runner-site-20261104a.tar.gz",
+   "package": "site/lra-runner",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://7e7dfedb.site.iqa",
+   "sha256": "7e7dfedb1e93ce65ba5bbcb48634c2d776e9a4ca106bc54b203c94fbf68d33fe",
+   "size": 35662,
+   "tarball_sha256": "0d59c8f510c226165e9ae8252bb4b0d7b5b4f906f91481eff5cb39fa4bf5e18e",
+   "tarball_size": 10684,
+   "url": "https://iqa.org/seal/lra-runner-site-20261104a.tar.gz",
+   "version": "2026-11-04-conformance-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "050f5d31143d6203",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://c9d5c70d25b6df00882b17129f297453.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "06b55d502bff43bc645e77ad686f7c328461ad167d14ff4e1f881621eae1e7755b8705b88d5366605d081c897fc00a739e99da6cacae9fb5aa141565a8a5340a",
+    "ts": 1793731271,
+    "v": 1
+   },
+   "filename": "lra-runner-rev3-site-20261104a.tar.gz",
+   "package": "site/lra-runner-rev3",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://c9d5c70d.site.iqa",
+   "sha256": "c9d5c70d25b6df00882b17129f297453c12ff3b8cae5f689be56d6d69cbea663",
+   "size": 40836,
+   "tarball_sha256": "0a3111e4ae4e4f3c3867c464156e6e5e420072dea37f82c55f5fc427107d544c",
+   "tarball_size": 11757,
+   "url": "https://iqa.org/seal/lra-runner-rev3-site-20261104a.tar.gz",
+   "version": "2026-11-04-conformance-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "00e712000d5083ec",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://0fc37b2af4288486f9b50f054b35a5d9.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "1b723511c82b86f7be140f584f623a3935165bef2b8bd3b833ecc6fdf3220fea490a4842fd00bcd653d7bbf77fb563374cbaa7714203ff565f35d17d52c9a70d",
+    "ts": 1793731271,
+    "v": 1
+   },
+   "filename": "aae-runner-site-20261104a.tar.gz",
+   "package": "site/aae-runner",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://0fc37b2a.site.iqa",
+   "sha256": "0fc37b2af4288486f9b50f054b35a5d925e9632ad76b5b688226921092b5dd89",
+   "size": 46966,
+   "tarball_sha256": "d25a4310c9e7df5a2fa3826849e62f27b56954c6c962c25b42a2087032509410",
+   "tarball_size": 13319,
+   "url": "https://iqa.org/seal/aae-runner-site-20261104a.tar.gz",
+   "version": "2026-11-04-conformance-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "88d61300f7d23773",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://4f596971f0ca4e9c2991649973df78fe.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "1ab714c20e73432f7244229d1018d63871a7371c173b8aca5bbc35d58ce44c0f0fb46199f6c001a77e8efa20117ccb9f18a17420bdfc028d4941a6b932002605",
+    "ts": 1793731271,
+    "v": 1
+   },
+   "filename": "aicent-grant-ref-site-20261104a.tar.gz",
+   "package": "site/aicent-grant-ref",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://4f596971.site.iqa",
+   "sha256": "4f596971f0ca4e9c2991649973df78fea89e2cc7ca2d4f156178f8015ed99a56",
+   "size": 14257,
+   "tarball_sha256": "d757466b6ae47ea15ca4f7a12b2111a01766869bb8f30b8528d59e38c31a18a7",
+   "tarball_size": 5916,
+   "url": "https://iqa.org/seal/aicent-grant-ref-site-20261104a.tar.gz",
+   "version": "2026-11-04-conformance-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "e3e1c33864533a8f",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://88b70c16e4e52e4e43123e6fc0647132.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "c3bc42d0f2b1ef2afe8a4444917405e5a18a950f8d768b5d8187277547e3d2fc0674bd090d2ce23409c218b66b5450ddcef68962d3c279d07294c3cfa92cfa09",
+    "ts": 1793731271,
+    "v": 1
+   },
+   "filename": "aicent-lease-boundary-site-20261104a.tar.gz",
+   "package": "site/aicent-lease-boundary",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://88b70c16.site.iqa",
+   "sha256": "88b70c16e4e52e4e43123e6fc06471320148cef3e222cf6b821aa9b5a2f6e836",
+   "size": 14605,
+   "tarball_sha256": "fc67e35540d55f7271b33f68877b2db3095f0090722f151ca502ff0961305d98",
+   "tarball_size": 6041,
+   "url": "https://iqa.org/seal/aicent-lease-boundary-site-20261104a.tar.gz",
+   "version": "2026-11-04-conformance-seal"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "34f46b7000561c64",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://54a09c5eaa5beed2f95cb0a9ab05ddc2.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "04cdebea735d996b0ad9c46ceddf91ef7fc034f92b798c43f449d0cfa6c22ef630ffa2bb840dd83342ef0bb3fc00f9e88c06f5eff401d18162694c0226731b07",
+    "ts": 1793732135,
+    "v": 1
+   },
+   "filename": "dogfood-audit-20261104a.tar.gz",
+   "package": "audit/dogfood-registry",
+   "registry": "iqa.org",
+   "sha256": "54a09c5eaa5beed2f95cb0a9ab05ddc23e9e3511c243be8c5de0f7ab0475d493",
+   "size": 17485,
+   "url": "https://iqa.org/seal/dogfood-audit-20261104a.tar.gz",
+   "version": "2026-11-04-audit"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "7c5330212f423055",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://0725dd4f7db8165e897814976fc65380.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "7c87d8cf6799dfe21d1237b8143e1ef41218b85a16d9ff6d7b2cc5754a4be324ac90a23ab0b87b9476568272bcf0a365128be8e3d14606c2a2de3c07365cea0d",
+    "ts": 1793733707,
+    "v": 1
+   },
+   "filename": "brief-site-20261104a.tar.gz",
+   "package": "site/brief",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://0725dd4f.site.iqa",
+   "sha256": "0725dd4f7db8165e897814976fc65380f9e1f680c36b7dbbd2919402039806ba",
+   "size": 103447,
+   "tarball_sha256": "114bb3e58df8f20f629250f89d43bf947e791602b97e6e3ae86911aa1dc11676",
+   "tarball_size": 26542,
+   "url": "https://iqa.org/seal/brief-site-20261104a.tar.gz",
+   "version": "2026-11-04-brief-reseal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "3142fb7084d15fbb",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://8717841f615d4c2af4a1038f091a3565.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "a7a77003385c6149d74048579fb7b114f07ede0e5077d3bb00841edbc43c47faa9db0b65662901ef0e0d478c1e7f5e70315bea11157a0e6c4c83f0c6a08d5605",
+    "ts": 1793818582,
+    "v": 1
+   },
+   "filename": "brief-site-20261105a.tar.gz",
+   "package": "site/brief",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://8717841f.site.iqa",
+   "sha256": "8717841f615d4c2af4a1038f091a3565ac83ec48023bd858e08e5b054b2ecc81",
+   "size": 105628,
+   "supersedes": "2026-11-04-brief-reseal",
+   "tarball_sha256": "963a2cac8f6fb732697ee589e34aa83a734c720ea94a960f18d79873a6fc436a",
+   "tarball_size": 27121,
+   "url": "https://iqa.org/seal/brief-site-20261105a.tar.gz",
+   "version": "2026-11-05-brief-reseal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "e4ed4c1231af4b3f",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://269cdae4a4522cc7a5a3a5278f3e9016.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "f80dcb5597d0b96b0c25496e67c610396bcb2a175093589dd3bb9d34967e5914c35fed9c460e0e824955eda668b7944ffa635cd2400b2a9b1518cb150bb91303",
+    "ts": 1793822699,
+    "v": 1
+   },
+   "filename": "brief-site-20261105b.tar.gz",
+   "package": "site/brief",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://269cdae4.site.iqa",
+   "sha256": "269cdae4a4522cc7a5a3a5278f3e9016d6fc311b1c5de82509a24057a4ff65a6",
+   "size": 106698,
+   "supersedes": "2026-11-05-brief-reseal",
+   "tarball_sha256": "22ce2c9ca40114a5d4d3c47d703247606327a7f38394cfdfad8bfb317f16cfe5",
+   "tarball_size": 27300,
+   "url": "https://iqa.org/seal/brief-site-20261105b.tar.gz",
+   "version": "2026-11-05b-brief-reseal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "0767276f354ced83",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://032504ab8cf0f5c1877bea0dd177b200.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "4045bc8fda3841fbb13b0e5c2ba0894c12187c460d7b4d5e19625c17de13e94e43e2bda954a8a3ce87a3522d124ce927654942c743a4f5b5024103cd11a94300",
+    "ts": 1793998527,
+    "v": 1
+   },
+   "filename": "azuli-site-20261107a.tar.gz",
+   "package": "site/azuli",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://032504ab.site.iqa",
+   "sha256": "032504ab8cf0f5c1877bea0dd177b2007294bbab02569866cf694c3dbdc821d7",
+   "size": 32680,
+   "tarball_sha256": "e961043c9369d01c638088921927f8cca85128985250674c38fcf5d344af1ee6",
+   "tarball_size": 396630,
+   "url": "https://azuli.com/seal/azuli-site-20261107a.tar.gz",
+   "version": "2026-11-07-lab-door-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "2f9815b156f8684e",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://667016d1a4ead1c3cc568fbb9ea84e00.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "6390c991488d8134508ca3e833748a60a9ee074cb87dae6d643268ef29241f7986907b89ded1be5e7a673d6a630051f7724f728e32de112de5adc15ed008400c",
+    "ts": 1793999526,
+    "v": 1
+   },
+   "filename": "azuli-site-20261107b.tar.gz",
+   "package": "site/azuli",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "hero composition enriched (wax seal mark, lapis horizon glow, address chips) - visual only, zero wording changes outside the hero",
+   "rttp_address": "rttp://667016d1.site.iqa",
+   "sha256": "667016d1a4ead1c3cc568fbb9ea84e00515429fc9d61fde6d7d4c599531fd50b",
+   "size": 34983,
+   "supersedes": "2026-11-07-lab-door-seal",
+   "tarball_sha256": "1209e5a238ef3d86c1a008ac6ca46a60944a171eb62dcbfe123dcfe074c01f69",
+   "tarball_size": 397086,
+   "url": "https://azuli.com/seal/azuli-site-20261107b.tar.gz",
+   "version": "2026-11-07-lab-door-reseal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "fd97e3a1cafdde8b",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://401b6be2418d1dbedea75a691e67b58b.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "f0d22e8b9f747f16c6fa6a24f62237ea620b89ee765e259ebc5e938624f5942bbb1a876349fd10e4bc02becc4d3b5fad7fd41e6ff3acbf9429a1b0a7153f6a06",
+    "ts": 1794044237,
+    "v": 1
+   },
+   "filename": "azuli-site-20261107c.tar.gz",
+   "package": "site/azuli",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "third-party independence cut: 16-family footer link block, member-site claim, Aicent social icons and blog.aicent.com bare link removed; title/meta switched to Independent Conformance Registry wording - registry functions (family pages, runner repo links, replay) retained verbatim",
+   "rttp_address": "rttp://401b6be2.site.iqa",
+   "sha256": "401b6be2418d1dbedea75a691e67b58b9f8621c1395b0e03c67c73e0a03b85fa",
+   "size": 31517,
+   "supersedes": "2026-11-07-lab-door-reseal",
+   "tarball_sha256": "ef8e3730ef02fc23d93738b7bcac8df3925819f283e9b474ab1fc6cf0e055399",
+   "tarball_size": 395926,
+   "url": "https://azuli.com/seal/azuli-site-20261107c.tar.gz",
+   "version": "2026-11-07-third-party-cut"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "0abd272f6f22ccbf",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://4a4f1f76171b059dfacc7bdd0cf32b28.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "0dda8feb57d7414a85f84570e689a4f07505afd981e5e91a272917c3b7b4339888f9cad2621b6f9442cd78e57c9651b88ab9cd4ad3932224682ead57c8feed05",
+    "ts": 1794044684,
+    "v": 1
+   },
+   "filename": "azuli-site-20261107d.tar.gz",
+   "package": "site/azuli",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "footer contact added: info@azuli.com mailto link on the copyright row - one line, zero other changes",
+   "rttp_address": "rttp://4a4f1f76.site.iqa",
+   "sha256": "4a4f1f76171b059dfacc7bdd0cf32b28dee160fcb2362c0da66b5ba93e8aa725",
+   "size": 31586,
+   "supersedes": "2026-11-07-third-party-cut",
+   "tarball_sha256": "bad4b602f75c224531f10092907979a3bd015a004d862dee1c2b117a79785881",
+   "tarball_size": 395967,
+   "url": "https://azuli.com/seal/azuli-site-20261107d.tar.gz",
+   "version": "2026-11-07-contact-line"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "4f5a3c283925d8d6",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://dfcf8eb3d07064b47c46ec2df0965c4b.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "aac0318b9fc840705f94ecf33b89d3aa915d5734d3f36e20255e446df9879cba2a9196ee04ef10457aedffed88ad02543a012953dde62a2a7b8e0667e6eb4809",
+    "ts": 1794072773,
+    "v": 1
+   },
+   "filename": "brief-site-20261108a.tar.gz",
+   "package": "site/brief",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://dfcf8eb3.site.iqa",
+   "sha256": "dfcf8eb3d07064b47c46ec2df0965c4b5e020c134d64d77681b99184baa3678b",
+   "size": 110325,
+   "supersedes": "2026-11-05b-brief-reseal",
+   "tarball_sha256": "54693ae98f6c233217ef551d7e75a39f357ca1abb97f496d2b0b9a925a576dde",
+   "tarball_size": 28157,
+   "url": "https://iqa.org/seal/brief-site-20261108a.tar.gz",
+   "version": "2026-11-08-brief-reseal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "1aa922b8432ee12f",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://2eb57010b2e7fae0a27411bfaa3fd402.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "23c72b92c99207d83f7bad1817dcd9ca32d236400f585e521c0117ab9f43c8b2f972be8cf8d7695f538d007996e76ed3960b88629493caa7a23bff9d594f970f",
+    "ts": 1794077644,
+    "v": 1
+   },
+   "filename": "aicent-grant-ref-site-20261108a.tar.gz",
+   "package": "site/aicent-grant-ref",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://2eb57010.site.iqa",
+   "sha256": "2eb57010b2e7fae0a27411bfaa3fd40251ebb60e2ce226a359ce6c1ea64d64a3",
+   "size": 14537,
+   "supersedes": "2026-11-04-conformance-seal",
+   "tarball_sha256": "58489bc3f1b2c0a1fbc9d535a30540f85a0f1168370e88d84615aaddc12d8dd8",
+   "tarball_size": 6022,
+   "url": "https://iqa.org/seal/aicent-grant-ref-site-20261108a.tar.gz",
+   "version": "2026-11-08-family-suite-ref"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "b423f450a43e6010",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://4947ec8d27806ee286a927fb9341531f.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "b0c9a5dd580bd3fc76cdff01194496ee175a44c63ada793ad472853abb0648c30691216428688236b6d2475e9cc55415ab5429a6d917a1305ed7a882b16bf605",
+    "ts": 1794077644,
+    "v": 1
+   },
+   "filename": "aicent-lease-boundary-site-20261108a.tar.gz",
+   "package": "site/aicent-lease-boundary",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://4947ec8d.site.iqa",
+   "sha256": "4947ec8d27806ee286a927fb9341531f7d8a6523e15874b72042597d4076786f",
+   "size": 14885,
+   "supersedes": "2026-11-04-conformance-seal",
+   "tarball_sha256": "e130d70ee6e115298da0332caa1368b4a09413b9cb96182fb9d04867d5024697",
+   "tarball_size": 6158,
+   "url": "https://iqa.org/seal/aicent-lease-boundary-site-20261108a.tar.gz",
+   "version": "2026-11-08-family-suite-ref"
+  },
+  {
+   "artifact_kind": "sealed-run",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "8a5d65424b02abd9",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://698dfa08223565fd1424984f894ddd7d.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "aac491c2d968ff2199902a69fe8f9e8651d7568018f3db2b17684ec926750aa4d839153c22c85cd596cdf6537151691f94855e978809832ef35a4843ba50550a",
+    "ts": 1794079652,
+    "v": 1
+   },
+   "filename": "icam-runner-20261108a.tar.gz",
+   "package": "conformance/icam-runner",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://698dfa08.conformance.iqa",
+   "sha256": "698dfa08223565fd1424984f894ddd7d000a456ed18877c5023f86dc166630e2",
+   "size": 11996,
+   "url": "https://iqa.org/conformance/files/icam-runner-20261108a.tar.gz",
+   "version": "2026-11-08-icam-run"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "f1f0333eb62b01ed",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://a33d12fdc86b78f071fdd3f79895397c.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "57485e0dfa94fe3857a732c9f9f7684466b903e2e40e7250b6b5f5125a1e5598527089f7366bb371a81760c6f7d8542c6d2afa118d81f633c3ddac88d66a1909",
+    "ts": 1794079861,
+    "v": 1
+   },
+   "filename": "aicent-lease-boundary-site-20261108b.tar.gz",
+   "package": "site/aicent-lease-boundary",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://a33d12fd.site.iqa",
+   "sha256": "a33d12fdc86b78f071fdd3f79895397cf553b56245acf4ab78f6b25f5954a644",
+   "size": 15252,
+   "supersedes": "2026-11-08-family-suite-ref",
+   "tarball_sha256": "ff0c39a96eeaba05f4f1d6d80341b97dd0341e730d0d7b1f32412bfcf269d7c3",
+   "tarball_size": 6283,
+   "url": "https://iqa.org/seal/aicent-lease-boundary-site-20261108b.tar.gz",
+   "version": "2026-11-08-icam-run-note"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "a8baf631be31b855",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://0ee64d89686845fdb34db0a500542d65.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "55f3a53408030a3d85b00d7237ac5d079779f5308c984035ddcea8f79a148bae6452a5f25fe3d6df98c895aa2f465089e45bea6c9db8013c4cf2726c7184e004",
+    "ts": 1794079861,
+    "v": 1
+   },
+   "filename": "brief-site-20261108b.tar.gz",
+   "package": "site/brief",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://0ee64d89.site.iqa",
+   "sha256": "0ee64d89686845fdb34db0a500542d652c81ac931196a2f26923392da9136fb1",
+   "size": 111251,
+   "supersedes": "2026-11-08-brief-reseal",
+   "tarball_sha256": "5122d38dbca88f1f5bee912985f273ea50b72f961b3fc3d28932dc5438aa4ada",
+   "tarball_size": 28318,
+   "url": "https://iqa.org/seal/brief-site-20261108b.tar.gz",
+   "version": "2026-11-08-icam-run-reseal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "029a9e7409778949",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://6bb8ebe48b24493c1761d7e84de27749.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "1d9b0a97ec5bd8263b9f13f59e437bcc446cbcb2f17579633852b607b396b1873c60af648dfd88638795ed1e8413f0ba1eed3f2ecceeacb94d7c759bfe5c810f",
+    "ts": 1794080671,
+    "v": 1
+   },
+   "filename": "icam-runner-site-20261108a.tar.gz",
+   "package": "site/icam-runner",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://6bb8ebe4.site.iqa",
+   "sha256": "6bb8ebe48b24493c1761d7e84de277492cfdbf8e2ae2a462cee8bc8d6c161256",
+   "size": 36388,
+   "tarball_sha256": "e49451f399cb2be005eea9edab1e6b083e06a92642f2e21043bd24917d096720",
+   "tarball_size": 10708,
+   "url": "https://iqa.org/seal/icam-runner-site-20261108a.tar.gz",
+   "version": "2026-11-08-conformance-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "6983a548fdc50f14",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://acbe244e9247f247ebf8bd8b040e7fa4.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "e464c1caa896077989489c4059969c8aa66bfae02ac05a4d7cb997b7623c5683b4c27dbae0131c86cbd7d3ebc689044caa4ac5a92b539c09f466c4fd25c00d0f",
+    "ts": 1794086801,
+    "v": 1
+   },
+   "filename": "icam-runner-site-20261108b.tar.gz",
+   "package": "site/icam-runner",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://acbe244e.site.iqa",
+   "sha256": "acbe244e9247f247ebf8bd8b040e7fa4fc46f7cfaac39014bd1bb6bedbe13a20",
+   "size": 36508,
+   "supersedes": "2026-11-08-conformance-seal",
+   "tarball_sha256": "dfa666cd5f00c06de1ff53b0095ab154842f91eec1e1fb9f51eb8e5c3372cfda",
+   "tarball_size": 10750,
+   "url": "https://iqa.org/seal/icam-runner-site-20261108b.tar.gz",
+   "version": "2026-11-08-mobile-fix-reseal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "c99a19b291f76aa3",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://2b286c10997610ca06e817d6fe14976b.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "94c4f1080daa2073ca742b559c0aa35c9195a1687c55650f31def35da772c9822a1cc64a10a8c25fe287c8ae688d46436b0e3725a6f9e75d408760318975a800",
+    "ts": 1794088519,
+    "v": 1
+   },
+   "filename": "icam-runner-site-20261108c.tar.gz",
+   "package": "site/icam-runner",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://2b286c10.site.iqa",
+   "sha256": "2b286c10997610ca06e817d6fe14976bfd6401b0c62c9a2713e59a3a354f0b75",
+   "size": 37144,
+   "supersedes": "2026-11-08-mobile-fix-reseal",
+   "tarball_sha256": "d105b5f7ee9a90ac41a5acda17684c83930286e3de76a1f981bb8b0758ebe763",
+   "tarball_size": 10970,
+   "url": "https://iqa.org/seal/icam-runner-site-20261108c.tar.gz",
+   "version": "2026-11-08-label-reseal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "c99a19b291f76aa3",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://2b286c10997610ca06e817d6fe14976b.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "94c4f1080daa2073ca742b559c0aa35c9195a1687c55650f31def35da772c9822a1cc64a10a8c25fe287c8ae688d46436b0e3725a6f9e75d408760318975a800",
+    "ts": 1794088519,
+    "v": 1
+   },
+   "filename": "icam-runner-site-20261108d.tar.gz",
+   "note": "SEAL display block re-seated before </body> (was mis-inserted inside <style> by label-reseal stale-index bug); page digest P and envelope unchanged by design",
+   "package": "site/icam-runner",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://2b286c10.site.iqa",
+   "sha256": "2b286c10997610ca06e817d6fe14976bfd6401b0c62c9a2713e59a3a354f0b75",
+   "size": 37145,
+   "supersedes": "2026-11-08-label-reseal",
+   "tarball_sha256": "58bf1917df988d0c18dfaca1aacbe84f95c8624f0acb135673b4b4a46ed96906",
+   "tarball_size": 10969,
+   "url": "https://iqa.org/seal/icam-runner-site-20261108d.tar.gz",
+   "version": "2026-11-08-strip-position-fix"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "00471b8abe31d40b",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://5bdca395a614b28185fef0dcb53caa85.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "2cd6d6f32cf27b5507ade11fd518300bd71f47856f24c9d7ac4ecc84bb7ac069fe75aa80b7281ff38d99d2d84a56bb042472638c0a272b323b85e7c1c8aedd07",
+    "ts": 1794144529,
+    "v": 1
+   },
+   "filename": "azuli-site-20261108a.tar.gz",
+   "package": "site/azuli",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "public brand + operator disclosure per owner ruling: title/og Independent Conformance Registry -> Open Verification Registry; meta/og/footer now state operated by the RTTP & IQA Organization; footer copyright AZULI -> AZULI.COM with Code & records link; operator disclosure block added before footer; recorded runner pages shelf line added (lra rev3 / aae / icam) - five independent-registry overclaims retired, honest operator attribution in",
+   "rttp_address": "rttp://5bdca395.site.iqa",
+   "sha256": "5bdca395a614b28185fef0dcb53caa855a82ff49f25eb480940d4b7172abe5f7",
+   "size": 33154,
+   "supersedes": "2026-11-07-contact-line",
+   "tarball_sha256": "8ee5c7495369a057d9ac44caf0874e2f03047b507ad9bbfd2b35d73674ceeafd",
+   "tarball_size": 396338,
+   "url": "https://azuli.com/seal/azuli-site-20261108a.tar.gz",
+   "version": "2026-11-08-public-brand"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "37fadabd2e75213b",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://5876f646bd8534afa95586d465cc5c0d.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "77d4acb6936cb5c2788b6f03e2fe9fd4707272776b866d3b7cb07f948079a747cd02155c11547035c297796c2e0434715b9a94e3e4f71f04e3fb19aeb2e97608",
+    "ts": 1794149618,
+    "v": 1
+   },
+   "filename": "factsheet-site-20261108a.tar.gz",
+   "package": "site/factsheet",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "first seal of the funding-route fact sheet: 12-section inventory with External evidence ledger (13 closed-loop items), facts verified 2026-11-08",
+   "rttp_address": "rttp://5876f646.site.iqa",
+   "sha256": "5876f646bd8534afa95586d465cc5c0dd755cf7a15ab1fcc5c559235b0e758d3",
+   "size": 31321,
+   "tarball_sha256": "9bb07935d518f9a0a44f75b1e9ab20abd89e0d029be689ef304250877d462f5a",
+   "tarball_size": 10547,
+   "url": "https://iqa.org/seal/factsheet-site-20261108a.tar.gz",
+   "version": "2026-11-08-factsheet-seal"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "7f951d4bd7605a0f",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://02a9df96da99332a6f143aca66cd626f.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "098cf955042333590953bffe37fa19486f03a40ea84e433add3e439304d21498708049c59fb550b1129dfaa1c833eb376bf86f7723bd201bf01352a3b95c9205",
+    "ts": 1794175033,
+    "v": 1
+   },
+   "filename": "iqa-URI-site-20261109a.tar.gz",
+   "package": "site/iqa-URI",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "V1.3.2 release wave: package pins and self-test references updated to 1.3.2; frozen snapshot links and normative text unchanged",
+   "rttp_address": "rttp://02a9df96.site.iqa",
+   "sha256": "02a9df96da99332a6f143aca66cd626ff1c216786938f9e13b9f0f431db0c7a7",
+   "size": 60721,
+   "supersedes": "2026-11-02-notwhen-align",
+   "tarball_sha256": "60a3703a6fef06e8dc00902b2e15fd652cb2f1fb41a77a5d7b07a687a8564626",
+   "tarball_size": 17468,
+   "url": "https://iqa.org/seal/iqa-URI-site-20261109a.tar.gz",
+   "version": "2026-11-09-v132-release"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "3aa3701a9f5848f5",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://205c354daee7f16c426873d714725e1d.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "c1ca2364af6c89ef25eafff28ff8c092f184d013fa767ab3b532da6b19e0841d6d3eabbba11d3d2f36aa209d8e9fee15ffb8f8e5a768807c3b7d872a564fdd07",
+    "ts": 1794175034,
+    "v": 1
+   },
+   "filename": "rttp-URI-site-20261109a.tar.gz",
+   "package": "site/rttp-URI",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "V1.3.2 release wave: package pins and self-test references updated to 1.3.2; frozen snapshot links and normative text unchanged",
+   "rttp_address": "rttp://205c354d.site.iqa",
+   "sha256": "205c354daee7f16c426873d714725e1db059b86f135ea9b79ce84142a2523d60",
+   "size": 66732,
+   "supersedes": "2026-11-02-footer-deroll",
+   "tarball_sha256": "b2952f1dfa440e5c80c9e842a7636d2f0fad353cf7e3fde74d504507e6dff56d",
+   "tarball_size": 17032,
+   "url": "https://rttp.com/seal/rttp-URI-site-20261109a.tar.gz",
+   "version": "2026-11-09-v132-release"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "e4e93e2d3a4a9835",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://6af79c7dfe973dc3fc7cc32bb9fa336a.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "2403b2d9f6766b1fa75abd17afa4f6785343870f94634ccbd15bc1066a8ba774d270b6882313c691febd0ab69aa295de370047a7ec871d5542f5c21818565f0f",
+    "ts": 1794175034,
+    "v": 1
+   },
+   "filename": "whitepaper-site-20261109a.tar.gz",
+   "package": "site/whitepaper",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "V1.3.2 release wave: live package version references updated to 1.3.2; historical statements and dated ledger untouched",
+   "rttp_address": "rttp://6af79c7d.site.iqa",
+   "sha256": "6af79c7dfe973dc3fc7cc32bb9fa336a257a84a72df11e58a20830de6772ec23",
+   "size": 93954,
+   "supersedes": "2026-11-02-whitepaper-v07",
+   "tarball_sha256": "649f7cc1c2637a46b1d38d6bdef56ff9ebfc8b8988744792b1a88b2d167d94ab",
+   "tarball_size": 32110,
+   "url": "https://iqa.org/seal/whitepaper-site-20261109a.tar.gz",
+   "version": "2026-11-09-v132-release"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "30a85f9d8c01c7aa",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://665145dfb79710c670efa43728b40e70.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "f3a8d9552799766a2a31cabc10dd3b9e90783238885c0e873c211e6ae05dc3f68b9bd128f4650483947b53c7333123de937438a11146e4b5063c3b366d307902",
+    "ts": 1794175034,
+    "v": 1
+   },
+   "filename": "factsheet-site-20261109a.tar.gz",
+   "package": "site/factsheet",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "V1.3.2 release wave: vectors sha256/size pins updated to 1.3.2 values (8640e390.../13,874 bytes), self-test counts unchanged",
+   "rttp_address": "rttp://665145df.site.iqa",
+   "sha256": "665145dfb79710c670efa43728b40e706178527dfeb4107c8f18ed774470d8ff",
+   "size": 31328,
+   "supersedes": "2026-11-08-factsheet-seal",
+   "tarball_sha256": "bbec44d9b3503140b651605a8047eda845bb935116ff11cff79cc92fbb3a889b",
+   "tarball_size": 10541,
+   "url": "https://iqa.org/seal/factsheet-site-20261109a.tar.gz",
+   "version": "2026-11-09-v132-release"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "7b7fcf5a2f97f446",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://50bedf4ae03f8ef9ce0dfc1ddc156642.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "ea2005d3aebc04d731faf5df6cf3bd3d04546ed5ead3c9f85444c86a67c1aabf6cf324caa485771fdde7fa9a44cd8a06285788ab016e879cd79f727fe218730a",
+    "ts": 1794175034,
+    "v": 1
+   },
+   "filename": "brief-site-20261109a.tar.gz",
+   "package": "site/brief",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "V1.3.2 release wave: single top entry appended to the Public record (vector re-anchoring release); all earlier records byte-untouched",
+   "rttp_address": "rttp://50bedf4a.site.iqa",
+   "sha256": "50bedf4ae03f8ef9ce0dfc1ddc156642f369323b79f3a1919b382fb266dfb577",
+   "size": 112350,
+   "supersedes": "2026-11-08-icam-run-reseal",
+   "tarball_sha256": "88da422d9a98ed89258c4007f7ccf7f32271f96a95b12ad790ba73cc7c6227b6",
+   "tarball_size": 28561,
+   "url": "https://iqa.org/seal/brief-site-20261109a.tar.gz",
+   "version": "2026-11-09-v132-release"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "e7ef6e21cc6f4371",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://e89cd8f6de09b938ede2f3d3227f642b.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "effd92963e98d9811583ffeadab7e309fc1e97f47a8e858a4c46cfecf700342b848db5b22bb23218f069b862681b18f8d3c5d4881bc54dd3e5a38d91625c1d0d",
+    "ts": 1794175034,
+    "v": 1
+   },
+   "filename": "rttp-1.3.2-py3-none-any.whl",
+   "package": "rttp",
+   "registry": "PyPI",
+   "sha256": "e89cd8f6de09b938ede2f3d3227f642b73213ac28b2cccf6aae6598be657bac4",
+   "size": 35754,
+   "url": "https://files.pythonhosted.org/packages/a7/da/361025825b7d67e24c886bfa7a752a5eb802f043710d7d55f5a4da098cd9/rttp-1.3.2-py3-none-any.whl",
+   "version": "1.3.2"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "a6dc8bfbc494b7d8",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://d79ddbc8ad4811a8fe274b16888f4d36.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "65a2493c7828367ad0b9dd93f96bff4cb25a30e6741e8115860b56114bbb9ac196169711c7d4ff806a5d82abdbfd1f3e47c481389cee01bafe42425383ddec0e",
+    "ts": 1794175034,
+    "v": 1
+   },
+   "filename": "iqa_org-1.3.2-py3-none-any.whl",
+   "package": "iqa-org",
+   "registry": "PyPI",
+   "sha256": "d79ddbc8ad4811a8fe274b16888f4d36e5f58c0c76a11c16c17d048f48d4179e",
+   "size": 38213,
+   "url": "https://files.pythonhosted.org/packages/65/43/92ffa625304009a99b7d4ffc9c594b3fed50277fff41e1da8e05e1d8e831/iqa_org-1.3.2-py3-none-any.whl",
+   "version": "1.3.2"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "d66fe4b3b2c4ae70",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://50a537c119287ac002999a5df8e8d160.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "33a753acfae1034464dde5ed64fab32421911a1beb5419fc09d5751b8dcf69943de3493b3e4d3072aae9322cca990d96f080aba35fe04ab55ab47a83bf823101",
+    "ts": 1794175034,
+    "v": 1
+   },
+   "filename": "rttp-1.3.2.tgz",
+   "package": "@aicent/rttp",
+   "registry": "npm",
+   "sha256": "50a537c119287ac002999a5df8e8d160de46e1e2e5764baa8dfea0124e68f2c1",
+   "size": 21052,
+   "url": "https://registry.npmjs.org/@aicent/rttp/-/rttp-1.3.2.tgz",
+   "version": "1.3.2"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "8bd813d1b1aa1320",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://a2d8cda0cc6491f58eb65420bfcace2c.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "72b472d6d3f422bcf7ca1cd5efba02d84742d384f531ae1710562cf25b20e041e53634f692fdd814c6cfbe52298f726cb82edea4ab47234e21656592983a1e0c",
+    "ts": 1794175034,
+    "v": 1
+   },
+   "filename": "iqa-1.3.2.tgz",
+   "package": "@aicent/iqa",
+   "registry": "npm",
+   "sha256": "a2d8cda0cc6491f58eb65420bfcace2c6ed60d7a3ea394539166b20477d7ee8e",
+   "size": 23273,
+   "url": "https://registry.npmjs.org/@aicent/iqa/-/iqa-1.3.2.tgz",
+   "version": "1.3.2"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "76351a1ee44c7175",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://ba7b25a67a5b02ec8a02face38c0a687.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "ae352ce2225fcf4e00fd53dfce3bcd67a31980b8a8543247ad77274d84d46d59716d38efdb25c93a7ea3290062a19415849ab0d04de00aac449ea1845291970e",
+    "ts": 1794175034,
+    "v": 1
+   },
+   "filename": "rttp-1.3.2.crate",
+   "package": "rttp",
+   "registry": "crates.io",
+   "sha256": "ba7b25a67a5b02ec8a02face38c0a687467e0ae6307e6775f27beb6a0aa5d7ac",
+   "size": 31869,
+   "url": "https://crates.io/api/v1/crates/rttp/1.3.2/download",
+   "version": "1.3.2"
+  },
+  {
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "c6a561691e469416",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://fcd2357a0d7e0d12cb7508ea14b474a2.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "2dfb9d480524ad234bdbef586193eb747b7b986cbdc6c3e413f4cfe60baccd4d537dd45e5bb5ce9f718a7857b5b5be7e937b58f91a547755e0889dd52150450b",
+    "ts": 1794175034,
+    "v": 1
+   },
+   "filename": "iqa-org-1.3.2.crate",
+   "package": "iqa-org",
+   "registry": "crates.io",
+   "sha256": "fcd2357a0d7e0d12cb7508ea14b474a28c6ca74b788d9d341947ee3a3c58941e",
+   "size": 35131,
+   "url": "https://crates.io/api/v1/crates/iqa-org/1.3.2/download",
+   "version": "1.3.2"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "4edce3d01453987d",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://3bef0cecccf0fe585a2331d567ba9435.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "d30aff3000443f37c76f980da0d606645ee573518a80c6f5a0011340b932692afb77ca2ad6fd12c1955950a8966c02d4bb1f796d6ee4afea227a736ee73aef05",
+    "ts": 1794177799,
+    "v": 1
+   },
+   "filename": "rttp-URI-site-20261109b.tar.gz",
+   "package": "site/rttp-URI",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "v1.3.2 tab defect repair: showVersion pane array extended with v132, hero badge updated to v1.3.2, archived pane-v131 content and closing tag restored (surgery had left it an empty wrapper swallowing pane-v128) - zero normative text changes",
+   "rttp_address": "rttp://3bef0cec.site.iqa",
+   "sha256": "3bef0cecccf0fe585a2331d567ba94356064a58f2b69989354214dd7be9abbf5",
+   "size": 67635,
+   "supersedes": "2026-11-09-v132-release",
+   "tarball_sha256": "9e0e51b54c85bc9f7b4d8cbee8c1ccfc0af395b1aec2b9e5901df4624599ebfe",
+   "tarball_size": 17100,
+   "url": "https://rttp.com/seal/rttp-URI-site-20261109b.tar.gz",
+   "version": "2026-11-09-v132-fix"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "6ce6e7cbdc9353f9",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://27ea639c5dba60873d0339eb7213f189.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "9a4cd83c0f8836eec970553d456b0461f06193f9b060c87d126ddd041cd2bd83ee63f24d7584f4bce160f277767b3aac0c7fddcdaad24239c1e6812eda0a4b0d",
+    "ts": 1794180030,
+    "v": 1
+   },
+   "filename": "iqa-URI-site-20261109b.tar.gz",
+   "package": "site/iqa-URI",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "footer whitepaper label unified to working draft v0.7 (site-wide footer unification wave) - zero normative text changes",
+   "rttp_address": "rttp://27ea639c.site.iqa",
+   "sha256": "27ea639c5dba60873d0339eb7213f189a8966a4686d11d0792c9b833a3b8078c",
+   "size": 60721,
+   "supersedes": "2026-11-09-v132-release",
+   "tarball_sha256": "3da5000bc8316a3cca10c45c489621584be21577fa8258311315ce1f9ee4b51b",
+   "tarball_size": 17469,
+   "url": "https://iqa.org/seal/iqa-URI-site-20261109b.tar.gz",
+   "version": "2026-11-09-wp-v07"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "96126dc118d652c6",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://ce87f5bbac325c93d89850d4983dd627.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "52e608bab880506ba84117a06bf11007da624081602a48656db4862f6654cb350310b8a39bc38497fe90a58cc01105051c5e40d8a10ba6e4df3162784d695403",
+    "ts": 1794180031,
+    "v": 1
+   },
+   "filename": "brief-site-20261109b.tar.gz",
+   "package": "site/brief",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "footer whitepaper label unified to working draft v0.7 (site-wide footer unification wave) - zero normative text changes",
+   "rttp_address": "rttp://ce87f5bb.site.iqa",
+   "sha256": "ce87f5bbac325c93d89850d4983dd627575059a8209e5753aa172cfa2043c22d",
+   "size": 112350,
+   "supersedes": "2026-11-09-v132-release",
+   "tarball_sha256": "5e051fd330f34a27d4590fbe362feafbc91fda5395b8d1e6fcc94d399913e9a5",
+   "tarball_size": 28559,
+   "url": "https://iqa.org/seal/brief-site-20261109b.tar.gz",
+   "version": "2026-11-09-wp-v07"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "2b4ebdc58524dbe3",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://4c17b97cf18f45ab0f167a3b1540e939.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "3bb43a7c2446975630c50c9ff48f77b4b71e125fac1fa9a0d2c2a5b413d2908cfc14e75a71b3607c828c4f420ea63b2e76211435cb3bbb40405e829138c30602",
+    "ts": 1794180031,
+    "v": 1
+   },
+   "filename": "rttp-URI-site-20261109c.tar.gz",
+   "package": "site/rttp-URI",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "footer whitepaper label unified to working draft v0.7 (site-wide footer unification wave) - zero normative text changes",
+   "rttp_address": "rttp://4c17b97c.site.iqa",
+   "sha256": "4c17b97cf18f45ab0f167a3b1540e9392a15850a66fbb62623be50ea97218204",
+   "size": 67635,
+   "supersedes": "2026-11-09-v132-fix",
+   "tarball_sha256": "3a7447f2188cd4b52a819a08bfee309b353f0bbf4bf11cfc891eed0a6c08a2c6",
+   "tarball_size": 17101,
+   "url": "https://rttp.com/seal/rttp-URI-site-20261109c.tar.gz",
+   "version": "2026-11-09-wp-v07"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "9acaa86dc70a7497",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://0c2c661e9cce29579843d261e0b34ec9.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "af21482a197c491feab781411d2df1563979b5dec6d3a7509dea3e598d80e28a78a3b10483fe64b2eed2e95830f8848b20c797a3ea18506110cc5248e78c1003",
+    "ts": 1794215401,
+    "v": 1
+   },
+   "filename": "aicent-grant-ref-site-20261109a.tar.gz",
+   "package": "site/aicent-grant-ref",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "page upgraded to the full recorded-run report format (18-block house format, per-case and mutation tables, run metadata) with the recorded family-runner run",
+   "rttp_address": "rttp://0c2c661e.site.iqa",
+   "sha256": "0c2c661e9cce29579843d261e0b34ec939e04a183539d3310fe1263ef442984d",
+   "size": 26943,
+   "supersedes": "2026-11-08-family-suite-ref",
+   "tarball_sha256": "62046320b7ca5987e86bfb26c5266d5069b326688633855006e0081bed19cf7b",
+   "tarball_size": 8371,
+   "url": "https://iqa.org/seal/aicent-grant-ref-site-20261109a.tar.gz",
+   "version": "2026-11-09-fam18"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "9cd477ceb8350f4f",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://8de908388ce4dc06631447924a14c58a.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "654861ff024d5c5a337883c74d8a0144001cad479146da3a105fb59ec8c25577ef78cc9410617334490732fae9516603f80e7ad2a5280d0eddb500466c680504",
+    "ts": 1794215401,
+    "v": 1
+   },
+   "filename": "aicent-lease-boundary-site-20261109a.tar.gz",
+   "package": "site/aicent-lease-boundary",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "page upgraded to the full recorded-run report format (18-block house format, per-case and mutation tables, run metadata) with the recorded family-runner run",
+   "rttp_address": "rttp://8de90838.site.iqa",
+   "sha256": "8de908388ce4dc06631447924a14c58ab25e6ac3bfb3e1fb022b5c8e1f1b4a01",
+   "size": 24659,
+   "supersedes": "2026-11-08-icam-run-note",
+   "tarball_sha256": "fc2b46d4c03f75609410b81bf89e259b8b1eb940334b1e9ca34387352972cec0",
+   "tarball_size": 8222,
+   "url": "https://iqa.org/seal/aicent-lease-boundary-site-20261109a.tar.gz",
+   "version": "2026-11-09-fam18"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "e899c66000ea87ec",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://deb817939f4b9ccd2f75ae4ab2d60069.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "b6b47a2e5a5f6812c0d755eb0f47381fcca74c8bcdc6561eeba6d2c690ba3a54ce688c0324b77972951187c09fdd755475283cb2e676db10ba70504cdc3eeb01",
+    "ts": 1794215401,
+    "v": 1
+   },
+   "filename": "aicent-ae128-fail-closed-site-20261109a.tar.gz",
+   "package": "site/aicent-ae128-fail-closed",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "first seal of the recorded-run report page (18-block house format)",
+   "rttp_address": "rttp://deb81793.site.iqa",
+   "sha256": "deb817939f4b9ccd2f75ae4ab2d600698b2f0ee3dac721c52dad957a2ff15b3e",
+   "size": 26918,
+   "tarball_sha256": "9fb8ede6de7e3a7a2c1b308067a81d6000c53f868ff9238e17ba6790ed85fcbc",
+   "tarball_size": 8244,
+   "url": "https://iqa.org/seal/aicent-ae128-fail-closed-site-20261109a.tar.gz",
+   "version": "2026-11-09-fam18"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "265a72d2343aa01d",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://af4d9dbdf2bbd4033861b71de172b9b0.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "df19d81455579a0ec60998e4fc073784417b476f6f16977cc153b78ce67c0621df4db025682648a755c0ce0e12860efb0d1ee876a9aab9ee8fa3e453da394506",
+    "ts": 1794215401,
+    "v": 1
+   },
+   "filename": "aicent-pulse-header-site-20261109a.tar.gz",
+   "package": "site/aicent-pulse-header",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "first seal of the recorded-run report page (18-block house format)",
+   "rttp_address": "rttp://af4d9dbd.site.iqa",
+   "sha256": "af4d9dbdf2bbd4033861b71de172b9b029a08020825ec985a840148863047bc8",
+   "size": 25831,
+   "tarball_sha256": "7bc498f07f7267e33809308e1d13ed7797c596931138ec3a20f94ed290a38b5a",
+   "tarball_size": 8305,
+   "url": "https://iqa.org/seal/aicent-pulse-header-site-20261109a.tar.gz",
+   "version": "2026-11-09-fam18"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "1e22dda7b2935ec7",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://5966be0c9b152c635646bbbad39f5404.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "2e8974b06e0023ea9bf669fcb1dca18fe50d92140d3392182d06a9d2212d038fdf4a5c81032ae5438f6cd7eb047ad83097e8bf8235eb43645d93ccb47aec150b",
+    "ts": 1794215401,
+    "v": 1
+   },
+   "filename": "aicent-uri-grammar-site-20261109a.tar.gz",
+   "package": "site/aicent-uri-grammar",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "first seal of the recorded-run report page (18-block house format)",
+   "rttp_address": "rttp://5966be0c.site.iqa",
+   "sha256": "5966be0c9b152c635646bbbad39f5404dbcb07201665af328cf8b97b4fb8f704",
+   "size": 25426,
+   "tarball_sha256": "b6ccd31055ee6dc510a8591f04028bdc1c586595610e419abbc6e69ed5f1293e",
+   "tarball_size": 8213,
+   "url": "https://iqa.org/seal/aicent-uri-grammar-site-20261109a.tar.gz",
+   "version": "2026-11-09-fam18"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "076087aecfc8b920",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://6e4278b3f0d98e91768737183a225fa6.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "0be73967ea5e658e5c4308b77e14db69d454c22344b405ad516129f0a5b65d64863727b8044f1d38dffadc572261e3ec2ba6c9840ea8eb2ee7af41233b46ca0d",
+    "ts": 1794215401,
+    "v": 1
+   },
+   "filename": "aicent-route-shard-site-20261109a.tar.gz",
+   "package": "site/aicent-route-shard",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "first seal of the recorded-run report page (18-block house format)",
+   "rttp_address": "rttp://6e4278b3.site.iqa",
+   "sha256": "6e4278b3f0d98e91768737183a225fa6909a8ee588d413206c34fd996378013f",
+   "size": 23712,
+   "tarball_sha256": "f10c7f63102514b3393f29622675950a21a7230b29494fa9f5e481c560e6f57a",
+   "tarball_size": 8112,
+   "url": "https://iqa.org/seal/aicent-route-shard-site-20261109a.tar.gz",
+   "version": "2026-11-09-fam18"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "00cc8dd06fead497",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://16ec15ffded186cab47e0a2dddaa15b3.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "daf242f1a7255f4574a319b521608f9a7a7eb09bdcd1dcc77a2d9ebd19d95e818fd4b3e4af5b554365e7ce21e68630e2c93060674501eeb0e1af75c48fbbd205",
+    "ts": 1794217318,
+    "v": 1
+   },
+   "filename": "aicent-grant-ref-site-20261109b.tar.gz",
+   "package": "site/aicent-grant-ref",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): display fixes (mutation-table column width, Organ AID wrapping) and the one-artifact-two-addresses card block added at the foot, matching the run-report pages",
+   "rttp_address": "rttp://16ec15ff.site.iqa",
+   "sha256": "16ec15ffded186cab47e0a2dddaa15b319844778f8ca380fa3354c391f585880",
+   "size": 28622,
+   "supersedes": "2026-11-09-fam18",
+   "tarball_sha256": "e9c7c6d95ac9ba56327106c43333b1574d71b84de0dd64a474e9dbebb8a72f83",
+   "tarball_size": 8917,
+   "url": "https://iqa.org/seal/aicent-grant-ref-site-20261109b.tar.gz",
+   "version": "2026-11-09-fam18b"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "bacfeb31380e1e01",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://ba83703128d5e5c380f9af351682a1db.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "602334862cb6c9369acfaeff747d1f08eba22d3ca2bec28d2bf4434158484495c60ca6838a67e60d44a7e469590c293581726fdfc0ba3a64f03202ef48381408",
+    "ts": 1794217318,
+    "v": 1
+   },
+   "filename": "aicent-lease-boundary-site-20261109b.tar.gz",
+   "package": "site/aicent-lease-boundary",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): display fixes (mutation-table column width, Organ AID wrapping) and the one-artifact-two-addresses card block added at the foot, matching the run-report pages",
+   "rttp_address": "rttp://ba837031.site.iqa",
+   "sha256": "ba83703128d5e5c380f9af351682a1db9ba089e16100f9d6d97ce59b3385f32f",
+   "size": 26333,
+   "supersedes": "2026-11-09-fam18",
+   "tarball_sha256": "66f749f5310bc310da6b530b43e7614ead9b2fd578530260d3801b72c3151617",
+   "tarball_size": 8695,
+   "url": "https://iqa.org/seal/aicent-lease-boundary-site-20261109b.tar.gz",
+   "version": "2026-11-09-fam18b"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "15ed303b3985f1c7",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://fe5e129b1932f5e24eb3ef95078e72bd.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "7eb6c83be8879d6c0faa7b41e0fc01a1917e05a21844f6f99147d3705f8ff58723ba2b3eb234496316f65e1a535c08bac5005c64ffb9d45e6545de57ac934a0d",
+    "ts": 1794217318,
+    "v": 1
+   },
+   "filename": "aicent-ae128-fail-closed-site-20261109b.tar.gz",
+   "package": "site/aicent-ae128-fail-closed",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): display fixes (mutation-table column width, Organ AID wrapping) and the one-artifact-two-addresses card block added at the foot, matching the run-report pages",
+   "rttp_address": "rttp://fe5e129b.site.iqa",
+   "sha256": "fe5e129b1932f5e24eb3ef95078e72bdb0158b0cef3c19320f31953b6dfbbede",
+   "size": 28589,
+   "supersedes": "2026-11-09-fam18",
+   "tarball_sha256": "51b3c6b3d9e8981e5a8ef418a39aa388247cbdb767433d63036b48162f7b6dd3",
+   "tarball_size": 8781,
+   "url": "https://iqa.org/seal/aicent-ae128-fail-closed-site-20261109b.tar.gz",
+   "version": "2026-11-09-fam18b"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "ee6fef6b72517fae",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://e0ae540bcab1a506ed50a922ddc27e19.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "65d624a06b074c20fce291c58929c57c919508154aec34623e73fafb519201399de3d3b889a9afd39ca2870432f1cb79c097956185f2908a309ff916175f2d0b",
+    "ts": 1794217319,
+    "v": 1
+   },
+   "filename": "aicent-pulse-header-site-20261109b.tar.gz",
+   "package": "site/aicent-pulse-header",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): display fixes (mutation-table column width, Organ AID wrapping) and the one-artifact-two-addresses card block added at the foot, matching the run-report pages",
+   "rttp_address": "rttp://e0ae540b.site.iqa",
+   "sha256": "e0ae540bcab1a506ed50a922ddc27e198dd9dafa37514c9d1f8793caa9254ea7",
+   "size": 27507,
+   "supersedes": "2026-11-09-fam18",
+   "tarball_sha256": "a10fa942b5e4ce783cea5cf62c6bc23079fda1a200407127439b060bf496588a",
+   "tarball_size": 8780,
+   "url": "https://iqa.org/seal/aicent-pulse-header-site-20261109b.tar.gz",
+   "version": "2026-11-09-fam18b"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "9487518b41d151ea",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://b3a46ae123ed540ddae14d88c6b988f0.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "2de6e88728f7b76ee6ccfaff0fc1b2c09b53398e2a79e9a91a5963c2b48fbd565b5bf8b5c01cb5edb509a7ff743b2ccb0eb5c1c44ddaad2c293c486a23bca802",
+    "ts": 1794217319,
+    "v": 1
+   },
+   "filename": "aicent-uri-grammar-site-20261109b.tar.gz",
+   "package": "site/aicent-uri-grammar",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): display fixes (mutation-table column width, Organ AID wrapping) and the one-artifact-two-addresses card block added at the foot, matching the run-report pages",
+   "rttp_address": "rttp://b3a46ae1.site.iqa",
+   "sha256": "b3a46ae123ed540ddae14d88c6b988f03caadac87eea14818a193437f47c308a",
+   "size": 27103,
+   "supersedes": "2026-11-09-fam18",
+   "tarball_sha256": "3e2c8e844cf78a8d1b5f601f89db39677d501677c8175c19c8a9742702ac5f27",
+   "tarball_size": 8679,
+   "url": "https://iqa.org/seal/aicent-uri-grammar-site-20261109b.tar.gz",
+   "version": "2026-11-09-fam18b"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "c9dc21c365917c73",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://cdc971bf702389aeccdd374e509f07db.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "ce534bfc5dd86ab31c891a3dff38379056a6e859153f160b748942a324efedd855249a0a42079f0e8f64d01277170c149bece8eb91e4342706f9f1d7c2f7900a",
+    "ts": 1794217319,
+    "v": 1
+   },
+   "filename": "aicent-route-shard-site-20261109b.tar.gz",
+   "package": "site/aicent-route-shard",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): display fixes (mutation-table column width, Organ AID wrapping) and the one-artifact-two-addresses card block added at the foot, matching the run-report pages",
+   "rttp_address": "rttp://cdc971bf.site.iqa",
+   "sha256": "cdc971bf702389aeccdd374e509f07db3f73d12f9ed4290bbdf1c435f31d554c",
+   "size": 25389,
+   "supersedes": "2026-11-09-fam18",
+   "tarball_sha256": "4ddac33a0a0f9a390f201cb233824d158237c7efc40a6be18ca8c322e71fa743",
+   "tarball_size": 8584,
+   "url": "https://iqa.org/seal/aicent-route-shard-site-20261109b.tar.gz",
+   "version": "2026-11-09-fam18b"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "8bf4a1400b4791d7",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://a91e8792fafd06863ead74ef932b8456.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "d3a558681c4f9a7ae143e50efc287e8c058912f87ab851e886f3f9d262dbd10a66de1bbb14cae107fe24a48cf6bc5cfca0d854a84d444fa1c5e7140500dda109",
+    "ts": 1794226843,
+    "v": 1
+   },
+   "filename": "aicent-grant-ref-site-20261109c.tar.gz",
+   "package": "site/aicent-grant-ref",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): display polish from the owner review -- per-case table restored to the five declared columns (parts detail stays in the recorded run-output), mutation table given a uniform fixed layout across the six pages, report tables wrapped in horizontal-scroll containers on mobile with font autosizing disabled, and the one-artifact-two-addresses cards aligned to the main column",
+   "rttp_address": "rttp://a91e8792.site.iqa",
+   "sha256": "a91e8792fafd06863ead74ef932b84560a57b96ebe52bdf5d006b91070704664",
+   "size": 32488,
+   "supersedes": "2026-11-09-fam18b",
+   "tarball_sha256": "394ef939a9dbc4b7f17c79d46d32abbcba0a29e9479d5fd03062d5e890f4836c",
+   "tarball_size": 9059,
+   "url": "https://iqa.org/seal/aicent-grant-ref-site-20261109c.tar.gz",
+   "version": "2026-11-09-fam18c"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "4559a625cdd9e53c",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://820837a8758d842f7013474b83819c4d.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "ec1f4c52a67a72d1a479979672f6c703d4974eccb329abb6938aae1ed1282e754fc44403df80576dda4bbc9b1ee05d0bd6d3fceeb88b07f3e04c5924726f6402",
+    "ts": 1794226844,
+    "v": 1
+   },
+   "filename": "aicent-lease-boundary-site-20261109c.tar.gz",
+   "package": "site/aicent-lease-boundary",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): display polish from the owner review -- per-case table restored to the five declared columns (parts detail stays in the recorded run-output), mutation table given a uniform fixed layout across the six pages, report tables wrapped in horizontal-scroll containers on mobile with font autosizing disabled, and the one-artifact-two-addresses cards aligned to the main column",
+   "rttp_address": "rttp://820837a8.site.iqa",
+   "sha256": "820837a8758d842f7013474b83819c4dc179dbe7929ccc73d802c14f9a96ac27",
+   "size": 29091,
+   "supersedes": "2026-11-09-fam18b",
+   "tarball_sha256": "aacdf19dc39c7635b4a412aa2e8b103a2af7ac62513f1050adcbf7bfa43330e1",
+   "tarball_size": 8925,
+   "url": "https://iqa.org/seal/aicent-lease-boundary-site-20261109c.tar.gz",
+   "version": "2026-11-09-fam18c"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "e466a3cac3a65489",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://b065abed265e53ebb5472461cfe82518.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "319362d17c9de88a7a117caa1220e159e633d9f3e51ba217e7b2eee800e6c31d8680ac3e20f70034abc4478186ac0092578cbd539956191977a497e92a179f0b",
+    "ts": 1794226844,
+    "v": 1
+   },
+   "filename": "aicent-ae128-fail-closed-site-20261109c.tar.gz",
+   "package": "site/aicent-ae128-fail-closed",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): display polish from the owner review -- per-case table restored to the five declared columns (parts detail stays in the recorded run-output), mutation table given a uniform fixed layout across the six pages, report tables wrapped in horizontal-scroll containers on mobile with font autosizing disabled, and the one-artifact-two-addresses cards aligned to the main column",
+   "rttp_address": "rttp://b065abed.site.iqa",
+   "sha256": "b065abed265e53ebb5472461cfe82518f52030f565c99a6f1116daf0c88236b3",
+   "size": 30926,
+   "supersedes": "2026-11-09-fam18b",
+   "tarball_sha256": "4e8ace2aecf6a56a545293f31ae55d6038b94a170d90fb82a572ea31d0e9b9e0",
+   "tarball_size": 8992,
+   "url": "https://iqa.org/seal/aicent-ae128-fail-closed-site-20261109c.tar.gz",
+   "version": "2026-11-09-fam18c"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "61a05e1700ded183",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://459ced3b78887c52cdb0e9b0ed9ff344.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "1c864e77887612466355e49a025fe54254e8c5ca4037841f019bc9077c6830af191493d83847e59c9747434898582f14856e5f8605cb88f729ee36e8133bd704",
+    "ts": 1794226844,
+    "v": 1
+   },
+   "filename": "aicent-pulse-header-site-20261109c.tar.gz",
+   "package": "site/aicent-pulse-header",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): display polish from the owner review -- per-case table restored to the five declared columns (parts detail stays in the recorded run-output), mutation table given a uniform fixed layout across the six pages, report tables wrapped in horizontal-scroll containers on mobile with font autosizing disabled, and the one-artifact-two-addresses cards aligned to the main column",
+   "rttp_address": "rttp://459ced3b.site.iqa",
+   "sha256": "459ced3b78887c52cdb0e9b0ed9ff3446f652b7bbfe33da20d536e785a329bcb",
+   "size": 31815,
+   "supersedes": "2026-11-09-fam18b",
+   "tarball_sha256": "0310ceffb12ae2cb4c5a27d60ee5dc54f0e1fa733c80ece0ccee7c59ab4a8537",
+   "tarball_size": 9089,
+   "url": "https://iqa.org/seal/aicent-pulse-header-site-20261109c.tar.gz",
+   "version": "2026-11-09-fam18c"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "3ed87964afa0edd0",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://507b11b4951bac676a3ebe50a9fb9537.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "78d2ec964b314a321e708ab6d9712a2f73ff4b4f914af9144c831055d8d42b535deeb99d105aa5e16b182a64e125f77f5de1241372f315e75c4899b8c10a5702",
+    "ts": 1794226844,
+    "v": 1
+   },
+   "filename": "aicent-uri-grammar-site-20261109c.tar.gz",
+   "package": "site/aicent-uri-grammar",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): display polish from the owner review -- per-case table restored to the five declared columns (parts detail stays in the recorded run-output), mutation table given a uniform fixed layout across the six pages, report tables wrapped in horizontal-scroll containers on mobile with font autosizing disabled, and the one-artifact-two-addresses cards aligned to the main column",
+   "rttp_address": "rttp://507b11b4.site.iqa",
+   "sha256": "507b11b4951bac676a3ebe50a9fb953718940fd8a98bb82fc6603c6d8f7420e8",
+   "size": 31976,
+   "supersedes": "2026-11-09-fam18b",
+   "tarball_sha256": "7b479c02c62aa73610f18e894bad5588f7b3726800920f22b3ecb689740bf2d5",
+   "tarball_size": 8984,
+   "url": "https://iqa.org/seal/aicent-uri-grammar-site-20261109c.tar.gz",
+   "version": "2026-11-09-fam18c"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "8e4e94ef76c3085f",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://e58d446651bfb835941c5854ae587421.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "97ce148ec69540783e0a21047c2094df00aedf9bc07a2302e011b54c38e02bb3fc2e7d35d4b0e2e3b8efbb8eb9acb6d5dd229b0b1c8268f24b0516a5d7338201",
+    "ts": 1794226844,
+    "v": 1
+   },
+   "filename": "aicent-route-shard-site-20261109c.tar.gz",
+   "package": "site/aicent-route-shard",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): display polish from the owner review -- per-case table restored to the five declared columns (parts detail stays in the recorded run-output), mutation table given a uniform fixed layout across the six pages, report tables wrapped in horizontal-scroll containers on mobile with font autosizing disabled, and the one-artifact-two-addresses cards aligned to the main column",
+   "rttp_address": "rttp://e58d4466.site.iqa",
+   "sha256": "e58d446651bfb835941c5854ae58742118d9e1c5871ce16eed12004e2dfbd9db",
+   "size": 28641,
+   "supersedes": "2026-11-09-fam18b",
+   "tarball_sha256": "4fbf682a28462035c2859a2970a3af8be3d595ca8128946eec27b4109c17d4bb",
+   "tarball_size": 8884,
+   "url": "https://iqa.org/seal/aicent-route-shard-site-20261109c.tar.gz",
+   "version": "2026-11-09-fam18c"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "c9c3e794072831bf",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://cca583d1ede2dcd2bc4b53fc219133de.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "df1eada92964592caa452f5fd51f42a3e5de51dc10614ca0aa4d26fdc0c8476a36fb6240a4248d31c7258333f0b899d19def8f7a69b19d58502b35b2fd9b4b0c",
+    "ts": 1794231398,
+    "v": 1
+   },
+   "filename": "aicent-grant-ref-site-20261109d.tar.gz",
+   "package": "site/aicent-grant-ref",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): sub row and canonical note updated from stale \"lab filing pending\" to the merged state (lab PR #210, merged 2026-11-03); no other body change",
+   "rttp_address": "rttp://cca583d1.site.iqa",
+   "sha256": "cca583d1ede2dcd2bc4b53fc219133de4b0015af57eb9349c6e2a76b6c0318fa",
+   "size": 32615,
+   "supersedes": "2026-11-09-fam18c",
+   "tarball_sha256": "5b2ebf1215e0e4614390ed43f6ca20ac27d96e82d756ca4b790422db4adcdd6c",
+   "tarball_size": 9086,
+   "url": "https://iqa.org/seal/aicent-grant-ref-site-20261109d.tar.gz",
+   "version": "2026-11-09-fam18d"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "0a7172793cf854bc",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://1c772fafa2394f54050debd07878872e.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "87b589226904f94bbf9dc079503d97c67faad19889d6281d836a95c31c5fb3b4dce0875a901ec8dbb22c25fb95ddac73db145ad7172dbde037ba3a2b814ff804",
+    "ts": 1794231398,
+    "v": 1
+   },
+   "filename": "aicent-lease-boundary-site-20261109d.tar.gz",
+   "package": "site/aicent-lease-boundary",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): sub row and canonical note updated from stale \"lab filing pending\" to the merged state (lab PR #212, merged 2026-11-03); no other body change",
+   "rttp_address": "rttp://1c772faf.site.iqa",
+   "sha256": "1c772fafa2394f54050debd07878872e84f63c5af759f615594b1c42b299d1bf",
+   "size": 29218,
+   "supersedes": "2026-11-09-fam18c",
+   "tarball_sha256": "83b663b5e359d37f3bb8c2c9042cbc2e60deb39abe33e2c45520f763554bb488",
+   "tarball_size": 8956,
+   "url": "https://iqa.org/seal/aicent-lease-boundary-site-20261109d.tar.gz",
+   "version": "2026-11-09-fam18d"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "0f910561351a56c8",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://6f0a8c557ea50cf2717701ac6c7f655e.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "4ddfa10a2c200a5add9bd1f4d7a7d8ae175a6a77ec55fad0a727429a40d1b85ae54ad1be8aae7a47f32b47711fd830843d0e9c7db7dd972417845d05135ad307",
+    "ts": 1794231398,
+    "v": 1
+   },
+   "filename": "aicent-ae128-fail-closed-site-20261109d.tar.gz",
+   "package": "site/aicent-ae128-fail-closed",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): lab filing opened as PR #221 (under review) -- sub row, canonical note and the CANDIDATE.md download updated to the filed state (repo 42f2a04)",
+   "rttp_address": "rttp://6f0a8c55.site.iqa",
+   "sha256": "6f0a8c557ea50cf2717701ac6c7f655e5f0cdab22b4eb67dfff45b75b573d00e",
+   "size": 31076,
+   "supersedes": "2026-11-09-fam18c",
+   "tarball_sha256": "d9e5471959d3638f73260d39b4385db93e998fa9cd1e12277759bdd6fef642e3",
+   "tarball_size": 9021,
+   "url": "https://iqa.org/seal/aicent-ae128-fail-closed-site-20261109d.tar.gz",
+   "version": "2026-11-09-fam18d"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "f85c1e68579c903f",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://3720a60845fd0a43086c69e866f21db2.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "ac8a97ee5fa8a26b42328740963ceb532179160f658758da776d888a557acad37acdd42ec35bc37e56afebd3741aac0c18f2c2a3753b3f2ccb536974321c270e",
+    "ts": 1794231398,
+    "v": 1
+   },
+   "filename": "aicent-pulse-header-site-20261109d.tar.gz",
+   "package": "site/aicent-pulse-header",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): lab filing opened as PR #222 (under review) -- sub row, canonical note and the CANDIDATE.md download updated to the filed state (repo 42f2a04)",
+   "rttp_address": "rttp://3720a608.site.iqa",
+   "sha256": "3720a60845fd0a43086c69e866f21db2389c75b976dcf35ff86d1d45f15034db",
+   "size": 31965,
+   "supersedes": "2026-11-09-fam18c",
+   "tarball_sha256": "bb75e0898843faa42f316ce9c9eaf6bb749469545b91d29f3dab8d9d4f1bb00b",
+   "tarball_size": 9116,
+   "url": "https://iqa.org/seal/aicent-pulse-header-site-20261109d.tar.gz",
+   "version": "2026-11-09-fam18d"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "eb826ca0df15161e",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://aa53e8d90383e8767fa5832a8740ae38.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "ba5bc8dd9be58d4f3ecad16cd9dc216af53fdaaec0d7cdf89e6f57363774ea74187fe17eeabf7d3a6c6b7b818bb1f7373a0d9bb60a5e4041955a44abf07be70e",
+    "ts": 1794231399,
+    "v": 1
+   },
+   "filename": "aicent-uri-grammar-site-20261109d.tar.gz",
+   "package": "site/aicent-uri-grammar",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): lab filing opened as PR #223 (under review) -- sub row, canonical note and the CANDIDATE.md download updated to the filed state (repo 42f2a04)",
+   "rttp_address": "rttp://aa53e8d9.site.iqa",
+   "sha256": "aa53e8d90383e8767fa5832a8740ae383b1229a8f014be8e8eada9dc3ac592dd",
+   "size": 32126,
+   "supersedes": "2026-11-09-fam18c",
+   "tarball_sha256": "60514b60693066dc2a576abe67fc6aa7c37db282c6ffa04547bcd20f387f0161",
+   "tarball_size": 9013,
+   "url": "https://iqa.org/seal/aicent-uri-grammar-site-20261109d.tar.gz",
+   "version": "2026-11-09-fam18d"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "0b0a5d171336853a",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://1872731bf757aa4b214cc269914a4b01.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "978d151d8b243b98fb76a9fcb0d420c9478d53618c32e3a96d0e880f020af6907387b94d305e61568dbd1ca6d5e75c9606ec7dfccbc91935d6153532393e7801",
+    "ts": 1794231399,
+    "v": 1
+   },
+   "filename": "aicent-route-shard-site-20261109d.tar.gz",
+   "package": "site/aicent-route-shard",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): lab filing opened as PR #224 (under review) -- sub row, canonical note and the CANDIDATE.md download updated to the filed state (repo 42f2a04)",
+   "rttp_address": "rttp://1872731b.site.iqa",
+   "sha256": "1872731bf757aa4b214cc269914a4b0124f7873a5586b21aad865461d5a7c0ef",
+   "size": 28791,
+   "supersedes": "2026-11-09-fam18c",
+   "tarball_sha256": "e348b448b3daa1c0a985aaf70675aae979f2510df0e0993aa03b05248c19896f",
+   "tarball_size": 8915,
+   "url": "https://iqa.org/seal/aicent-route-shard-site-20261109d.tar.gz",
+   "version": "2026-11-09-fam18d"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "d8cd6338f96d852c",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://9cd97f2c17a57be668357a1c8c64c5ad.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "bb59207ab5c409bdd8633bdae278ab048eec82d28df0e3a57570feec61c5665e62d15cecb39b25ae7dd30164bccc961f145d092362a70a80d1ea277fa7ca690a",
+    "ts": 1794232236,
+    "v": 1
+   },
+   "filename": "brief-site-20261109c.tar.gz",
+   "package": "site/brief",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "Public record topped with the four lab filings (PRs #221-224) of the new candidate families -- display rows only; the downloads and attestations pages were updated in the same wave (both unsealed, display-only)",
+   "rttp_address": "rttp://9cd97f2c.site.iqa",
+   "sha256": "9cd97f2c17a57be668357a1c8c64c5ad3c5a3ab371a5fd9cc7520ebf446dbe29",
+   "size": 116397,
+   "supersedes": "2026-11-09-wp-v07",
+   "tarball_sha256": "fd5b9241c0fc70dd79d2dfb365a2d17f5792179b887125eecdb2284dc9562d6e",
+   "tarball_size": 29224,
+   "url": "https://iqa.org/seal/brief-site-20261109c.tar.gz",
+   "version": "2026-11-09-brief-lab-filings"
+  },
+  {
+   "artifact_kind": "sealed-run",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "f15ca11e14ad3b06",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://b9daa0488e096d00b4da05988ddff7e3.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "7f05da1a2da47c85f4e923ee418783df2c88ebf3e55141348d373e7f8441eb5a5ee51996670bfdbe740b301bd5f609ef94aae001601b0b86467ec1ad1d4d0904",
+    "ts": 1794234220,
+    "v": 1
+   },
+   "filename": "icam-runner-20261109a.tar.gz",
+   "package": "conformance/icam-runner",
+   "registry": "iqa.org",
+   "rttp_address": "rttp://b9daa048.conformance.iqa",
+   "sha256": "b9daa0488e096d00b4da05988ddff7e323d97e975399337094b7d3507cbd5356",
+   "size": 16109,
+   "url": "https://iqa.org/conformance/files/icam-runner-20261109a.tar.gz",
+   "version": "2026-11-09-icam-merged-run"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "9854c2e3e10c2905",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://6fdde75c487b64ee0198cd8309c2486f.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "886f212a9e4f234b67c716d649f622b39a9bfeeb3a260e8fdde148dedad47f156be50a05c6a84958ccbdbf3fc845d4d47751fdded19ba2c76659e6fe3fd86706",
+    "ts": 1794234600,
+    "v": 1
+   },
+   "filename": "icam-runner-site-20261109a.tar.gz",
+   "package": "site/icam-runner",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): merged-mainline re-run section added -- PR #218 merged at 3c36e95, complete rerun recorded (24/24 agree, 6/6 own mutants killed, exit 0, verdicts identical to the pre-merge run) with its own sealed artifact icam-runner-20261109a.tar.gz",
+   "rttp_address": "rttp://6fdde75c.site.iqa",
+   "sha256": "6fdde75c487b64ee0198cd8309c2486f0235c44c04659ffcdee4bbcad13e80f7",
+   "size": 40057,
+   "supersedes": "2026-11-08-strip-position-fix",
+   "tarball_sha256": "1a852e32fdbc9517950cab6dcef13caf9c4e49aa2c9fe13ce10dc36e5207cde4",
+   "tarball_size": 11826,
+   "url": "https://iqa.org/seal/icam-runner-site-20261109a.tar.gz",
+   "version": "2026-11-09-icam-merged-run-page"
+  },
+  {
+   "artifact_kind": "site-freeze",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "4f0ef52d15dd9b03",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://0e4ed1d0fdb185593a2309a1625b50c3.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "fd7221eafbf920d8c0a8c585ba511241c5e5ec2e88650b9c72f54fe8b2d2094ca3ace740800c20bbea850decc180d64eee6aeae4284b6eb00c25f047c3eadc0b",
+    "ts": 1794236867,
+    "v": 1
+   },
+   "filename": "icam-runner-site-20261109b.tar.gz",
+   "package": "site/icam-runner",
+   "page_sha256_note": "sha256 of index.html with the SEAL display block excluded (hard gate)",
+   "registry": "iqa.org",
+   "reseal_reason": "reseal (append-only): lab PR number added to the merged-mainline section -- the rerun record is filed as lab interop PR #225 (fam18d precedent: PR number lands at filing, not batched)",
+   "rttp_address": "rttp://0e4ed1d0.site.iqa",
+   "sha256": "0e4ed1d0fdb185593a2309a1625b50c3415911677fc6f1fa90a5c853a4b1a3af",
+   "size": 40204,
+   "supersedes": "2026-11-09-icam-merged-run-page",
+   "tarball_sha256": "03ff66a9075fb0995c5ce61b24eea6106e3ec4df4ac6d4a0b93a0c3fb1f749a8",
+   "tarball_size": 11873,
+   "url": "https://iqa.org/seal/icam-runner-site-20261109b.tar.gz",
+   "version": "2026-11-09-icam-pr-number-page"
+  }
+ ],
+ "organ_aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+ "tool": "dogfood slice 4 + iqa-mcp 0.1.0 wave + conformance archive wave (rev c supersedes rev b: exit-status fix + executed oracle-inputs guard, report numbers unchanged; rev b supersedes rev a; 2026-10-26-rev3 is the revision-3 cut: one runner, two revisions, two recorded outputs) | 2026-10-29 site-freeze wave: epoekie.com (back-seal) + aicent.com (first seal), myth pages frozen; page digest excludes the seal display block; tarball = full deployment unit | 2026-10-29 site-freeze wave: epoekie.com (back-seal) + aicent.com (first seal), myth pages frozen; page digest excludes the seal display block; tarball = full deployment unit | 2026-10-30 site-freeze wave 2: 12 myth recast sites (rpki zcmk gtiot aicent-net bewho cmtn sascar itsun moloon dioon picsi maxcap) frozen on go-live; page digest excludes the seal display block; tarball = deployment unit (index.html + fonts.css + fonts/) | 2026-10-30 myth reseal wave: 7 registered-trademark sites (gtiot itsun sascar picsi maxcap bewho epoekie) re-sealed after applying (R) marking to all visible brand mentions; prior seals retained as history (append-only) | 2026-10-30 site-freeze: iqa.org/brief first seal (3 timeline entries + classification alignment + date roll); page digest excludes the seal display block; sealline v2: both scheme addresses resolve via rttp.com/open/ and iqa.org/open/; tarball = index.html only | 2026-10-31 brief reseal: October-summary entry pinned atop the public record (wall post 0124 + companion 0125 + blog EN/ZH) and first-screen date rolled to 31 October; supersedes 2026-10-30-brief-seal; prior record and tarball remain online (append-only) | 2026-11-01 ISE wave: draft -02 sealed (txt, 40 pages, 97594B) + sealed archive tarball of the three official renderings (100216B) + iqa.org/brief reseal (I-D row rolled to -02, public record entry 2026-11-01, dates rolled to 1 November); supersedes 2026-10-31-brief-reseal; prior record and tarball remain online (append-only) | 2026-11-02 canonical URI freeze: rttp.com/URI and iqa.org/URI sealed after sync to draft-li-rttp-iqa-addressing-02 (S4/5 cross-refs, S4.5.4 no-lookup, S2 standing wording); page digest excludes the seal display block; tarball = index.html | 2026-11-02 footer deroll: 27 scheme pages drop the hard-coded Internet-Draft publish date (revision-proof footer, ID line moved to last); rttp-URI / iqa-URI / brief resealed (append-only, supersedes prior records) | 2026-11-02 not-when align: iqa-URI FAQ sentence gains the -02 clause \"and not when\" (draft-li-rttp-iqa-addressing-02 Section 4.4); demo and site home edited in place (unsealed); page resealed (append-only, supersedes prior record) | 2026-11-02 whitepaper v0.7: aligned with draft-li-rttp-iqa-addressing-02 (-01 refs -> -02, page/date updated, fragile line-number cite dropped, \"and not when\" clause added x2, registry index switched to versionless datatracker series URL); page first-sealed | 2026-11-04 conformance seal wave: lra-runner rev2/rev3 + aae-runner report pages and aicent-grant-ref + aicent-lease-boundary family pages site-freeze sealed (page digest excludes the seal display block; tarball = index.html; RTTP side bundle resynced to identical bytes) | 2026-11-04 full dogfood audit: 80/80 bundle envelopes + 80/80 live artifacts + 87/87 blog envelopes verified; registry itself sealed as this record | 2026-11-04 brief reseal: seven public-record rows (two PR merges, two third-party touchpoints, AAE independent run, full audit) + stamp to 2026-11-04; supersedes site/brief@2026-11-02-footer-deroll (append-only) | 2026-11-05 brief reseal: two public-record rows pinned atop (five records filed on the ProbityAI issue channel #453; PR #215 AAE interop record merged, Mode A) and the first-screen stamp converted to a table-driven auto-date with static fallback; supersedes site/brief@2026-11-04-brief-reseal (append-only) | 2026-11-05b brief reseal: IANA row pinned atop the public record (both CRI 27/28 registry references now cite the -02 draft; no-notice-for-version-bumps policy recorded); supersedes site/brief@2026-11-05-brief-reseal (append-only) | 2026-11-07 lab door seal: azuli.com (the conformance lab public door, lapis blue) frozen on go-live; page digest excludes the seal display block; tarball = deployment unit (index.html + fonts.css + favicon.svg + fonts/) | 2026-11-07 azuli reseal: hero enriched, append-only (b tarball supersedes a) | 2026-11-07 azuli third-party cut: footer family links & member-site claim removed, append-only (c tarball supersedes b) | 2026-11-07 azuli contact line: info@azuli.com added, append-only (d tarball supersedes c) | 2026-11-08 brief reseal: four entries pinned atop the public record (the refusal-reason-priority registry entry; the maintainer review accepting the priority-order claim; the corpus formalized upstream with provenance credit; the first third-party candidate on the lease-boundary family) and first-screen date rolled to 8 November; supersedes 2026-11-05b-brief-reseal; prior record and tarball remain online (append-only) | 2026-11-08 family suite reference: both family pages (aicent-grant-ref, aicent-lease-boundary) note that refusal-priority cases written from each family were merged into the agent-evidence-vectors refusal-reason-priority corpus (PR #483, 33 members, provenance credited); supersedes 2026-11-04-conformance-seal; prior records and tarballs remain online (append-only) | 2026-11-08 icam run: independent (non-author-produced) runner over the icam-temporal-derivation candidate (lab PR #218 head 72a0f72, pre-merge); 24/24 vectors agree, 6/6 independent mutation battery killed, isolated rerun exit 0, byte replay identical | 2026-11-08 icam wave: the lease-boundary family page notes the independent run of its first third-party extension (lab PR #218, pre-merge) and the brief pins the run record; report page at /conformance/icam-runner/; supersedes noted per record; prior tarballs remain online (append-only) | 2026-11-08 azuli public brand: operator disclosure + AZULI.COM copyright, append-only (a 20261108 tarball supersedes contact-line) | 2026-11-08 factsheet first seal: zero content changes, SEAL display block inserted before </body> (strip restores original byte-exact), tarball hosted at iqa.org/seal/ | 2026-11-09 V1.3.2 release wave: six 1.3.2 artifacts sealed (PyPI/npm/crates) + five site pages resealed, append-only with supersedes chains preserved | 2026-11-09 v132-fix: rttp-URI resealed (JS/badge/pane repair), append-only (b tarball supersedes v132-release) | 2026-11-09 wp-v07: iqa-URI/brief/rttp-URI resealed (footer whitepaper label unified to v0.7), append-only | 2026-11-09 fam18: six family pages upgraded to the full recorded-run report format and sealed (family_runner run 125/125 cases agree, 94/94 mutants killed), append-only | 2026-11-09 fam18b: six family pages resealed (append-only, supersedes fam18) after display fixes (mutation-table column width, Organ AID wrapping) and the one-artifact-two-addresses card block added to the page foot | 2026-11-09 fam18b: six family pages resealed (append-only, supersedes fam18) after display fixes (mutation-table column width, Organ AID wrapping) and the one-artifact-two-addresses card block added to the page foot | 2026-11-09 fam18d: six family pages resealed (append-only, supersedes fam18c) after the lab filing wave -- PRs #221-224 opened for the four new families and the two merged families still carried stale \"lab filing pending\" text; sub rows and canonical notes updated to the true lab state, four CANDIDATE.md downloads refreshed to repo 42f2a04 | 2026-11-09 brief-lab-filings: brief resealed (append-only, supersedes wp-v07) after four public-record entries for lab PRs #221-224; downloads and attestations display pages updated with the four family rows in the same wave | 2026-11-09 icam merged-run: complete independent rerun of icam-temporal-derivation against the merged lab mainline (PR #218 merged at 3c36e95) recorded as interop/rttp-iqa-icam-temporal-derivation-3c36e95 in the operator repository -- the 2026-11-08-icam-run record (pre-merge head 72a0f72) is untouched; append-only | 2026-11-09 icam merged-run page: /conformance/icam-runner/ gained the merged-mainline re-run section (append-only) and was resealed; supersedes 2026-11-08-strip-position-fix | 2026-11-09 icam pr-number page: /conformance/icam-runner/ merged-mainline section now cites lab interop PR #225; resealed (supersedes 2026-11-09-icam-merged-run-page)",
+ "v": 1
+}

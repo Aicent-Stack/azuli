@@ -1,0 +1,4139 @@
+{
+ "alg": "dogfood-ed25519-attest-v1",
+ "canonical": "https://blog.aicent.com/attestations/blog-seals.json",
+ "digest_recipe": "sha256(b'aicent-blog-seal-v1\\x00' + slug + b'\\x00' + en_source + b'\\x00' + zh_source)",
+ "mirror": "https://iqa.org/attestations/blog-seals.json",
+ "organ_aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+ "seals": [
+  {
+   "addresses": {
+    "iqa": "iqa://bb0879f410122f96d6be8b22cc8f426d.forge.iqa",
+    "rttp": "rttp://bb0879f4.blog.aicent"
+   },
+   "date": "2026-10-20",
+   "digest": "bb0879f410122f96d6be8b22cc8f426d90709ad9e780091cea6a7ffb956a09b1",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "b1df35071eab343a",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://bb0879f410122f96d6be8b22cc8f426d.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "c1eaa9e50f75dc13b8d8b3fa6f0b15642825800e40ea58e77d5754fc28ff1b83a2e65947cb2d022609b74b4cb57f3fdcd4299de88fb0b3aae4775b5d65ea9e03",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "a2a-acp-merger",
+   "snapshot_en": {
+    "sha256": "f56e9d21a498c817d64284e187ac8b320fd6c204b545a2c5e2a63b0f100a2409",
+    "url": "https://blog.aicent.com/a2a-acp-merger/"
+   },
+   "snapshot_zh": {
+    "sha256": "8921ab7035a108604e3961b98677ef10b0bec3f5fb28e74fd428979270968a49",
+    "url": "https://blog.aicent.com/zh/a2a-acp-merger/"
+   },
+   "source_en": {
+    "path": "_src/a2a-acp-merger.html",
+    "sha256": "3de02ad9859f6c16501485820960067aa71d2d5728784330f82defbfb258ad33"
+   },
+   "source_zh": {
+    "path": "_src_zh/a2a-acp-merger.html",
+    "sha256": "ab7bcdfd5bfbd6eacec79494ee266baa4f70afc34155a40dc3bc38fe85801ba1"
+   },
+   "title_en": "The protocol war is over: ACP has folded into A2A, and the nameplate layer is still empty",
+   "title_zh": "\u534f\u8bae\u6218\u4e89\u7ed3\u675f\u4e86\uff1aACP \u5e76\u5165 A2A\uff0c\u95e8\u724c\u5c42\u8fd8\u662f\u7a7a\u7684",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://a015f630938d3fa22a35c203355ddf1b.forge.iqa",
+    "rttp": "rttp://a015f630.blog.aicent"
+   },
+   "date": "2026-10-20",
+   "digest": "a015f630938d3fa22a35c203355ddf1bbb41bf4bf4e53291c571b8081e297307",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "08603be1faf6677a",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://a015f630938d3fa22a35c203355ddf1b.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "cc84c86bd5a030c5979ead6dadb866746d86574d291d66ba9a2daa6355250aca9e3daf4dafafc87614712cde2ba9cde144353e9a47330c9fb4130d02854a2406",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "agent-identity-week",
+   "snapshot_en": {
+    "sha256": "4aae48a8195bd4bbd66a331530b74c18280c897344e04498786b2148388900c0",
+    "url": "https://blog.aicent.com/agent-identity-week/"
+   },
+   "snapshot_zh": {
+    "sha256": "15273c128460f52324355064d19986158ca6db2caf4d995ce3f12d6598a11417",
+    "url": "https://blog.aicent.com/zh/agent-identity-week/"
+   },
+   "source_en": {
+    "path": "_src/agent-identity-week.html",
+    "sha256": "cb5f87bcd309e62cd381fa4640674201654814c7f779bd76c19846939e5fa85a"
+   },
+   "source_zh": {
+    "path": "_src_zh/agent-identity-week.html",
+    "sha256": "6f641ed16d8d70509e27f7026bfa156f94992458e7f42e8076cab3f43d8ced20"
+   },
+   "title_en": "Agent identity week: four days, four answers, and 99.1%",
+   "title_zh": "\u667a\u80fd\u4f53\u8eab\u4efd\u5468\uff1a\u56db\u5929\uff0c\u56db\u79cd\u7b54\u6848\uff0c\u548c 99.1%",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://396b83e12ffeef208d45cb09edb9af21.forge.iqa",
+    "rttp": "rttp://396b83e1.blog.aicent"
+   },
+   "date": "2026-10-17",
+   "digest": "396b83e12ffeef208d45cb09edb9af214606ea1a7bb5890045a88dc758603622",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "20ff48c134f4e528",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://396b83e12ffeef208d45cb09edb9af21.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "c6e9b75adc62367d6bcdf343ea888cd5d6977a357b01a92fa76c8919ec2b89099e413aad4c6c7f4769b5854d251c34aacd4515c32a85b1058d4e7d5ef81d580b",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "canonical-or-reject",
+   "snapshot_en": {
+    "sha256": "6793886add42e516be5fc8abf1760cbad9a2234fd6f27d97a561dcbded6045af",
+    "url": "https://blog.aicent.com/canonical-or-reject/"
+   },
+   "snapshot_zh": {
+    "sha256": "ee9061217aec9b3dd560e7216ea53c174f39adb6a87bde7ed57f7df7f7ec3b11",
+    "url": "https://blog.aicent.com/zh/canonical-or-reject/"
+   },
+   "source_en": {
+    "path": "_src/q2-canonical-or-reject.html",
+    "sha256": "24b0baf12b26b7c3069ef5af8542784e6c2697604767b3643183ec4f17ea16ba"
+   },
+   "source_zh": {
+    "path": "_src_zh/q2-canonical-or-reject.html",
+    "sha256": "ce1a96e7f5fa1878c58a52f3cd38e649986b16f70fc098865836058a44e9edef"
+   },
+   "title_en": "Canonicalize or reject: one address, one spelling",
+   "title_zh": "\u89c4\u8303\u5316\u8fd8\u662f\u62d2\u7edd\uff1a\u4e00\u4e2a\u5730\u5740\u53ea\u80fd\u6709\u4e00\u79cd\u5199\u6cd5",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://6e7b999cc20d2dad6a4ec2e1e7339974.forge.iqa",
+    "rttp": "rttp://6e7b999c.blog.aicent"
+   },
+   "date": "2026-10-10",
+   "digest": "6e7b999cc20d2dad6a4ec2e1e73399744dd18725c5171472f0ab775872617741",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "104db57224f57e9b",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://6e7b999cc20d2dad6a4ec2e1e7339974.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "20300db0da78ca53275cb032dcbe5761cb355bd7f95b9c00104c745bc20f6ae338ea7573aa45e63f41039563d1134376bdd2735732fa9e485fd9b439ae64ab00",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "challenge",
+   "snapshot_en": {
+    "sha256": "58c8a22daba5c7a464dba074e605ed1eeb3aab55af3d25a4f4d521e8874988b3",
+    "url": "https://blog.aicent.com/challenge/"
+   },
+   "snapshot_zh": {
+    "sha256": "6d626ac7c552cf0fe0eb819d82d2d91676c35ddf6e82df95dfcf34f6b19af510",
+    "url": "https://blog.aicent.com/zh/challenge/"
+   },
+   "source_en": {
+    "path": "_src/challenge.html",
+    "sha256": "2894e2d05f0148d66bf4f8a0759dd652a329b845e9bd1c7021b7f5dcb295df65"
+   },
+   "source_zh": {
+    "path": "_src_zh/challenge.html",
+    "sha256": "83bab2691d85af5ecf8c47d72ff426ad06e39fb57c665544c31130a0a0e1093b"
+   },
+   "title_en": "A public challenge - any language, fully offline \u2014 if it doesn't run, it's on us",
+   "title_zh": "\u4e00\u4e2a\u516c\u5f00\u6311\u6218\uff1a\u4efb\u610f\u8bed\u8a00\u3001\u5b8c\u5168\u79bb\u7ebf\uff0c\u8dd1\u4e0d\u901a\u7b97\u6211\u4eec\u7684",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://3b68f8aa4e37b0a7dca1308a7eba0db6.forge.iqa",
+    "rttp": "rttp://3b68f8aa.blog.aicent"
+   },
+   "date": "2026-10-21",
+   "digest": "3b68f8aa4e37b0a7dca1308a7eba0db627019cf29deaa5d60431b488edf92f78",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "103f5251763d27ee",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://3b68f8aa4e37b0a7dca1308a7eba0db6.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "65174afa7ae880f6476bf3903b6ed80ca1ffc6c9762035c0b121c0d1fdbd3dd2ceb9c851c10010050a75ea1e47d226428280b2863d5e1c2130115596772e990d",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "containment-month-fences",
+   "snapshot_en": {
+    "sha256": "954e71695e14a7dca5d2d2724bf16bc9fbb91efcf1f7404c2f5db01b19740343",
+    "url": "https://blog.aicent.com/containment-month-fences/"
+   },
+   "snapshot_zh": {
+    "sha256": "72b1401876257b73540a09b51d419d1b7d1f6b42d8e2bef97786cf9cdc8d8158",
+    "url": "https://blog.aicent.com/zh/containment-month-fences/"
+   },
+   "source_en": {
+    "path": "_src/containment-month-fences.html",
+    "sha256": "27e19f0ad5910e71b3e97c79d1fcd784511b654d0895cf9f7f24bd398f060fce"
+   },
+   "source_zh": {
+    "path": "_src_zh/containment-month-fences.html",
+    "sha256": "f6ffb7d0d27e2b11678d18034730b39b59a1cc1ea893679a910c842d6c45d6dc"
+   },
+   "title_en": "Containment month: what OpenAI's pause says about fences",
+   "title_zh": "\u904f\u5236\u4e4b\u6708\uff1aOpenAI \u6682\u505c\u8bad\u7ec3\uff0c\u4e0e\u56f4\u680f\u7684\u6781\u9650",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://7ee9c50fd17ff4d7e6345e5ff36e4779.forge.iqa",
+    "rttp": "rttp://7ee9c50f.blog.aicent"
+   },
+   "date": "2026-10-09",
+   "digest": "7ee9c50fd17ff4d7e6345e5ff36e4779ab5717d77371b1c16bcd454e0cc0a679",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "c103e6b30bd07aaa",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://7ee9c50fd17ff4d7e6345e5ff36e4779.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "06f89fb55491d4e913218ada2522f57baa3585c91fca8388dfd01dc1e18ede8d6d6baa6748cfde75bef2a32da16b9299d428e4e67ac47474fe2f4aa1ad3c5d00",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "derive",
+   "snapshot_en": {
+    "sha256": "1623e03eaad1823330a89951c6688166eb5b7ebb27497092153dc7e51617caba",
+    "url": "https://blog.aicent.com/derive/"
+   },
+   "snapshot_zh": {
+    "sha256": "317ad97bae741c43e071a1ca23ddc700b7d58b65266f6d813a92157bb80d6158",
+    "url": "https://blog.aicent.com/zh/derive/"
+   },
+   "source_en": {
+    "path": "_src/derive.html",
+    "sha256": "0359488b5d5b15c69a4310cc30b28a26e4545497454a91894a1f2aa98a820c08"
+   },
+   "source_zh": {
+    "path": "_src_zh/derive.html",
+    "sha256": "1e6a869e7fc068ec1da95766829a930398f94fd7d59328b8a3e118db3a282808"
+   },
+   "title_en": "Why agent addresses should be derived, not assigned",
+   "title_zh": "\u4e3a\u4ec0\u4e48 Agent \u7684\u5730\u5740\u4e0d\u8be5\"\u5206\u914d\"\uff0c\u8be5\"\u6d3e\u751f\"",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://b4f78a1ebae489cf8f7dd6937eb8a2e6.forge.iqa",
+    "rttp": "rttp://b4f78a1e.blog.aicent"
+   },
+   "date": "2026-10-09",
+   "digest": "b4f78a1ebae489cf8f7dd6937eb8a2e65463a92588c5bdd2b0c7770313f30d7e",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "1d59aad06e8936d2",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://b4f78a1ebae489cf8f7dd6937eb8a2e6.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "4279bbce5bae48f938ce8ccd6acfd297120ac6575bd9a2adcf4c93dcf26f3161f66e738867b8b1fb5c9cd754a17e148e0d2c468f28316c5a5e41ff5a1bff940a",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "envelope-128",
+   "snapshot_en": {
+    "sha256": "e0bca9608401d16a3a74a629c9fb6ca64b0090ec2f52efd440a47c75caf5a915",
+    "url": "https://blog.aicent.com/envelope-128/"
+   },
+   "snapshot_zh": {
+    "sha256": "29ee767ac54de6ffa19951177721d950f41346920dc184b884d8286a8c58b4bc",
+    "url": "https://blog.aicent.com/zh/envelope-128/"
+   },
+   "source_en": {
+    "path": "_src/envelope-128.html",
+    "sha256": "9dc4873b0c4f5a38f2283d1f1a154b9c9831db1f5a9ee4bb1e52abae73b5680f"
+   },
+   "source_zh": {
+    "path": "_src_zh/envelope-128.html",
+    "sha256": "b6d1af91c1a10cf0a0af07fdca4b2933c6b0a2bc892ab114301e4a79f9dcadb4"
+   },
+   "title_en": "What fits in 128 bytes \u2014 trust you can re-verify offline",
+   "title_zh": "128 \u5b57\u8282\u91cc\u88c5\u4e0b\u4e86\u4ec0\u4e48\u2014\u2014\u4e00\u4efd\u53ef\u4ee5\u79bb\u7ebf\u590d\u6838\u7684\u4fe1\u4efb",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://dafb4cf976288eccf60fe2c7b7c7f3ff.forge.iqa",
+    "rttp": "rttp://dafb4cf9.blog.aicent"
+   },
+   "date": "2026-10-17",
+   "digest": "dafb4cf976288eccf60fe2c7b7c7f3ffcad31bd60b35b439126d958a0c34c8a7",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "8b959d6b6bdb4351",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://dafb4cf976288eccf60fe2c7b7c7f3ff.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "a4f2b93fde80ca6a6a87a2f202e541bc9a296bd8aec656b4b97b72cfa8db31cf4595e5d002b0e18e1b5a0924783f27882070fb0858536018470c88067719f406",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "experimental-by-design",
+   "snapshot_en": {
+    "sha256": "44bf206dcd840a2cb6bf0aca3f2849064448c0b6bebbcdc431aaf40f97566853",
+    "url": "https://blog.aicent.com/experimental-by-design/"
+   },
+   "snapshot_zh": {
+    "sha256": "05d83c74a67356fd82f01a699da8f6606a90f333f45d96b50fe0a25272acb3a9",
+    "url": "https://blog.aicent.com/zh/experimental-by-design/"
+   },
+   "source_en": {
+    "path": "_src/q8-experimental-by-design.html",
+    "sha256": "049eca79f17ed18818bb56dad013fd9f83e2240b9c84bfdec38b838548aa8520"
+   },
+   "source_zh": {
+    "path": "_src_zh/q8-experimental-by-design.html",
+    "sha256": "1bbcefe4d3a24d1aa98ece41a049acb06a5ddb5d2897d9ca03c33f8073086e44"
+   },
+   "title_en": "Experimental by design: the Informational position and protocol humility",
+   "title_zh": "\u5b9e\u9a8c\u6027\uff0c\u662f\u523b\u610f\u7684\uff1aInformational \u5b9a\u4f4d\u4e0e\u534f\u8bae\u8c26\u5351",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://dce1cb6f2641615798fb608b44d647e8.forge.iqa",
+    "rttp": "rttp://dce1cb6f.blog.aicent"
+   },
+   "date": "2026-10-17",
+   "digest": "dce1cb6f2641615798fb608b44d647e827a0a998a9b5f5ec48825593c717a688",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "1ff4dafd4f3900e8",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://dce1cb6f2641615798fb608b44d647e8.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "3ffd590578dd1168c74f31535863246a18e5637fe47af4aff8d0fc0d1472d3c08a52bfb3db7e6eb243aac95706a864a205af05d9a43336d39e02743316971306",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "fail-closed-by-design",
+   "snapshot_en": {
+    "sha256": "ab92b1ba5989aa6698762dcebe556f519d5207facc9be178b4fbbaa09a73f588",
+    "url": "https://blog.aicent.com/fail-closed-by-design/"
+   },
+   "snapshot_zh": {
+    "sha256": "6e84dbb6a7219e19acc452f252a1c124239aaa2cf8c6407846514b13e4a1b4e2",
+    "url": "https://blog.aicent.com/zh/fail-closed-by-design/"
+   },
+   "source_en": {
+    "path": "_src/q7-fail-closed-by-design.html",
+    "sha256": "e2c7d794dd4966a42d64d8f1a0ece1ae12e773591c867d0ae9085f53cf723a6f"
+   },
+   "source_zh": {
+    "path": "_src_zh/q7-fail-closed-by-design.html",
+    "sha256": "1d303911a70511c68ed2fea6e5ef38266f44aec971a7e21fdd2720db8a3f11a4"
+   },
+   "title_en": "Three client disciplines: fail-closed is an attack-surface list, not a slogan",
+   "title_zh": "\u4e09\u6761\u5ba2\u6237\u7aef\u94c1\u5f8b\uff1afail-closed \u4e0d\u662f\u53e3\u53f7\u662f\u653b\u9632\u6e05\u5355",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://600e0cd3d27c5e389ccbc4063f46b7ec.forge.iqa",
+    "rttp": "rttp://600e0cd3.blog.aicent"
+   },
+   "date": "2026-10-10",
+   "digest": "600e0cd3d27c5e389ccbc4063f46b7ec28d0a111bdae0b1ce092f58dd6bde9bf",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "c7037851c028ae3e",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://600e0cd3d27c5e389ccbc4063f46b7ec.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "855b8542144cf90256ab32b9ab1602161cd0fce9845d98c3d1be158a758fa2eea2e49cf6af3a54de08314d4cbb2a3a287799b90325108cf7342b565229ae840c",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "first-evidence",
+   "snapshot_en": {
+    "sha256": "28885344d76ec57aeadbbcb4f38a880874d9026d4faa0a397de9a24539d28004",
+    "url": "https://blog.aicent.com/first-evidence/"
+   },
+   "snapshot_zh": {
+    "sha256": "293510bdae2331866b25328c492898b656732d31fe22c53d7f7ecab971a60015",
+    "url": "https://blog.aicent.com/zh/first-evidence/"
+   },
+   "source_en": {
+    "path": "_src/first-evidence.html",
+    "sha256": "9a84c3e402e432f053dc5507eb459ecd6efb626e6edfb39fe8421bbae0a468b3"
+   },
+   "source_zh": {
+    "path": "_src_zh/first-evidence.html",
+    "sha256": "0a96f83fc3437e3b876c4ff533f833a6f6a41cabc3e48aea09fcfd5440bc280b"
+   },
+   "title_en": "The protocol does not own genesis",
+   "title_zh": "\u534f\u8bae\u4e0d\u62e5\u6709\u521b\u4e16\u7eaa",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://40bfe9551f9439fdbe41784986fa66af.forge.iqa",
+    "rttp": "rttp://40bfe955.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "40bfe9551f9439fdbe41784986fa66af1b6faa3e4a5ed65571a84127757c0ede",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "30b84dbe49177635",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://40bfe9551f9439fdbe41784986fa66af.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "7683b32d74749da76a18e92d8ccf0452e2401b57662ca66fb00741c716a160b5602f78811d50db2a92b8faa3045455b02a4b6b16bcd349c3a1639d050cf54b06",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "four-answers",
+   "snapshot_en": {
+    "sha256": "addd79018a12b7a1f154ab1ddc9b5edf606be7f03c43ae67cd54d4c684940179",
+    "url": "https://blog.aicent.com/four-answers/"
+   },
+   "snapshot_zh": {
+    "sha256": "003fb0111fc8d2bde9458c638142f2de8d07c0e99d8c87dc984edc7432fe60cb",
+    "url": "https://blog.aicent.com/zh/four-answers/"
+   },
+   "source_en": {
+    "path": "_src/four-answers.html",
+    "sha256": "b2ae53a21b501f275fad88d3acdda99b122b24847808beabbc1626ccb9ff81fc"
+   },
+   "source_zh": {
+    "path": "_src_zh/four-answers.html",
+    "sha256": "77f8f6210434c058478ad6fa893c5b491963378375a7e18f18fef5d2e4665707"
+   },
+   "title_en": "Four questions, four answers: our hand-in to the Agentic Web report",
+   "title_zh": "\u56db\u95ee\u56db\u7b54\uff1a\u6211\u4eec\u7ed9\u667a\u80fd\u4f53\u7f51\u7edc\u62a5\u544a\u4ea4\u7684\u7b54\u5377",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://d73d9d1d5c7495b0664561c2d5e2b826.forge.iqa",
+    "rttp": "rttp://d73d9d1d.blog.aicent"
+   },
+   "date": "2026-10-21",
+   "digest": "d73d9d1d5c7495b0664561c2d5e2b826a2eef1cd4f33204e7542af1515b49989",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "4336833679fdbc38",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://d73d9d1d5c7495b0664561c2d5e2b826.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "3f8029953cf9cecedcd34e44fae7c8f201af8c2359971397c1d4df16122d550fa38979093d606e7604dce8795f5fd3d40b2434b3ff6b5e0253974d251942a105",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "four-questions-to-w3c-cg",
+   "snapshot_en": {
+    "sha256": "33119e1b96f0a123e2aa88f80a6aa95b003cec5d2f244e61cba886d19ffe5a86",
+    "url": "https://blog.aicent.com/four-questions-to-w3c-cg/"
+   },
+   "snapshot_zh": {
+    "sha256": "283dec3afcfcd10e687967b2383eb1ad7e7926c8117a56ce39d354c5f7d4311a",
+    "url": "https://blog.aicent.com/zh/four-questions-to-w3c-cg/"
+   },
+   "source_en": {
+    "path": "_src/four-questions-to-w3c-cg.html",
+    "sha256": "8d792794cc2c6e15ebe05ff46d7e5a6577f856d659bc4273a9280e7d943c1054"
+   },
+   "source_zh": {
+    "path": "_src_zh/four-questions-to-w3c-cg.html",
+    "sha256": "339acf24e03bc0dfdb106d5ccb469d2a52b4237f5e0484aca3c9d3d4794706b2"
+   },
+   "title_en": "Four questions to the W3C AI Agent Protocol Community Group",
+   "title_zh": "\u5bc4\u7ed9 W3C \u667a\u80fd\u4f53\u534f\u8bae\u793e\u533a\u7ec4\u7684\u56db\u95ee",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://f7ad0fb284fa3ca69f2c35a662596fa1.forge.iqa",
+    "rttp": "rttp://f7ad0fb2.blog.aicent"
+   },
+   "date": "2026-10-24",
+   "digest": "f7ad0fb284fa3ca69f2c35a662596fa139246f46b646b8919f6c691becd52b5c",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "cd47c04ef2a6e9b9",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://f7ad0fb284fa3ca69f2c35a662596fa1.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "797414b9b046d9974a30ef2f2c81a3a81f9240ca983530ab70427516e9a0b327198861e39379d61a50643a0b0f4ef9cf695d0561e4736b223fbd94e85ec97109",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "how-we-ran-it",
+   "snapshot_en": {
+    "sha256": "e4c7cdef762f1dddef8371f7de22e6697918399de414ae3245b64ca21d204713",
+    "url": "https://blog.aicent.com/how-we-ran-it/"
+   },
+   "snapshot_zh": {
+    "sha256": "d630424e4eb7931bfed04a7dd4999fd0f80cc0156ca7be487a0bac0f3b525a2f",
+    "url": "https://blog.aicent.com/zh/how-we-ran-it/"
+   },
+   "source_en": {
+    "path": "_src/how-we-ran-it.html",
+    "sha256": "e04bf50887c895e9a962f0ae03f9f25bfc8840f4484171872ad7c91db4f51227"
+   },
+   "source_zh": {
+    "path": "_src_zh/how-we-ran-it.html",
+    "sha256": "bd3d635df2a2564f15f44b183c5652e6a26a2d16828a4594e3b979c747f8e198"
+   },
+   "title_en": "How we ran it: from a named seat to a posted report in one day",
+   "title_zh": "\u6211\u4eec\u600e\u4e48\u8dd1\u7684\uff1a\u4ece\u88ab\u70b9\u540d\u5230\u4ea4\u51fa\u62a5\u544a\u53ea\u7528\u4e86\u4e00\u5929",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://0dfb6757c455a423b9277d4e1c1adcc4.forge.iqa",
+    "rttp": "rttp://0dfb6757.blog.aicent"
+   },
+   "date": "2026-10-23",
+   "digest": "0dfb6757c455a423b9277d4e1c1adcc490267fdb2a25cd321e7c8af164955fc7",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "f50f0f8a0f0be4e9",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://0dfb6757c455a423b9277d4e1c1adcc4.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "c315f79c55a516365fc8ed7645d818976157bac0c8dbb5b180de3427cd413fff9cdf58ba171c2d2ba4cd25061f88cc79fa4f36f12fab99920cc66bf934b47406",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "lab-scores-behavior",
+   "snapshot_en": {
+    "sha256": "44ad87af6a16f47e0cbe352135828575dd81bbac35d80894b5aefa90339d85cd",
+    "url": "https://blog.aicent.com/lab-scores-behavior/"
+   },
+   "snapshot_zh": {
+    "sha256": "c294d1b600ada3972ff51350eb90749a6870ccee4a8cfd051b3b7c32ab20d2a1",
+    "url": "https://blog.aicent.com/zh/lab-scores-behavior/"
+   },
+   "source_en": {
+    "path": "_src/lab-scores-behavior.html",
+    "sha256": "b9ed9c21f9a17083047540717c7da4732862f3c0df6c4cb6a08f08a61c4d9df2"
+   },
+   "source_zh": {
+    "path": "_src_zh/lab-scores-behavior.html",
+    "sha256": "c1be057a5cc01dd64293c4c5e5feb9b3e51ab4be4e1d62107d34f97bccb2bb4b"
+   },
+   "title_en": "The lab that scores behavior: a conformance lab opens its doors, and names us",
+   "title_zh": "\u7ed9\u884c\u4e3a\u6253\u5206\u7684\u5b9e\u9a8c\u5ba4\uff1a\u4e00\u81f4\u6027\u5b9e\u9a8c\u5ba4\u5f00\u95e8\uff0c\u5e76\u70b9\u5230\u4e86\u6211\u4eec\u7684\u540d\u5b57",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://50166145244d1a65855acebd50e1e909.forge.iqa",
+    "rttp": "rttp://50166145.blog.aicent"
+   },
+   "date": "2026-10-09",
+   "digest": "50166145244d1a65855acebd50e1e909fa4416288328daacc97ff4389ff3a4e2",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "bc92a1e7537d4735",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://50166145244d1a65855acebd50e1e909.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "6c57cf3ce6bda2b63c8849be13836fc1e90e6f4be8da4b8aaae1f3ce4d3fe91624850716d5469dc2b5b00ae538e05c0bef07d2fb26dea498f6c4ce0dae357107",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "mcp-30s",
+   "snapshot_en": {
+    "sha256": "9ba262b1f67bffb974f3a4b9932cee4877d1049ef0a4212e0127be022f017762",
+    "url": "https://blog.aicent.com/mcp-30s/"
+   },
+   "snapshot_zh": {
+    "sha256": "c2a3a1a1c06e756b03051738e0411fba5974507ab47b5c81a886bff81c138fac",
+    "url": "https://blog.aicent.com/zh/mcp-30s/"
+   },
+   "source_en": {
+    "path": "_src/mcp-30s.html",
+    "sha256": "ebad58b9f4db27c21c09c44b691e7f434d4f5f490cea184a3eb2c8692becbb01"
+   },
+   "source_zh": {
+    "path": "_src_zh/mcp-30s.html",
+    "sha256": "abea932c72584b29dcf6c35787f122f5cd1106dc42b428f8a6ca58d33973e3eb"
+   },
+   "title_en": "Four MCP tools, thirty seconds to verify a cryptographic proof",
+   "title_zh": "\u56db\u4e2a MCP \u5de5\u5177\uff0c30 \u79d2\u9a8c\u8bc1\u4e00\u4efd\u5bc6\u7801\u5b66\u8bc1\u636e\u2014\u2014iqa-mcp \u4e0a\u624b",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://5525ca4d7a65a7048ebe63ba20f3168e.forge.iqa",
+    "rttp": "rttp://5525ca4d.blog.aicent"
+   },
+   "date": "2026-10-10",
+   "digest": "5525ca4d7a65a7048ebe63ba20f3168eddc85e68bb30a1a58dbb15c62b9e5dbd",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "bd91dc8c0dd30587",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://5525ca4d7a65a7048ebe63ba20f3168e.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "6fd63c4c6856ab0d2a39eb7b338ff06e254b279c8cb127ea385eedbd84c9b3bb60ad624ca7e2cbb4b14dec4295c8c81005cdc8ee767d7623d58e081421c3fe0b",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "no-lifetime",
+   "snapshot_en": {
+    "sha256": "504cdd4ca9f25e1b398caa95fcb53d253a265d101d0d07acc3a670d97f455425",
+    "url": "https://blog.aicent.com/no-lifetime/"
+   },
+   "snapshot_zh": {
+    "sha256": "f99554c05520a7d1ebf69817552ede26b88255b4b9c1c5bb63b5a93e254edb8a",
+    "url": "https://blog.aicent.com/zh/no-lifetime/"
+   },
+   "source_en": {
+    "path": "_src/no-lifetime.html",
+    "sha256": "604a3b3635f264576fe61edbea2796ab0954d297b784055569854808262b0758"
+   },
+   "source_zh": {
+    "path": "_src_zh/no-lifetime.html",
+    "sha256": "814608038348f8d38f02eebe1d7a57a91a171518ee88b64ab9b6819a5e7703fb"
+   },
+   "title_en": "Trust has no lifetime appointment",
+   "title_zh": "\u4e3a\u4ec0\u4e48\u4fe1\u4efb\u5fc5\u987b\u6bcf 120 \u79d2\u91cd\u5ba1\u4e00\u6b21\uff1f",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://cce7f6aa4b8ff235d2c538a2b8618c73.forge.iqa",
+    "rttp": "rttp://cce7f6aa.blog.aicent"
+   },
+   "date": "2026-10-29",
+   "digest": "cce7f6aa4b8ff235d2c538a2b8618c73b3069336d6f0a22f358ab8623c64bca1",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "e57bbde240d82ea4",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://cce7f6aa4b8ff235d2c538a2b8618c73.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "6a7138a40561cc1dc3a95f681e23fe30d05c6650e2662cf23af08f0e9750b3522dc683f943ece1299c48606fa785753d05bb5bc7eeb303228e06d6a45e88ab0e",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "no-stop-button-on-the-wire",
+   "snapshot_en": {
+    "sha256": "3f7efd76ed0e2d131e44b8954a93923e8ef3f4506c2fc51776871ece593519d4",
+    "url": "https://blog.aicent.com/no-stop-button-on-the-wire/"
+   },
+   "snapshot_zh": {
+    "sha256": "ef6f8daa2bc4eb704da27378e6fb80015c8e0d08ca169d55e5f8b945efbdf6e4",
+    "url": "https://blog.aicent.com/zh/no-stop-button-on-the-wire/"
+   },
+   "source_en": {
+    "path": "_src/no-stop-button-on-the-wire.html",
+    "sha256": "8540d8196ce16b072cbcafa484709c38fce27af7b87bc861d863934c7f27a902"
+   },
+   "source_zh": {
+    "path": "_src_zh/no-stop-button-on-the-wire.html",
+    "sha256": "e706bda72bf8136b0969a7d7d45256f815b4e2a5f7ea172ce9acb639003d89dd"
+   },
+   "title_en": "No stop button on the wire",
+   "title_zh": "\u7ebf\u4e0a\u6ca1\u6709\u6025\u505c\u6309\u94ae",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://9694ee9cfe6d1c434488329296c9df4d.forge.iqa",
+    "rttp": "rttp://9694ee9c.blog.aicent"
+   },
+   "date": "2026-10-17",
+   "digest": "9694ee9cfe6d1c434488329296c9df4d7d68a31172062c1f346f2f3bf46e8f27",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "7c88fb1d912f98a6",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://9694ee9cfe6d1c434488329296c9df4d.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "e7c65becfc2b0e64418d6dba6466f4f309040e0e4f4d7e8566a6082e676bad073783d1b0a5767b0e4f7e6c0d89bbf09cf2f7d1c400de7816d5be519d8060bd0d",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "one-model-two-schemes",
+   "snapshot_en": {
+    "sha256": "18511e0e37bb7884ee8d3044f434a7d262724e071f849797b2bb68bcf20d8089",
+    "url": "https://blog.aicent.com/one-model-two-schemes/"
+   },
+   "snapshot_zh": {
+    "sha256": "15cc10eef8694d50399a40f55978905b510fab1b89acba72e52f5bb65c321415",
+    "url": "https://blog.aicent.com/zh/one-model-two-schemes/"
+   },
+   "source_en": {
+    "path": "_src/q6-one-model-two-schemes.html",
+    "sha256": "9c05be821d4f97e8fc794011313f2fe67343654201b782cb178254589a38afb5"
+   },
+   "source_zh": {
+    "path": "_src_zh/q6-one-model-two-schemes.html",
+    "sha256": "15a9c194b7d183cfd209aee0add6819af82de6df6333f9233ed3ec2c2681a4dc"
+   },
+   "title_en": "Why two schemes live in one document",
+   "title_zh": "\u4e24\u4e2a\u65b9\u6848\u4e3a\u4ec0\u4e48\u4f4f\u5728\u540c\u4e00\u4efd\u6587\u6863\u91cc",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://207aa78f87a57119e5b721b2c5a7cbab.forge.iqa",
+    "rttp": "rttp://207aa78f.blog.aicent"
+   },
+   "date": "2026-10-10",
+   "digest": "207aa78f87a57119e5b721b2c5a7cbababd5eae08878a8f509e5577640eab90a",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "fad1a2ad6d4da614",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://207aa78f87a57119e5b721b2c5a7cbab.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "cc28d782184af4e13b3c11238dbac64445b1980f163e21993c9b64a42106a18bc83136b39f80557c3cf4f981dcb52814198986d64511b15049d4fb82d5fab903",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "overview",
+   "snapshot_en": {
+    "sha256": "0b050a1257ce796cec220a3f1370694f85b7a92dd4b0520cadb2bee9c1d05caf",
+    "url": "https://blog.aicent.com/overview/"
+   },
+   "snapshot_zh": {
+    "sha256": "db3d69f37b8cd1b183c0f6d55920690b05a72c169ab2259fb83085794c4f4023",
+    "url": "https://blog.aicent.com/zh/overview/"
+   },
+   "source_en": {
+    "path": "_src/overview.html",
+    "sha256": "f0be0e38db2335141fda4307f6cfd6231ee5a3c66561e4a722f936b623a9b182"
+   },
+   "source_zh": {
+    "path": "_src_zh/overview.html",
+    "sha256": "3f289718031b236e21d993237c4b026e66a26ec91956970b53c9313965da8a94"
+   },
+   "title_en": "Institutional trust and mathematical trust are 128 bytes apart",
+   "title_zh": "\u5236\u5ea6\u53ef\u4fe1\u4e0e\u6570\u5b66\u53ef\u4fe1\u4e4b\u95f4\uff0c\u5dee\u4e00\u4e2a 128 \u5b57\u8282",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://44932d20dceaef51b68071c9857d3efe.forge.iqa",
+    "rttp": "rttp://44932d20.blog.aicent"
+   },
+   "date": "2026-10-21",
+   "digest": "44932d20dceaef51b68071c9857d3efe51646120da0f2507e39d56fc51375ccc",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "f024ec5ee8898074",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://44932d20dceaef51b68071c9857d3efe.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "f42af2b2cb6a9c227c0455b68ebadd19f12f7543bd57e3669e004cca98d1c57694608656cc12e2bc46824413fa3491a8ea0838bf05cb345520c93cf912767507",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "pap-front-door",
+   "snapshot_en": {
+    "sha256": "72d902bf7fbf1c113ae4084e690d46f713e2b5fbf3127f826e29621560b37b40",
+    "url": "https://blog.aicent.com/pap-front-door/"
+   },
+   "snapshot_zh": {
+    "sha256": "1b1fbee66fa97d127ba6e4ffdc5291271c262a63111cf5f1fefa7ba0bf048269",
+    "url": "https://blog.aicent.com/zh/pap-front-door/"
+   },
+   "source_en": {
+    "path": "_src/pap-front-door.html",
+    "sha256": "6aafed7fd405f8bcd466ea3f465da4bc0d8b54e6898e3d61fc368e80126deaf7"
+   },
+   "source_zh": {
+    "path": "_src_zh/pap-front-door.html",
+    "sha256": "eb8f4b881770086861be45f27376e7cef6aa956525787c24d6b46dc7f1e227c9"
+   },
+   "title_en": "The front door: what Personal Agent Protocol answers, and what it cannot",
+   "title_zh": "\u6b63\u95e8\uff1aPersonal Agent Protocol \u56de\u7b54\u4e86\u4ec0\u4e48\uff0c\u56de\u7b54\u4e0d\u4e86\u4ec0\u4e48",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://e5df05eaa918340c7fcf6d935e8c625c.forge.iqa",
+    "rttp": "rttp://e5df05ea.blog.aicent"
+   },
+   "date": "2026-10-17",
+   "digest": "e5df05eaa918340c7fcf6d935e8c625c1e0ba393c0aa6ccd34d4d375f3586c0e",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "db50289b3d205752",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://e5df05eaa918340c7fcf6d935e8c625c.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "3cf7c7fca5dfda68d58a81abc24c3f21f1d9705b366e8e23e2ea0e7f0932ab81ec9796dbefda6f3b62dfa9830715b41f9578012d4f8f9b40a07c3c07b9e07007",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "parsing-is-not-attestation",
+   "snapshot_en": {
+    "sha256": "bc7062e64143765d64c3ccbe924316ff5a6f414c8aae27178cdd581747f62989",
+    "url": "https://blog.aicent.com/parsing-is-not-attestation/"
+   },
+   "snapshot_zh": {
+    "sha256": "00ce1bf2a03a984f18fbd17765a2b5acfa20de4692a971b6ed2f97b8e28d4c89",
+    "url": "https://blog.aicent.com/zh/parsing-is-not-attestation/"
+   },
+   "source_en": {
+    "path": "_src/q3-parsing-is-not-attestation.html",
+    "sha256": "0b9ffd6699dc9502a24aa997980444f164556250254eade113e3b6cf8fb55e4f"
+   },
+   "source_zh": {
+    "path": "_src_zh/q3-parsing-is-not-attestation.html",
+    "sha256": "2c2f44f873c48c6c8dae97c04fcb5b1c6f03a3d74b05570ffacd7ea0c2346918"
+   },
+   "title_en": "Parsing is not attestation: why a syntactically valid subject is still untrusted",
+   "title_zh": "\u89e3\u6790\u4e0d\u662f\u8bc1\u660e\uff1a\u4e3a\u4ec0\u4e48\u8bed\u6cd5\u6b63\u786e\u7684\u4e3b\u4f53\u4ecd\u7136\u4e0d\u53ef\u4fe1",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://d1259dff9fa3c3ca7a3d46d82d988097.forge.iqa",
+    "rttp": "rttp://d1259dff.blog.aicent"
+   },
+   "date": "2026-10-21",
+   "digest": "d1259dff9fa3c3ca7a3d46d82d988097fcd1e09abb1b71ce1078e19995142ed2",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "1fe7cf9ccf4cf2bf",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://d1259dff9fa3c3ca7a3d46d82d988097.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "f6011820206abd9bbb2cbb6988c573bc319ae335bf2e0f3dd4086e716c76af9e7785992ae1f6fd57872a5ad6a3a38f41e61b3f91c8c94a0741e7aac34af8ef0b",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "protocol-pivoting-hallway",
+   "snapshot_en": {
+    "sha256": "fb4e0f07ddf03d4bed33f580afd3b370c5d138170cf544c1d936373a4dbd6374",
+    "url": "https://blog.aicent.com/protocol-pivoting-hallway/"
+   },
+   "snapshot_zh": {
+    "sha256": "bf42d5d483fc1ea33162118351767f608d08703ebeeec88b6a6b001fd24e4b5c",
+    "url": "https://blog.aicent.com/zh/protocol-pivoting-hallway/"
+   },
+   "source_en": {
+    "path": "_src/protocol-pivoting-hallway.html",
+    "sha256": "3ebc1e06ce492f791423c0752d9cd404ad3eb324ee9b2c4a13a59b764ac1ecd8"
+   },
+   "source_zh": {
+    "path": "_src_zh/protocol-pivoting-hallway.html",
+    "sha256": "61e3109747de775dd6e63e2b42467585e72a228682aac06f6d82e985e2ec8583"
+   },
+   "title_en": "One bug, five organizations: the hallway problem has a name",
+   "title_zh": "\u4e00\u4e2a\u7f3a\u9677\uff0c\u4e94\u5bb6\u673a\u6784\uff1a\u8d70\u5eca\u95ee\u9898\u7ec8\u4e8e\u6709\u4e86\u540d\u5b57",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://b761c5e973c6375a14179c6fc2360c6f.forge.iqa",
+    "rttp": "rttp://b761c5e9.blog.aicent"
+   },
+   "date": "2026-10-22",
+   "digest": "b761c5e973c6375a14179c6fc2360c6fdfd9e6a6d012eb2574222a8123d8f644",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "ac3ce08f074a9d18",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://b761c5e973c6375a14179c6fc2360c6f.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "4e045ceee4867ba029d5cceb648bc84df42ccf581d6acba7e8787eabb0f7610de09a52721d94df4303410f3b785311c86450b17847f444b499ebd6799c39c604",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "q10-two-roads-to-a-client-id",
+   "snapshot_en": {
+    "sha256": "2b37579aa5c4800572a76a0884aef06eec5742f83507b3dfc7bf64bc770bbf46",
+    "url": "https://blog.aicent.com/q10-two-roads-to-a-client-id/"
+   },
+   "snapshot_zh": {
+    "sha256": "b7da322248e942a0b699a4f5810c6536d87359fed2648dc62e93bec9c5159514",
+    "url": "https://blog.aicent.com/zh/q10-two-roads-to-a-client-id/"
+   },
+   "source_en": {
+    "path": "_src/q10-two-roads-to-a-client-id.html",
+    "sha256": "36098dc8b9f36f1564167289dd995e266e490193f627e704a45ebb548e258fe1"
+   },
+   "source_zh": {
+    "path": "_src_zh/q10-two-roads-to-a-client-id.html",
+    "sha256": "fed0f92eee787c93ac408bacf45966faa767e7a1920817624d0b7093f417c313"
+   },
+   "title_en": "Two roads to a client_id: the DID-native road and the metadata road",
+   "title_zh": "client_id \u7684\u4e24\u6761\u8def\uff1aDID \u539f\u751f\u8def\u4e0e\u5143\u6570\u636e\u6587\u6863\u8def",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://43a77f5d0ceda3372511f1972e3bfd25.forge.iqa",
+    "rttp": "rttp://43a77f5d.blog.aicent"
+   },
+   "date": "2026-10-22",
+   "digest": "43a77f5d0ceda3372511f1972e3bfd252b9bc6459ee68736d65ab6b680e897c1",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "0377b8008bafcb08",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://43a77f5d0ceda3372511f1972e3bfd25.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "4072f2e15f89dd4455560b340f1621e9fec019fd4e203a6b531ee099f037b8cebd3dfbb5a8620af0f67f8da81b2771c1f68127ccf027c8d5e8715f9fcc93d40b",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "q11-standing-is-not-a-reputation",
+   "snapshot_en": {
+    "sha256": "435a795ba6e3767ca792a74d0229e695cbfaff399067c15df802223dab3d98bd",
+    "url": "https://blog.aicent.com/q11-standing-is-not-a-reputation/"
+   },
+   "snapshot_zh": {
+    "sha256": "e4ff5c754fc50b8311ae15a4336afcea37808f68204f335f41362fc831c30f75",
+    "url": "https://blog.aicent.com/zh/q11-standing-is-not-a-reputation/"
+   },
+   "source_en": {
+    "path": "_src/q11-standing-is-not-a-reputation.html",
+    "sha256": "2b5aa9823a64c5ba3dbd7badaa11caef3266e38cfbcf0fc93c028f1f20ac2900"
+   },
+   "source_zh": {
+    "path": "_src_zh/q11-standing-is-not-a-reputation.html",
+    "sha256": "da50dbe2b13128381ef09659f159a6f580a4530785f1bec1bad75fe48f087b16"
+   },
+   "title_en": "Standing is a lease, not a reputation: after first contact",
+   "title_zh": "standing \u662f\u79df\u7ea6\uff0c\u4e0d\u662f\u58f0\u8a89\uff1a\u521d\u6b21\u63a5\u89e6\u4e4b\u540e",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://1c74c432f0431fa362f22e1550ddbb8a.forge.iqa",
+    "rttp": "rttp://1c74c432.blog.aicent"
+   },
+   "date": "2026-10-23",
+   "digest": "1c74c432f0431fa362f22e1550ddbb8a65e0fe3939962ca2995ad785cc32f670",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "50c79c95d6ea3381",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://1c74c432f0431fa362f22e1550ddbb8a.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "f911a8f339bd2bd26750b807dd78f685aabfa7c90f2c2d0e318eea38c68d3718526e8070e80e0bb0edeb2d3e1ac4147c9747bc71b0e54a494fa049d24b006c04",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "q12-three-maps-one-fence",
+   "snapshot_en": {
+    "sha256": "4c2a46c3b20ae4167ae974acf5d539e102be91e89067b628a4331d450608ee6a",
+    "url": "https://blog.aicent.com/q12-three-maps-one-fence/"
+   },
+   "snapshot_zh": {
+    "sha256": "a13401f8798690286d95cee4b9ee7fb35d63d28825dcfa2d22d6fc3546911167",
+    "url": "https://blog.aicent.com/zh/q12-three-maps-one-fence/"
+   },
+   "source_en": {
+    "path": "_src/q12-three-maps-one-fence.html",
+    "sha256": "3b8f415c292c48d13f336e45a2dc4d5225eddedbe46f2ee7fe979868c9438216"
+   },
+   "source_zh": {
+    "path": "_src_zh/q12-three-maps-one-fence.html",
+    "sha256": "30e0f34bc637bcec29833d77ca11d95c3d19ebb218c702c7d5027f06d9897895"
+   },
+   "title_en": "Three maps, one fence: layers of trust, axes of conformance, three questions",
+   "title_zh": "\u4e09\u5f20\u5730\u56fe\uff0c\u4e00\u9053\u6805\u680f\uff1a\u4fe1\u4efb\u7684\u4e09\u5c42\u3001\u5408\u89c4\u7684\u4e09\u8f74\u3001\u6211\u4eec\u7684\u4e09\u95ee",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://434e0c2c56dc6e276c9b740110d4a882.forge.iqa",
+    "rttp": "rttp://434e0c2c.blog.aicent"
+   },
+   "date": "2026-10-25",
+   "digest": "434e0c2c56dc6e276c9b740110d4a8824bb26d991bb2660e5e78012b3a39bc84",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "c1f82b1a6d3f7375",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://434e0c2c56dc6e276c9b740110d4a882.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "75c78c99076596ecdd1444aadea4eac4ad774047c4ce770f612b1eed83244ed94c26697d26d22521546cf333f6c680f48c4f65da987f50b9110e95516c911402",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "q13-fail-closed-three-registers",
+   "snapshot_en": {
+    "sha256": "b152ebfef7bb279ce6b65e6c8a13c46832fc40bf396b9abaad4a78314920d922",
+    "url": "https://blog.aicent.com/q13-fail-closed-three-registers/"
+   },
+   "snapshot_zh": {
+    "sha256": "c7ec8c9811ce176a1130e898bc026c3220ff53f3fd99848622479954753bbbab",
+    "url": "https://blog.aicent.com/zh/q13-fail-closed-three-registers/"
+   },
+   "source_en": {
+    "path": "_src/q13-fail-closed-three-registers.html",
+    "sha256": "17a957e0cc3c53e9228060f1c6b2354bb1bc70b652652cb723c9673c0a40248d"
+   },
+   "source_zh": {
+    "path": "_src_zh/q13-fail-closed-three-registers.html",
+    "sha256": "40528dfe4a4e160e974d5c1d1175e95e64fc167f59f404f7881c66529a339ffa"
+   },
+   "title_en": "One behaviour, three registers: fail-closed, a draft, a class, and a live question",
+   "title_zh": "\u4e00\u4e2a\u884c\u4e3a\uff0c\u4e09\u79cd\u767b\u8bb0\uff1aFail-closed \u7684\u8349\u6848\u3001\u7c7b\u4e0e\u8fdb\u884c\u4e2d\u7684\u95ee\u9898",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://dfc0dfca8e197983ba3f5e744a7b6fc5.forge.iqa",
+    "rttp": "rttp://dfc0dfca.blog.aicent"
+   },
+   "date": "2026-10-28",
+   "digest": "dfc0dfca8e197983ba3f5e744a7b6fc5ded1d58efaafac4ad289e61cdcf39fcb",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "3417d6046c7b9e50",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://dfc0dfca8e197983ba3f5e744a7b6fc5.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "536356ae0c9ce38b55d0844036c8fa53fdd478b4664e8fc4e5f77220192eb785afb6ff3866639f0c016ca49007e76997cf7977154f7531487f41417e15d0320c",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "q14-what-revision-one-adds",
+   "snapshot_en": {
+    "sha256": "54f25032dbff1fed35a2f24684f0f2bf19869160c4d8c8c24c0d6eec6f54bc87",
+    "url": "https://blog.aicent.com/q14-what-revision-one-adds/"
+   },
+   "snapshot_zh": {
+    "sha256": "a28eec4661a61931414d418cf3573d85b087fe8f20d426c20646202c64fc7700",
+    "url": "https://blog.aicent.com/zh/q14-what-revision-one-adds/"
+   },
+   "source_en": {
+    "path": "_src/q14-what-revision-one-adds.html",
+    "sha256": "e944f4efa9a543e908e6eeb62537969cd5b24b588bd97537782f310f07f13b91"
+   },
+   "source_zh": {
+    "path": "_src_zh/q14-what-revision-one-adds.html",
+    "sha256": "c38aad5152b2f9ae69f3a6f0283d0ef808430ffbb4dcf2bbb62e55a89dfa43f2"
+   },
+   "title_en": "What revision -01 of draft-li-rttp-iqa-addressing adds: the lease, the wire, and the answer semantics",
+   "title_zh": "draft-li-rttp-iqa-addressing-01 \u65b0\u589e\u4e86\u4ec0\u4e48\uff1a\u4fe1\u4efb\u79df\u7ea6\u3001\u7ebf\u683c\u5f0f\u4e0e\u5e94\u7b54\u8bed\u4e49",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://852d846cca281192d129172f5053a09e.forge.iqa",
+    "rttp": "rttp://852d846c.blog.aicent"
+   },
+   "date": "2026-10-28",
+   "digest": "852d846cca281192d129172f5053a09ec804b53227d3106074e7816b6ce05e1b",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "e7150304bef4eb68",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://852d846cca281192d129172f5053a09e.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "64ce40e36d652a5aac932f559ae1ed8009fdca77014baea12e166da15212117e5be8a1f9660d8afdaf6b5e0e22e239160bb123bde248ebc4395823307b127900",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "q15-the-please-question",
+   "snapshot_en": {
+    "sha256": "aa886286f73c15202265bead334e3380265d86a68454f32b7ef26307cca6ee14",
+    "url": "https://blog.aicent.com/q15-the-please-question/"
+   },
+   "snapshot_zh": {
+    "sha256": "1d6b8ab06e53990287b8a299f2ba46be2a3cab4b65e267342df09282445ea4bd",
+    "url": "https://blog.aicent.com/zh/q15-the-please-question/"
+   },
+   "source_en": {
+    "path": "_src/q15-the-please-question.html",
+    "sha256": "88b363072cbf20e47687323ca3b15ecdc4f39052391ec089a50fcb26a0953307"
+   },
+   "source_zh": {
+    "path": "_src_zh/q15-the-please-question.html",
+    "sha256": "8616351bf570ea315ee243066554ca12158e2ea4475f8760793de6f9f3ae171d"
+   },
+   "title_en": "The \"Please\" question: where the delegator's policy lives",
+   "title_zh": "\"\u300cPlease\u300d\u4e4b\u95ee\uff1a\u59d4\u6258\u4eba\u7684\u653f\u7b56\u4f4f\u5728\u54ea\u91cc\"",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://ddb29c3440bf2e03e96a26e0729a7909.forge.iqa",
+    "rttp": "rttp://ddb29c34.blog.aicent"
+   },
+   "date": "2026-10-28",
+   "digest": "ddb29c3440bf2e03e96a26e0729a7909ab12711a70dafdbb5af9dbaf82031bd9",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "ed7f2db048f8bd3a",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://ddb29c3440bf2e03e96a26e0729a7909.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "d0d7a7f84218f48f76fe76af09e86cabe375f115dd61393c3b13effdba3add1c5cc418d1da2b1664fc2c17e9c14b584fcf7e940b69f5d99e302482a443626802",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "q16-can-a-model-read-the-policy",
+   "snapshot_en": {
+    "sha256": "32c8d25f6633f3af7881249baa1c252f2a6a3a48556b27e234861cdfdf6e7ff5",
+    "url": "https://blog.aicent.com/q16-can-a-model-read-the-policy/"
+   },
+   "snapshot_zh": {
+    "sha256": "abe943c4bb57fb9da0238c682d4eda0c2f45bd7740c2c805a6a1cb45538e6af1",
+    "url": "https://blog.aicent.com/zh/q16-can-a-model-read-the-policy/"
+   },
+   "source_en": {
+    "path": "_src/q16-can-a-model-read-the-policy.html",
+    "sha256": "a084de5dff69edbdc78e062e5b5476f5cdd678ba96607966ce12bfceacc7760e"
+   },
+   "source_zh": {
+    "path": "_src_zh/q16-can-a-model-read-the-policy.html",
+    "sha256": "2e11ce52c20b3dd9bc91db1a3fcb04dc951f699c59b6d948c596e6e417f8c565"
+   },
+   "title_en": "Can a model read the policy? Interpretation is not verification",
+   "title_zh": "\u6a21\u578b\u80fd\u8bfb\u61c2\u653f\u7b56\u5417\uff1a\u89e3\u91ca\u4e0d\u662f\u9a8c\u8bc1",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://ec383bd7c248e0d80f8de13000fcba0d.forge.iqa",
+    "rttp": "rttp://ec383bd7.blog.aicent"
+   },
+   "date": "2026-10-28",
+   "digest": "ec383bd7c248e0d80f8de13000fcba0d9bc567e0653aba9b74c9379f935842f2",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "63a796a24c8a40cd",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://ec383bd7c248e0d80f8de13000fcba0d.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "599853d71bd06150b00ce5405c6eda3de959d3d40a9e9d2b672c099567c835578de176f2e79e3a5eaad19b586e852bcb68c2703586896ab12354426ea0f20f0a",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "q17-the-interpreter-and-the-clock",
+   "snapshot_en": {
+    "sha256": "e24f7ee9ea231560d138971dcadcfe6170050209fdf5b6453d4a0ecba5a89bec",
+    "url": "https://blog.aicent.com/q17-the-interpreter-and-the-clock/"
+   },
+   "snapshot_zh": {
+    "sha256": "f7cf659691d92335c2482771f2a4636d4c58163e6c32746dbc6699cbf34cb7e6",
+    "url": "https://blog.aicent.com/zh/q17-the-interpreter-and-the-clock/"
+   },
+   "source_en": {
+    "path": "_src/q17-the-interpreter-and-the-clock.html",
+    "sha256": "e0a94ae848fa783c69d39f74334116648471a0dc4c22699eb87cf2a0140bf72b"
+   },
+   "source_zh": {
+    "path": "_src_zh/q17-the-interpreter-and-the-clock.html",
+    "sha256": "13ad50cd9128a4fd9dce51edefe62cf69f3b7a318794cca17c2f7efd2b4b0dd3"
+   },
+   "title_en": "The interpreter and the clock: a design rule for composing both",
+   "title_zh": "\u89e3\u91ca\u5668\u4e0e\u65f6\u949f\uff1a\u4e00\u6761\u7ec4\u5408\u4e24\u8005\u7684\u8bbe\u8ba1\u89c4\u5219",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://dc0dad53d5bacb6ec7c628e2ed3e852e.forge.iqa",
+    "rttp": "rttp://dc0dad53.blog.aicent"
+   },
+   "date": "2026-10-28",
+   "digest": "dc0dad53d5bacb6ec7c628e2ed3e852e0ea8ac72b076cef8fbc9bc0c621c0be4",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "5114edccc5ffd3a4",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://dc0dad53d5bacb6ec7c628e2ed3e852e.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "1cde0392c69903362a92b9db76a8d805c3984fddc5de65a0713c86b1d17c39609630ef323b1be41005819a0064aefec72fbb008e3b50e3333b85ec3ebb26b406",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "q18-what-happens-mid-task",
+   "snapshot_en": {
+    "sha256": "6b2fcafc7d24b5d13a195d332ef8d06c8191094a8056abf5aab5390f7750c64c",
+    "url": "https://blog.aicent.com/q18-what-happens-mid-task/"
+   },
+   "snapshot_zh": {
+    "sha256": "5366a81aa06de82173add04ed93104604d4ec1fe7a24ddfd1c889119c4695de2",
+    "url": "https://blog.aicent.com/zh/q18-what-happens-mid-task/"
+   },
+   "source_en": {
+    "path": "_src/q18-what-happens-mid-task.html",
+    "sha256": "0da434f1237bf3a68185b8d649cde2340211a62dac309efe902204e921117863"
+   },
+   "source_zh": {
+    "path": "_src_zh/q18-what-happens-mid-task.html",
+    "sha256": "17264075f5703d14f85279b2cd8eada64d792ddb40339d1db4b1b4d85d4f45ac"
+   },
+   "title_en": "What happens mid-task: the lease is the halt",
+   "title_zh": "\u8fd0\u884c\u4e2d\u600e\u4e48\u529e\uff1a\u79df\u7ea6\u5c31\u662f\u53eb\u505c",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://7ed9d1e698ad59b23630301ffde67aed.forge.iqa",
+    "rttp": "rttp://7ed9d1e6.blog.aicent"
+   },
+   "date": "2026-10-22",
+   "digest": "7ed9d1e698ad59b23630301ffde67aed56ffaa420298fc89c54df0455b9b3c5a",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "7a1a3641f321fc33",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://7ed9d1e698ad59b23630301ffde67aed.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "228dd0d029aa9807af7ee3058a3afca5758ab78aa51fc3cc9a4bd353bdfd8ef52eae6929e2a4d67b66931545e9deba8785c4b2a0e4cd0fbe18c2354dcdb1f203",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "q9-identity-proof-is-not-authorization",
+   "snapshot_en": {
+    "sha256": "81330d2648bbd4de582a40d8ef31518ba7ed865e1ce176dc762e7336234475c1",
+    "url": "https://blog.aicent.com/q9-identity-proof-is-not-authorization/"
+   },
+   "snapshot_zh": {
+    "sha256": "3d5edb086041fea0bfcc340e5b250c0937c10abc4137b7eed9d42de96db1a1a6",
+    "url": "https://blog.aicent.com/zh/q9-identity-proof-is-not-authorization/"
+   },
+   "source_en": {
+    "path": "_src/q9-identity-proof-is-not-authorization.html",
+    "sha256": "07fdef75abbf1c7580576a8b91825627c6d35147d0b0158065de64a0ed2b1531"
+   },
+   "source_zh": {
+    "path": "_src_zh/q9-identity-proof-is-not-authorization.html",
+    "sha256": "d5b15456b87b8093ad9f55ca87cba6ee930ca476849b8f6f65757641a96858f5"
+   },
+   "title_en": "Identity proof is not authorization: the split the whole room converged on",
+   "title_zh": "\u8eab\u4efd\u8bc1\u660e\u4e0d\u662f\u6388\u6743\uff1a\u6574\u4e2a\u623f\u95f4\u6536\u655b\u51fa\u7684\u90a3\u6761\u5206\u754c\u7ebf",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://1c1ff97e3659752c8da93b5709563a64.forge.iqa",
+    "rttp": "rttp://1c1ff97e.blog.aicent"
+   },
+   "date": "2026-10-25",
+   "digest": "1c1ff97e3659752c8da93b5709563a640df1e633a862a1c7ea578df1a2923e22",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "e2530f8b270b378a",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://1c1ff97e3659752c8da93b5709563a64.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "c694dbf1748457a3f527dca72d24182795488f4c32e92d19aae41220cabda91263aef937e0a24021c7ea3c81c3170f4eca8277dfe0bed232e672da7c375a8d04",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "reading-the-run-report",
+   "snapshot_en": {
+    "sha256": "5d2a6fe66d7fc689ed27925b8b34479a226fed962b8c2fc85ad474cc9d9c6966",
+    "url": "https://blog.aicent.com/reading-the-run-report/"
+   },
+   "snapshot_zh": {
+    "sha256": "895a5e0385f2b62581aac2341787a52237be9abf2f4c5b80c9701aac8186b239",
+    "url": "https://blog.aicent.com/zh/reading-the-run-report/"
+   },
+   "source_en": {
+    "path": "_src/reading-the-run-report.html",
+    "sha256": "0b810270d0751006ad4a62409060050c4508d9b864ed2abce5e19b58549fe957"
+   },
+   "source_zh": {
+    "path": "_src_zh/reading-the-run-report.html",
+    "sha256": "ed3ab2ca6671d6837a8e9ecb58758fbe7e1682d469342c2f85f5f1fa4d0d514c"
+   },
+   "title_en": "Reading the run report: how to referee our conformance run without trusting us",
+   "title_zh": "\u8bfb\u61c2\u8dd1\u5206\u62a5\u544a\uff1a\u5982\u4f55\u4e0d\u4fe1\u4efb\u6211\u4eec\u4e5f\u80fd\u5f53\u88c1\u5224",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://1a336602d8ae187e7423932fcabde59e.forge.iqa",
+    "rttp": "rttp://1a336602.blog.aicent"
+   },
+   "date": "2026-10-26",
+   "digest": "1a336602d8ae187e7423932fcabde59e5349539a436584e63860cdec14ef21c5",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "ecdd57d87e3be0d3",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://1a336602d8ae187e7423932fcabde59e.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "a35af55be9c50096c2a4f2266171167f02d692ad04727e013b06a3543d0d574ee17f49b195745b3f92a136f3cef7ec33719ab8e245d12e4b8d2407bb444ace0f",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "revision-three-recorded",
+   "snapshot_en": {
+    "sha256": "3ed28e59d889767bc6eca252170a61f08ef20260a75790d0b9ca42fb6447fa99",
+    "url": "https://blog.aicent.com/revision-three-recorded/"
+   },
+   "snapshot_zh": {
+    "sha256": "3d534b3c043754fde4204f7ed35922a2ecb1a9af522b4d1738137783ef82dcaa",
+    "url": "https://blog.aicent.com/zh/revision-three-recorded/"
+   },
+   "source_en": {
+    "path": "_src/revision-three-recorded.html",
+    "sha256": "e3c747117a21ca4df852c6a06855f84a3dc0553d303baaf9099ae307928e9b00"
+   },
+   "source_zh": {
+    "path": "_src_zh/revision-three-recorded.html",
+    "sha256": "4028a3414ddeba8c77186047e507997835bba1a69131782855d8fd46d89a30ae"
+   },
+   "title_en": "Revision 3, recorded the same way",
+   "title_zh": "\u7b2c\u4e09\u4fee\u8ba2\u7248\uff0c\u540c\u6cd5\u5165\u6863",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://9e3081e2e9d675ab5c49176ee649726d.forge.iqa",
+    "rttp": "rttp://9e3081e2.blog.aicent"
+   },
+   "date": "2026-10-29",
+   "digest": "9e3081e2e9d675ab5c49176ee649726dae3320dae81ebea35672e6f1612f8a18",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "c8f78a65b77c9a9c",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://9e3081e2e9d675ab5c49176ee649726d.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "8273c708adc55c92a54435ceb9d34e09d3a943610385cd8a99db81244270f057519494c5d7f9ac74ae1b96b7107345f38aaad6bed13efd4350a209605d74220f",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "rttp-iqa-vs-airs",
+   "snapshot_en": {
+    "sha256": "202be6608adf3065305c11090093167a253b023612db43e74bd3ebacdf85cb22",
+    "url": "https://blog.aicent.com/rttp-iqa-vs-airs/"
+   },
+   "snapshot_zh": {
+    "sha256": "98a1b7caf109d5124e1883673926eea6d772d80021cd2ea9c61baa9b019f8b90",
+    "url": "https://blog.aicent.com/zh/rttp-iqa-vs-airs/"
+   },
+   "source_en": {
+    "path": "_src/rttp-iqa-vs-airs.html",
+    "sha256": "2e05b7f111407b68b9fe1ec58914728c5a0776d92b02f2677cb1676de9204707"
+   },
+   "source_zh": {
+    "path": "_src_zh/rttp-iqa-vs-airs.html",
+    "sha256": "5651ffa22c654bae3b53ba81b13cd228c1317f2e5d13ec64edb1c30969284df8"
+   },
+   "title_en": "Two answers to agent identity: AIRS and the RTTP/IQA design",
+   "title_zh": "Agent \u8eab\u4efd\u7684\u4e24\u4efd\u7b54\u6848\uff1aAIRS \u4e0e RTTP/IQA \u8bbe\u8ba1",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://ca80d67ff2f1777220c701c4427f4c44.forge.iqa",
+    "rttp": "rttp://ca80d67f.blog.aicent"
+   },
+   "date": "2026-10-17",
+   "digest": "ca80d67ff2f1777220c701c4427f4c44e7250165cce2128e6da8d49647a34a33",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "288e70592d7132b6",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://ca80d67ff2f1777220c701c4427f4c44.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "25d4b8f3f52d02d449a3d92e54e38b33963e40adafbf18b865ed7591b2bc70c9a6311006806fe6c115a5b4c8a922966b5f3382e727f4a40493311b9a4154f70f",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "signature-not-trust",
+   "snapshot_en": {
+    "sha256": "4a9c40233960cf7eeda8ab2f3c1ee25829c894606ca490f9d12a4d0040ee5663",
+    "url": "https://blog.aicent.com/signature-not-trust/"
+   },
+   "snapshot_zh": {
+    "sha256": "99658fe4143f88c15cedcdc6944d071ec092bc5b227dd476762238f80ff35fef",
+    "url": "https://blog.aicent.com/zh/signature-not-trust/"
+   },
+   "source_en": {
+    "path": "_src/signature-not-trust.html",
+    "sha256": "bbc489cfbb817451edf4ad61b8f9519d96891c4e6c79f1aad1d9951af421c0e8"
+   },
+   "source_zh": {
+    "path": "_src_zh/signature-not-trust.html",
+    "sha256": "bf58f5be2e41f9fb72dde06f4a02245a23057cbf4ddaba7351913f5a525be703"
+   },
+   "title_en": "A signature is not trust: three silent questions in the agent protocol stack",
+   "title_zh": "\u7b7e\u540d\u4e0d\u7b49\u4e8e\u53ef\u4fe1\uff1a\u667a\u80fd\u4f53\u534f\u8bae\u6808\u91cc\u6c89\u9ed8\u7684\u4e09\u4e2a\u95ee\u9898",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://01ce0081ae4f6bb83c769fcb4ec44b4a.forge.iqa",
+    "rttp": "rttp://01ce0081.blog.aicent"
+   },
+   "date": "2026-10-17",
+   "digest": "01ce0081ae4f6bb83c769fcb4ec44b4a3e5979c111974b836c2c544a18b398dd",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "13b7ce819e3c0bd5",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://01ce0081ae4f6bb83c769fcb4ec44b4a.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "dfdc5787ef929f672224f9703544b71e950e683efa7a60ee18c632cc213d5ca0bf290b4464836df3b2c1d16ff39800991ebc2add68fdc91a1fd9bdecb81bcc05",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "sixteen-bytes",
+   "snapshot_en": {
+    "sha256": "3bf574eac38621413fbb3fe09b0c490dafb1889e3a869bbffd2859e2f30a6bc4",
+    "url": "https://blog.aicent.com/sixteen-bytes/"
+   },
+   "snapshot_zh": {
+    "sha256": "4c6fb54019336d77685714919dcc0605955a04f7d3e7cea75c7c7a8a11cfe046",
+    "url": "https://blog.aicent.com/zh/sixteen-bytes/"
+   },
+   "source_en": {
+    "path": "_src/q1-sixteen-bytes.html",
+    "sha256": "bb7962a64f30d29aaa007be300da628a874aa94b0fe11f4fbdfd38fc7c7a6b78"
+   },
+   "source_zh": {
+    "path": "_src_zh/q1-sixteen-bytes.html",
+    "sha256": "7c9fe3fe9e2a9902e54982c5dee11fdc468a1bbc7f0655eae675df545789026d"
+   },
+   "title_en": "Why sixteen bytes: the security ledger of ROUTE_SHARD",
+   "title_zh": "\u4e3a\u4ec0\u4e48\u662f 16 \u5b57\u8282\uff1aROUTE_SHARD \u7684\u653b\u9632\u8d26",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://3d06ae0159328affc24e8bca0f44e65d.forge.iqa",
+    "rttp": "rttp://3d06ae01.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "3d06ae0159328affc24e8bca0f44e65d2f178ee4c3853b93e4b15d5cdd5423e7",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "ff3f66a95084ef6d",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://3d06ae0159328affc24e8bca0f44e65d.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "5a9dbcb333d6ca5f9e1da9cd2dce95aa8ea7686d00bf4decedddeafb6658dea8054b9b8c3c66c6d806620f0e8e250a2b8547c1578642ce35c157653f55a5860d",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "stateless-mcp",
+   "snapshot_en": {
+    "sha256": "7ce97a585a0ad7433c1e49a8236f3a2a62dcd6d0ef230247f8bcb9707896350a",
+    "url": "https://blog.aicent.com/stateless-mcp/"
+   },
+   "snapshot_zh": {
+    "sha256": "c13706bc4271c32722fc9b5dc61dbeba4321da66f19c8d608949e3b1d5d502cb",
+    "url": "https://blog.aicent.com/zh/stateless-mcp/"
+   },
+   "source_en": {
+    "path": "_src/stateless-mcp.html",
+    "sha256": "b1e57c0549dc53acbd60fc3bc976fa12a06447fdfa219f4b330e60295be080f8"
+   },
+   "source_zh": {
+    "path": "_src_zh/stateless-mcp.html",
+    "sha256": "d0734c8dd73bb3a8660e6e51b45ad4ec65c065a00c8545580107d9652d89e1d6"
+   },
+   "title_en": "MCP deleted the session: where does state live now?",
+   "title_zh": "MCP \u5220\u6389\u4e86\u4f1a\u8bdd\uff1a\u72b6\u6001\u4ece\u6b64\u4f4f\u54ea",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://e217f6d16d622e6faa5c1f51c6a754d8.forge.iqa",
+    "rttp": "rttp://e217f6d1.blog.aicent"
+   },
+   "date": "2026-10-17",
+   "digest": "e217f6d16d622e6faa5c1f51c6a754d818531145685c16a49a2480cdfcd68044",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "1156cb635be569ad",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://e217f6d16d622e6faa5c1f51c6a754d8.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "15a8b1455c634d7fc9cdf88c31cc2622d26c9148dad1243bfa0bfedc4faaeb4a2b49126bc658aa6739c5f8661c816f79eddd970bd792b0ff681bc4379a836a0b",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "the-120-second-lease",
+   "snapshot_en": {
+    "sha256": "f049b2188cc5757d15c8908e1e61908f3849d754bb53f2148c26673990d34641",
+    "url": "https://blog.aicent.com/the-120-second-lease/"
+   },
+   "snapshot_zh": {
+    "sha256": "8689b27baf761646453afb784ffd504a1c9992be45c9bdbd290e1a7be0ab732f",
+    "url": "https://blog.aicent.com/zh/the-120-second-lease/"
+   },
+   "source_en": {
+    "path": "_src/q4-the-120-second-lease.html",
+    "sha256": "4b27c6bfd0347d55f50179a526e292a3ca40565b0e3dc775fea88d288e611dbd"
+   },
+   "source_zh": {
+    "path": "_src_zh/q4-the-120-second-lease.html",
+    "sha256": "fbc262f21c2c91e0cda254c88ed19e3b86cbcecd3ac6f7050537db617304cc52"
+   },
+   "title_en": "Why 120 seconds: trust on a lease",
+   "title_zh": "\u4e3a\u4ec0\u4e48\u662f 120 \u79d2\uff1a\u4fe1\u4efb\u7684\u79df\u7ea6\u5236",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://34c959238683cc1ba1a1d03fbcb623d2.forge.iqa",
+    "rttp": "rttp://34c95923.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "34c959238683cc1ba1a1d03fbcb623d2b520477fe5017d3cafd5492bbde2da43",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "63dd3b1664b71a59",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://34c959238683cc1ba1a1d03fbcb623d2.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "aad45824218b9d0e56a867ae3b64707fac9b84ad15aedba28535ba0b486797acef17ce6b4f5d7eb40404378b420c7f7d94b70c019a1a462a79a4efedbac9b40c",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "the-current-landscape",
+   "snapshot_en": {
+    "sha256": "a36ba0f4005ebeb8ea0d6ac977859d2ce9d0059f3d8a230694d5d06270aa275f",
+    "url": "https://blog.aicent.com/the-current-landscape/"
+   },
+   "snapshot_zh": {
+    "sha256": "580f7b66b623f07bab4a3b6334fa1b7b93719b5a88e9fa8a190ef071f72302e9",
+    "url": "https://blog.aicent.com/zh/the-current-landscape/"
+   },
+   "source_en": {
+    "path": "_src/l1-the-current-landscape.html",
+    "sha256": "f696119b4fb9a2447cc4a94c2424825fc6494d0ccb2e26899215f51ab968925e"
+   },
+   "source_zh": {
+    "path": "_src_zh/l1-the-current-landscape.html",
+    "sha256": "8d86f608a2c514751a185d7e56ed8d7a95f7e94098397727495a094d9fe1bf4c"
+   },
+   "title_en": "The current landscape: 16+1 names, two pillars on the standards path",
+   "title_zh": "\u5f53\u524d\u683c\u5c40\uff1a16+1 \u4e2a\u540d\u5b57\uff0c\u4e24\u6839\u8d70\u89c4\u8303\u8def\u5f84\u7684\u67f1\u5b50",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://3e98043aeb561e5a45ecca68058e1f42.forge.iqa",
+    "rttp": "rttp://3e98043a.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "3e98043aeb561e5a45ecca68058e1f422f31879a08a23daf57b90ce481ca30b3",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "91375c2b69b01321",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://3e98043aeb561e5a45ecca68058e1f42.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "41b6f1654a90d9cca12e5299618e850ea042687669ff2849fa21fab1819bfb875df901d2c37ed9757f58c8bcd7a0c8a87cc2ca97b042f20583bf38987705f50a",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "the-label-before-the-spec",
+   "snapshot_en": {
+    "sha256": "45823d99c79bf7943d60882a0cd269299ee93bd9c227b32ba63ca76e6ac28742",
+    "url": "https://blog.aicent.com/the-label-before-the-spec/"
+   },
+   "snapshot_zh": {
+    "sha256": "405c94cfdf492d82afc3801f7d9e44cf0d1ddc2e6466e1ddbae43693420b478b",
+    "url": "https://blog.aicent.com/zh/the-label-before-the-spec/"
+   },
+   "source_en": {
+    "path": "_src/the-label-before-the-spec.html",
+    "sha256": "40e6f8e2c6870175e78d09c318951afb9aa4f5eca04746b17372111c8d86d719"
+   },
+   "source_zh": {
+    "path": "_src_zh/the-label-before-the-spec.html",
+    "sha256": "f3ec1427b86788544714a0d12320d8e7619810c295ed8aae92db5ad4312dad35"
+   },
+   "title_en": "The label before the spec: what \u201cA2A-compliant\u201d actually verifies",
+   "title_zh": "\u6807\u7b7e\u5148\u4e8e\u89c4\u8303\uff1a\u300cA2A \u517c\u5bb9\u300d\u5230\u5e95\u9a8c\u8bc1\u4e86\u4ec0\u4e48",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://591e4cca4c95b1634f7d46a9a8bcec98.forge.iqa",
+    "rttp": "rttp://591e4cca.blog.aicent"
+   },
+   "date": "2026-10-17",
+   "digest": "591e4cca4c95b1634f7d46a9a8bcec983725b935f93a60de2eaaa3d7361b4cd3",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "b749b92402d1e00d",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://591e4cca4c95b1634f7d46a9a8bcec98.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "46fec4143a49b2c33b0c9b384870a1d60e1bbd713390c0fc383c69622440d9b2a09881938ef295db590cb5805b7b43e107bc60ef8dbb77188b37a9b11e4ccf0d",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "the-off-axis-anchor",
+   "snapshot_en": {
+    "sha256": "aa4604f5775aa90b89161e8e8fad58381d3b243f8a236a58c01aef4b7c795af6",
+    "url": "https://blog.aicent.com/the-off-axis-anchor/"
+   },
+   "snapshot_zh": {
+    "sha256": "0360acddd654878433a63208916f1228428c82e5e69391e9f9fad85b11da189f",
+    "url": "https://blog.aicent.com/zh/the-off-axis-anchor/"
+   },
+   "source_en": {
+    "path": "_src/q5-the-off-axis-anchor.html",
+    "sha256": "867b971cded4ea0be2fc58f48d6cdda0675fa4feafb13d03ade1f5c6775b62ea"
+   },
+   "source_zh": {
+    "path": "_src_zh/q5-the-off-axis-anchor.html",
+    "sha256": "733fcc1be78b2a1b6b7bbd57821bf94c4bbd4ffeb889ecbbb7ab14938aa9828f"
+   },
+   "title_en": "Who signs the first piece of evidence: the off-axis epoch anchor",
+   "title_zh": "\u7b2c\u4e00\u4efd\u8bc1\u636e\u7531\u8c01\u7b7e\u53d1\uff1a\u8f74\u5916\u7eaa\u5143\u951a",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://61e3a368a02b676a1f127265f0b8e24a.forge.iqa",
+    "rttp": "rttp://61e3a368.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "61e3a368a02b676a1f127265f0b8e24a2a5cfe1a3bb80c37cf7f7494e066fe7b",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "2b3ea4dd4a9fee22",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://61e3a368a02b676a1f127265f0b8e24a.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "c89510a261261c8190fd800844f25908193799a626fc863cca3b8edec5278307326bc65abf762e88bdabe317684c9859246729f1640b0c81888d6e268a930e0e",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "the-registry-vacuum",
+   "snapshot_en": {
+    "sha256": "b228209184037033a45b89ae43d10606ef907a23cb1fd0d1b3f7aeefeddacb11",
+    "url": "https://blog.aicent.com/the-registry-vacuum/"
+   },
+   "snapshot_zh": {
+    "sha256": "47d1189176c339fb2068680d6f2f02ee2539024e15b5b92cf2543569904e0978",
+    "url": "https://blog.aicent.com/zh/the-registry-vacuum/"
+   },
+   "source_en": {
+    "path": "_src/the-registry-vacuum.html",
+    "sha256": "2950bc282d8dd850748ed338885ae6e82eeef5c06b43e46ae35acb1cd801016d"
+   },
+   "source_zh": {
+    "path": "_src_zh/the-registry-vacuum.html",
+    "sha256": "465f8efb24f936c1ed29c4d9548045e3c35c01ed21d8f76736f746ad75456d42"
+   },
+   "title_en": "The registry vacuum: who owns the name before the spec ships?",
+   "title_zh": "\u6ce8\u518c\u8868\u7684\u771f\u7a7a\u671f\uff1a\u89c4\u8303\u53d1\u8d27\u4e4b\u524d\uff0c\u540d\u5b57\u5f52\u8c01",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://1c36562661cfbd7662fcb3dc401a30d7.forge.iqa",
+    "rttp": "rttp://1c365626.blog.aicent"
+   },
+   "date": "2026-10-26",
+   "digest": "1c36562661cfbd7662fcb3dc401a30d74c761db8c2cee50ec235d71c87ee711c",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "43376166a45baa22",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://1c36562661cfbd7662fcb3dc401a30d7.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "8ce9a8dcd57b3327f909815481d2d24315e7d0ddec81afd40196671795f2923ac2ed0c4bb5a7f8749e70bf1471334d7cdfd9998eea0cc8843df3eadd107d0d0f",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "the-shape-reappears",
+   "snapshot_en": {
+    "sha256": "98d54951f3c06e999880f8aca32f6991be20679bb17834e55ed15830bb123a68",
+    "url": "https://blog.aicent.com/the-shape-reappears/"
+   },
+   "snapshot_zh": {
+    "sha256": "085095a7cd6f77b89c2e84033ed283db48d74d62daa102ca04b5294cce68d87c",
+    "url": "https://blog.aicent.com/zh/the-shape-reappears/"
+   },
+   "source_en": {
+    "path": "_src/the-shape-reappears.html",
+    "sha256": "caa9b1123a45dea966808f77f2db61a4292ffd9a643e7acca7cbf80572fc8e18"
+   },
+   "source_zh": {
+    "path": "_src_zh/the-shape-reappears.html",
+    "sha256": "de0ac63162a184e759cb227a142a03e7f4d8bebdf6a210d869ed6fde3e800f25"
+   },
+   "title_en": "The shape keeps reappearing: sealed evidence, fail-closed, recomputable by anyone",
+   "title_zh": "\u5f62\u72b6\u5728\u91cd\u73b0\uff1a\u5bc6\u5c01\u8bc1\u636e\u3001fail-closed\u3001\u4efb\u4f55\u4eba\u53ef\u91cd\u7b97",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://75d494517bd440379f79bdcf480a6c0a.forge.iqa",
+    "rttp": "rttp://75d49451.blog.aicent"
+   },
+   "date": "2026-10-09",
+   "digest": "75d494517bd440379f79bdcf480a6c0a49e6314196999fb166d4e6e9ba6f0880",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "063f620690429a82",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://75d494517bd440379f79bdcf480a6c0a.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "ffc6f88fa3b6e0572382ed8aec50a6ecb92ed76cbbb759296df142794187088d6a86a86a18c63991c14acd144e9bde7df59c57ce8c44ac6b09a3e165d149260b",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "true-derivation",
+   "snapshot_en": {
+    "sha256": "4202fb648a8ad278315bee68991e319ce5d49bf718e377771d9c23fb928d05c4",
+    "url": "https://blog.aicent.com/true-derivation/"
+   },
+   "snapshot_zh": {
+    "sha256": "88bbba94f6d56b651822c6bed43bfbea7a88e20070086b04ffbf96c3928530dd",
+    "url": "https://blog.aicent.com/zh/true-derivation/"
+   },
+   "source_en": {
+    "path": "_src/true-derivation.html",
+    "sha256": "cda156fc8c26836d125ba4cecc3f94b361bcb42f61f0e3c4016e62885aced9fa"
+   },
+   "source_zh": {
+    "path": "_src_zh/true-derivation.html",
+    "sha256": "09ff6f14d29335c54950d6d64864189fe327bd5580ac83841d9c009d7cf49141"
+   },
+   "title_en": "True derivation, fake derivation, and our own birthday ledger",
+   "title_zh": "\u771f\u6d3e\u751f\u3001\u5047\u6d3e\u751f\uff0c\u4e0e\u6211\u4eec\u81ea\u5df1\u7684\u751f\u65e5\u8d26",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://708130e91b89ca051f8a26f897c7f0f3.forge.iqa",
+    "rttp": "rttp://708130e9.blog.aicent"
+   },
+   "date": "2026-10-09",
+   "digest": "708130e91b89ca051f8a26f897c7f0f32638061805bbfcbbd1736cda4bae7a0a",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "4798cf50108bdf5f",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://708130e91b89ca051f8a26f897c7f0f3.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "b5cf74e8443ed3e5bcb8ab13b210e3eff7f1e28cbc99be5ea2993e4d944cf85dcb4f888b62c3ecb3c796d1a569a447f7f9491e19ea02b576ab01abaaf9f33e02",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "two-schemes",
+   "snapshot_en": {
+    "sha256": "f5b5046afb147f025d7c89cb7cd1cd525f78978e643f996094ba86b5a06908ca",
+    "url": "https://blog.aicent.com/two-schemes/"
+   },
+   "snapshot_zh": {
+    "sha256": "4588bd5d62fc7de45cb4a479a380c8e8aaaf29b2dc5ce8d4aea948fe98eb873b",
+    "url": "https://blog.aicent.com/zh/two-schemes/"
+   },
+   "source_en": {
+    "path": "_src/two-schemes.html",
+    "sha256": "f88c5e6c0c576c22f327417ac5166a5d9b885b609c28efb0ba0a04dc9c601245"
+   },
+   "source_zh": {
+    "path": "_src_zh/two-schemes.html",
+    "sha256": "e9df0238a2045984580ba756a10c0a3baed05d57a41da7dd0330e086ce4dee1e"
+   },
+   "title_en": "One protocol can't hold it - why addressing and attestation are two schemes",
+   "title_zh": "\u4e00\u4e2a\u534f\u8bae\u88c5\u4e0d\u4e0b\uff1a\u8bed\u4e49\u5bfb\u5740\u4e0e\u4fe1\u4efb\u8bc1\u660e\u4e3a\u4ec0\u4e48\u5206\u6210\u4e24\u4e2a scheme",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://259bc958d9a5470800ca4b67cdab8e27.forge.iqa",
+    "rttp": "rttp://259bc958.blog.aicent"
+   },
+   "date": "2026-10-17",
+   "digest": "259bc958d9a5470800ca4b67cdab8e27d0a49c0be7e0e8ab3275c03019558c31",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "aa8180795934b9ac",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://259bc958d9a5470800ca4b67cdab8e27.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "5bc927a06a7e4ebea85aaf4877b26ad61820472e6f1bac48ef2702bcbee441cec23b4a3a93053b233d3cf77fb0ab2c8c2235aac3a9e204e910b89397cc1e3207",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "w3c-review",
+   "snapshot_en": {
+    "sha256": "14f739bdb08743666150e632ab16fdc6caa6e363e54c774d0e597f8517b642f9",
+    "url": "https://blog.aicent.com/w3c-review/"
+   },
+   "snapshot_zh": {
+    "sha256": "d3873a8ae8b09ff413315ac24289cb0854053a55d8cc65c471d91c8cc94d0986",
+    "url": "https://blog.aicent.com/zh/w3c-review/"
+   },
+   "source_en": {
+    "path": "_src/w3c-review.html",
+    "sha256": "10b1a96ddcdea769a32fb6090b5d1873fdde2ad54aece7a09b1a01b13a8b735b"
+   },
+   "source_zh": {
+    "path": "_src_zh/w3c-review.html",
+    "sha256": "51d9fff9e16f0759c605541f3a9960bbcb116b57248ec5dfa5ecad1f2be6de79"
+   },
+   "title_en": "After the W3C Agentic Web report: the identity layer has landed, the addressing layer is still blank",
+   "title_zh": "W3C \u667a\u80fd\u4f53\u7f51\u7edc\u62a5\u544a\u8bfb\u540e\uff1a\u8eab\u4efd\u5c42\u5df2\u843d\u5b50\uff0c\u5bfb\u5740\u5c42\u4ecd\u662f\u7a7a\u683c",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://1176d8f6372997ecf7b58a0dc1b93478.forge.iqa",
+    "rttp": "rttp://1176d8f6.blog.aicent"
+   },
+   "date": "2026-10-20",
+   "digest": "1176d8f6372997ecf7b58a0dc1b934785e0f62c550d2a79d25e0fcc98ddba35c",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "f61afd024fa55a36",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://1176d8f6372997ecf7b58a0dc1b93478.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "c447472e83c25d7e71fe6f649e4fbff845268c9d6a47266ae2adef7a0b0f8efe399e1a226bafc321235cd59254143c5c436777c16ab2db6a470a2ac7611bc401",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "webmcp-walled-garden",
+   "snapshot_en": {
+    "sha256": "0889e81e571729e6eedbd2b42d9fd9822b59f7861d0c1616739618c22476c7bc",
+    "url": "https://blog.aicent.com/webmcp-walled-garden/"
+   },
+   "snapshot_zh": {
+    "sha256": "929cf04d117c156c83c59069ac0f0c044d55d5f4f1aa1c6dd7d5558412ea4f22",
+    "url": "https://blog.aicent.com/zh/webmcp-walled-garden/"
+   },
+   "source_en": {
+    "path": "_src/webmcp-walled-garden.html",
+    "sha256": "a88fb4f8d569b7ef06ec8bfd36138ea8eeeb1ba6c547b62767e429e794b6fd88"
+   },
+   "source_zh": {
+    "path": "_src_zh/webmcp-walled-garden.html",
+    "sha256": "41dba4fd78d2eccdbb132c8b7ebab9b95f329fb2f6faa28de38f41136a5942c7"
+   },
+   "title_en": "A page declares what it can do; an app asks who is asking",
+   "title_zh": "\u7f51\u7ad9\u58f0\u660e\u5b83\u80fd\u505a\u4ec0\u4e48\uff0c\u5e94\u7528\u95ee\u662f\u8c01\u5728\u95ee",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://f0c31649dce0a7d0589e9d87d328221e.forge.iqa",
+    "rttp": "rttp://f0c31649.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "f0c31649dce0a7d0589e9d87d328221eb2d91a156ac6af37731f477ea6505650",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "2abe46bacec2df16",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://f0c31649dce0a7d0589e9d87d328221e.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "df987f790486852d347b98cc12cfecad3ebd06b61ac3d86aa549e122bbb5a3041e56b0de1a1e1d4fe24d87b88b445785f7178067c2e27f6bbaacc0b18e52b504",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "where-aicent-comes-from",
+   "snapshot_en": {
+    "sha256": "351026d2c6ee436e2707f64e189935bc52c4574395c6c893d88999a5f08a6988",
+    "url": "https://blog.aicent.com/where-aicent-comes-from/"
+   },
+   "snapshot_zh": {
+    "sha256": "d9c6c8f92303e4a76d632a6d8317f22ed59da2774b5f071cd4c206d28d537593",
+    "url": "https://blog.aicent.com/zh/where-aicent-comes-from/"
+   },
+   "source_en": {
+    "path": "_src/c001-where-aicent-comes-from.html",
+    "sha256": "b8a8e1a8780ce36d7df75c71215c6949a34e03c0f0315b16b5047f528bfc7a9d"
+   },
+   "source_zh": {
+    "path": "_src_zh/c001-where-aicent-comes-from.html",
+    "sha256": "f3997afe16f4d5c7218fa0e612a1f6fb58876e6ca66ca0fd04e5cf8e73393255"
+   },
+   "title_en": "Where AICENT comes from: AI plus the centre",
+   "title_zh": "AICENT \u8fd9\u4e2a\u540d\u5b57\u4ece\u54ea\u6765\uff1aAI \u52a0\u4e0a\u90a3\u4e2a\u4e2d\u67a2",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://35daf3767e02b8d78b2c797b3c071ef6.forge.iqa",
+    "rttp": "rttp://35daf376.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "35daf3767e02b8d78b2c797b3c071ef602438a4e1f6a855b58892ab6c5f5e67d",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "d67be3d33ef81ce7",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://35daf3767e02b8d78b2c797b3c071ef6.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "4f66397e53748c9a449710973a49a1dcd49c6c4ed1ffa34bd464400ba27de3d356f8fdc3fbed879ccb0bbf285f317aedb8ab6015f9e913101bee247d3774af09",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "where-aicent-net-comes-from",
+   "snapshot_en": {
+    "sha256": "7f128844f2e810c81b60544ab862228b5c035186432b90a172247d36b7d85e8b",
+    "url": "https://blog.aicent.com/where-aicent-net-comes-from/"
+   },
+   "snapshot_zh": {
+    "sha256": "092b74933bcfa52ce0b8e13b6048b9a54b71ed778edc676ecae78c420ce01714",
+    "url": "https://blog.aicent.com/zh/where-aicent-net-comes-from/"
+   },
+   "source_en": {
+    "path": "_src/c006-where-aicent-net-comes-from.html",
+    "sha256": "415ae8acadfb261d1e386bc1061e2c0b54d583ef34db99f3697410dff395cb15"
+   },
+   "source_zh": {
+    "path": "_src_zh/c006-where-aicent-net-comes-from.html",
+    "sha256": "7e18ac89d41ee9afdaf5672df9029d118e48799db50d605335ae6eb5c5311664"
+   },
+   "title_en": "Where AICENT-NET comes from: our own name, plus an ordinary word",
+   "title_zh": "AICENT-NET \u8fd9\u4e2a\u540d\u5b57\u4ece\u54ea\u6765\uff1a\u81ea\u5df1\u7684\u540d\u5b57\uff0c\u52a0\u4e00\u4e2a\u666e\u901a\u8bcd",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://6db3320d7dc7dc0b606d203632d51ca7.forge.iqa",
+    "rttp": "rttp://6db3320d.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "6db3320d7dc7dc0b606d203632d51ca74b456fce43dbd98fd37b933e21658807",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "6012ba91e200e556",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://6db3320d7dc7dc0b606d203632d51ca7.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "61ff1323e11985532618249b0ec6256a1dd29f965b059a8cd7e6d6ba652bd69859ef35933f466f1a912ba18e51ef2c15f8ebe40c29d2e612756ef97d9f53cf0d",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "where-bewho-comes-from",
+   "snapshot_en": {
+    "sha256": "2ad56f44c143fff6a8a4dcbd057759f3f6671d144b9972bdd85cfb3c3a6b1a1b",
+    "url": "https://blog.aicent.com/where-bewho-comes-from/"
+   },
+   "snapshot_zh": {
+    "sha256": "09dfe30b7e26eb190bf3dbcca049c0982c3d3ee0aa2ebe1a14a96e8a9677abec",
+    "url": "https://blog.aicent.com/zh/where-bewho-comes-from/"
+   },
+   "source_en": {
+    "path": "_src/c007-where-bewho-comes-from.html",
+    "sha256": "3be086345efc63c1363bcf39d7dca0c627c6ed9f245f0fc222eee1c97a98160d"
+   },
+   "source_zh": {
+    "path": "_src_zh/c007-where-bewho-comes-from.html",
+    "sha256": "a9a1fb4f005fc55d37a57a27a474d168e030d86fc0e19be248de5bcbccdb544c"
+   },
+   "title_en": "Where BEWHO\u00ae comes from: a sentence, not an acronym",
+   "title_zh": "BEWHO\u00ae \u8fd9\u4e2a\u540d\u5b57\u4ece\u54ea\u6765\uff1a\u4e00\u53e5\u8bdd\uff0c\u4e0d\u662f\u4e00\u4e2a\u7f29\u5199",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://37f24666ff8acdfc5a893f9e243e2fc6.forge.iqa",
+    "rttp": "rttp://37f24666.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "37f24666ff8acdfc5a893f9e243e2fc67414c34460813b95a693c521eb400d9a",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "36a05478f7a3febd",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://37f24666ff8acdfc5a893f9e243e2fc6.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "41040135829659ed2fd96dc46aabeccec2af8bcb4901b8eaeadd05c60d5643e6801bb01991d111472016380e616e60c73a6960e0c1495ef09c50f4a13a566804",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "where-cmtn-comes-from",
+   "snapshot_en": {
+    "sha256": "95d5eda9f0e5dd22727b660eb6a131b4935959a1ff3a80922e910bf45b36b50c",
+    "url": "https://blog.aicent.com/where-cmtn-comes-from/"
+   },
+   "snapshot_zh": {
+    "sha256": "0e40ad2856e3db34383d78e882a9c85ab9eda519292c5b8eef430cbc72396e7f",
+    "url": "https://blog.aicent.com/zh/where-cmtn-comes-from/"
+   },
+   "source_en": {
+    "path": "_src/c008-where-cmtn-comes-from.html",
+    "sha256": "682a16d3d7c6246ee3c55732372a0bf58c82f9624e13fe3438cb1a893430fe58"
+   },
+   "source_zh": {
+    "path": "_src_zh/c008-where-cmtn-comes-from.html",
+    "sha256": "fe0fdb2cbbf042082b224946f9e27ade4ddf4685934913a49db27b2423793e3c"
+   },
+   "title_en": "Where CMTN comes from: a subtitle, not an expansion",
+   "title_zh": "CMTN \u8fd9\u4e2a\u540d\u5b57\u4ece\u54ea\u6765\uff1a\u526f\u6807\u9898\uff0c\u4e0d\u662f\u5168\u79f0",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://780a93d297096f2acad24e9771c275ce.forge.iqa",
+    "rttp": "rttp://780a93d2.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "780a93d297096f2acad24e9771c275ce9cc7885acb0d6d05ef05fce214ca234d",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "9bc75cc9ee51d5e3",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://780a93d297096f2acad24e9771c275ce.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "e7731c6cb09099c3bbc1df31a0f6c572aac4ea949c65bfbb56f70263568382a6c8f7d26a740cd00872707fe9ee25cfd6a6db08d4b9f12d4fe1a7bdef62ecce00",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "where-dioon-comes-from",
+   "snapshot_en": {
+    "sha256": "ff9feb8d3155a4a143d826db32264cac29e102c86509d42b82a423a4d032f80f",
+    "url": "https://blog.aicent.com/where-dioon-comes-from/"
+   },
+   "snapshot_zh": {
+    "sha256": "eec748e53e5f1612853cd5ed5d8feaa822c23602adc77540937b2a91142a69aa",
+    "url": "https://blog.aicent.com/zh/where-dioon-comes-from/"
+   },
+   "source_en": {
+    "path": "_src/c013-where-dioon-comes-from.html",
+    "sha256": "f5c901cff7b395753d6be901e76c36c8bc47dea2b5a414d13e1b64673dd4f28d"
+   },
+   "source_zh": {
+    "path": "_src_zh/c013-where-dioon-comes-from.html",
+    "sha256": "3cdbd88d7d7253db5fcadf525513a074da7878acf34d408162caeb7d06202a56"
+   },
+   "title_en": "Where DIOON comes from: a cycad, not a coinage",
+   "title_zh": "DIOON \u8fd9\u4e2a\u540d\u5b57\u4ece\u54ea\u6765\uff1a\u4e00\u682a\u82cf\u94c1\uff0c\u4e0d\u662f\u4e00\u4e2a\u751f\u9020\u8bcd",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://2e2c4675495feba94362fde186d38866.forge.iqa",
+    "rttp": "rttp://2e2c4675.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "2e2c4675495feba94362fde186d38866ec74e39a8b842412a0c665ed48823024",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "96a313e2fd6cfae8",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://2e2c4675495feba94362fde186d38866.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "bf0853fc1fa5d1f45e360c251c4adc1434d4b7fa3ce7af3a711e453313138e81414363ca0e9acd1ef23fce1cb6a9611573a0138ce38661c8205a89b1faebac00",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "where-epoekie-comes-from",
+   "snapshot_en": {
+    "sha256": "2c6916848b8b3b92a0d1b69f29e29054346c93c6eecad48262f3bf2a6d54c1d5",
+    "url": "https://blog.aicent.com/where-epoekie-comes-from/"
+   },
+   "snapshot_zh": {
+    "sha256": "5e19324f6ad81c16b5022de54834972a5ad95c9b3dcfa544bd03c1628d1023d1",
+    "url": "https://blog.aicent.com/zh/where-epoekie-comes-from/"
+   },
+   "source_en": {
+    "path": "_src/c000-where-epoekie-comes-from.html",
+    "sha256": "46ed462b6a3e7a9a7fe3823124cd262374197948e07b101ced4cafdb2cedda6e"
+   },
+   "source_zh": {
+    "path": "_src_zh/c000-where-epoekie-comes-from.html",
+    "sha256": "d65f586d922d7a996345af122a6c0a5e58d36052f808836491202a5c645f3390"
+   },
+   "title_en": "Where Epoekie\u00ae comes from: the one who dwells upon",
+   "title_zh": "Epoekie\u00ae \u8fd9\u4e2a\u540d\u5b57\u4ece\u54ea\u6765\uff1a\u5c45\u4e8e\u5176\u4e0a\u7684\u90a3\u4e00\u4f4d",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://1fa8f3fae4dfe09fc6ef208ee7e5d948.forge.iqa",
+    "rttp": "rttp://1fa8f3fa.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "1fa8f3fae4dfe09fc6ef208ee7e5d9480277ace8a7085eea11afc7f77c7476ea",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "7e8bd9b9dc28a62d",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://1fa8f3fae4dfe09fc6ef208ee7e5d948.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "7a9a970c10c82d57e09172b86cf95a56c671303c30f502a7846783cfb3352365eedd0ad0644d8dabcca45970050508627923fe7b314529e2a40120013bba6409",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "where-gtiot-comes-from",
+   "snapshot_en": {
+    "sha256": "018e432da3e7af22cfdd70aee22cee359d392090f22ab15ab50859057d751290",
+    "url": "https://blog.aicent.com/where-gtiot-comes-from/"
+   },
+   "snapshot_zh": {
+    "sha256": "71ff49606579d063c42e54cd538bfdc05b3d634a6e72d784c91f19edd9b584eb",
+    "url": "https://blog.aicent.com/zh/where-gtiot-comes-from/"
+   },
+   "source_en": {
+    "path": "_src/c005-where-gtiot-comes-from.html",
+    "sha256": "49c52c185edbd759c7ec57b7aa7ecbeeac4a14e41654379c0d95f8822b2c2287"
+   },
+   "source_zh": {
+    "path": "_src_zh/c005-where-gtiot-comes-from.html",
+    "sha256": "5be4a5514e3da51c2bdcbe1f4e273f62db53bbec96e19a2bde0ad4fd7ade8d7d"
+   },
+   "title_en": "Where GTIOT\u00ae comes from: the live word it borrowed, and the loop it runs instead",
+   "title_zh": "GTIOT\u00ae \u8fd9\u4e2a\u540d\u5b57\u4ece\u54ea\u6765\uff1a\u501f\u4e86\u4e00\u4e2a\u6d3b\u7740\u7684\u70ed\u8bcd\uff0c\u7136\u540e\u8dd1\u8d77\u4e86\u53e6\u4e00\u6761\u95ed\u73af",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://c7aeab0d227287ce0b5343a4962aa431.forge.iqa",
+    "rttp": "rttp://c7aeab0d.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "c7aeab0d227287ce0b5343a4962aa43175f84160974dd4bf2bb11fa4ffeb0530",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "1579afff5b0576ef",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://c7aeab0d227287ce0b5343a4962aa431.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "29d04050367a57818cdb032ec032171536da5f10649b28b3c6a4161f79cd68a0a523124a7df1022d89201c392784ad2d80e8a0d5deba6f89313aa49620444e0a",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "where-guixu-comes-from",
+   "snapshot_en": {
+    "sha256": "6728ace1c02c8fbbc3c8d27523d818a0ca751e6f5c7340882bdf953ee2672c74",
+    "url": "https://blog.aicent.com/where-guixu-comes-from/"
+   },
+   "snapshot_zh": {
+    "sha256": "d39d4eba318f39f0b8e808ec43e3c712c45e686d1d0a03d536553d71b379361b",
+    "url": "https://blog.aicent.com/zh/where-guixu-comes-from/"
+   },
+   "source_en": {
+    "path": "_src/c015-where-guixu-comes-from.html",
+    "sha256": "2e252768cba86ae43ecf10acc74d928dc4cf14816085daab836e71790848a0bc"
+   },
+   "source_zh": {
+    "path": "_src_zh/c015-where-guixu-comes-from.html",
+    "sha256": "baa13b171aac973e01acdd5ef078b4790b567f960f539e9e55f3360fa1a92660"
+   },
+   "title_en": "Where GUI-XU comes from: a trench that never fills, and a pillar with no address",
+   "title_zh": "GUI-XU \u8fd9\u4e2a\u540d\u5b57\u4ece\u54ea\u6765\uff1a\u4e00\u4e2a\u4e0d\u4f1a\u6ee1\u7684\u58d1\uff0c\u4e0e\u4e00\u6839\u6ca1\u6709\u5730\u5740\u7684\u652f\u67f1",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://74ac73860b9117bb00a63294d920474b.forge.iqa",
+    "rttp": "rttp://74ac7386.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "74ac73860b9117bb00a63294d920474b43fc0bcb870079c392e497e722aab548",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "a7585e8aad4531e7",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://74ac73860b9117bb00a63294d920474b.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "fe36fefd0fac6df6fc8d9ddc4efc41422157b80758b77ec736c888b83867a06e69552c7e3660d39cd1322a5c91ce238bd5ca3451b66bbac1bd74d8ac7baa9f0b",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "where-iqa-comes-from",
+   "snapshot_en": {
+    "sha256": "edfa2d9ef276652fd006d6a1b7999a2c74fe7516cd39ebb9bacfae8812921198",
+    "url": "https://blog.aicent.com/where-iqa-comes-from/"
+   },
+   "snapshot_zh": {
+    "sha256": "6a6a726c56146a9b1db6b61eff03c2b5481e8d564e91cd81b7a6a50e0ead4a54",
+    "url": "https://blog.aicent.com/zh/where-iqa-comes-from/"
+   },
+   "source_en": {
+    "path": "_src/c009-where-iqa-comes-from.html",
+    "sha256": "8154f9d75d755817654982a57046d7e1ff69dd0bdf142d4c78d27d0f5e377fe8"
+   },
+   "source_zh": {
+    "path": "_src_zh/c009-where-iqa-comes-from.html",
+    "sha256": "1e8e5b8dc82ec2e08b86f1ba67cfdd4e730b186653ca9119c8897d9791c83407"
+   },
+   "title_en": "Where IQA comes from: two words kept, one word swapped",
+   "title_zh": "IQA \u8fd9\u4e2a\u540d\u5b57\u4ece\u54ea\u6765\uff1a\u4e24\u4e2a\u8bcd\u7167\u6284\uff0c\u4e00\u4e2a\u8bcd\u6362\u6389",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://f3dd95fdfea0da750ac85b7b705db9f9.forge.iqa",
+    "rttp": "rttp://f3dd95fd.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "f3dd95fdfea0da750ac85b7b705db9f93b70c00667402834989767b74cd0d571",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "596cc6a4df9182b9",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://f3dd95fdfea0da750ac85b7b705db9f9.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "48ca9c49267f74fe339f6ae53900469832c7b7969f023a6db7197a77a1684a287bb2c0cb42bb1b3b075c36062c1ecd461ab7d9f0b1bd5360a8a666e467c77008",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "where-itsun-comes-from",
+   "snapshot_en": {
+    "sha256": "5636f903947d8c6dbac944eb02c6ef081e374acb89f5684b61a7a8cadb20bc93",
+    "url": "https://blog.aicent.com/where-itsun-comes-from/"
+   },
+   "snapshot_zh": {
+    "sha256": "cf3937bcd21bf430155d9c040769e9eae1f65af343011c8faa484eefedf4eb2e",
+    "url": "https://blog.aicent.com/zh/where-itsun-comes-from/"
+   },
+   "source_en": {
+    "path": "_src/c011-where-itsun-comes-from.html",
+    "sha256": "47ff2f7c97a7bab0a04fb10ad9bf9da34826a7e52f41caccc80afe5f42f84579"
+   },
+   "source_zh": {
+    "path": "_src_zh/c011-where-itsun-comes-from.html",
+    "sha256": "d86639ff2b27cfcb1db5ef8dff6b945d29b6b6e41b3e3eeb230a625e371b8f4d"
+   },
+   "title_en": "Where ITSUN\u00ae comes from: the safest rung on the ladder",
+   "title_zh": "ITSUN\u00ae \u8fd9\u4e2a\u540d\u5b57\u4ece\u54ea\u6765\uff1a\u9636\u68af\u4e0a\u6700\u5b89\u5168\u7684\u4e00\u6863",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://525e5dbcb15f8adb1dafc6eb538e97b1.forge.iqa",
+    "rttp": "rttp://525e5dbc.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "525e5dbcb15f8adb1dafc6eb538e97b1a019b1d8f57f23e82bbc61da42a6f005",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "326b7026b87f13a3",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://525e5dbcb15f8adb1dafc6eb538e97b1.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "1b519a1c4e69f61b6d8328c0b944a3c6135f9e413e2479a0327efcd0d754b7a070f39b08508fbf57ad9f2cf38c36b55861c0dc98d993e8bfc1b81085ddfc660e",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "where-maxcap-comes-from",
+   "snapshot_en": {
+    "sha256": "b701c316e65ec15d8e248da5ca10fce10ef13a1b4cfc4625df5399b0d54773a0",
+    "url": "https://blog.aicent.com/where-maxcap-comes-from/"
+   },
+   "snapshot_zh": {
+    "sha256": "4179ef1ae66ba09726f22b60dc92f18f3a6bf4fe99f1954192515beb169d11d7",
+    "url": "https://blog.aicent.com/zh/where-maxcap-comes-from/"
+   },
+   "source_en": {
+    "path": "_src/c016-where-maxcap-comes-from.html",
+    "sha256": "f4c1cc29c3a88b2171e5591ac62a2a0e6f9d30dcfe990cc8976af2bac2d51638"
+   },
+   "source_zh": {
+    "path": "_src_zh/c016-where-maxcap-comes-from.html",
+    "sha256": "b97b2a06072ac10a47298039839737565077902eaeddb83894210ba03235e325"
+   },
+   "title_en": "Where MAXCAP\u00ae comes from: the only component without a number",
+   "title_zh": "MAXCAP\u00ae \u8fd9\u4e2a\u540d\u5b57\u4ece\u54ea\u6765\uff1a\u5168\u7cfb\u5217\u552f\u4e00\u4e00\u4e2a\u6ca1\u6709\u7f16\u53f7\u7684\u7ec4\u4ef6",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://1090813521921075058bb78210f38588.forge.iqa",
+    "rttp": "rttp://10908135.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "1090813521921075058bb78210f38588744124772669fb6d7629927d2d1df938",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "5500c2bcd89f2d81",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://1090813521921075058bb78210f38588.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "c81c7de6a4b2ee981d35fecca614a93949168aa08ff21d17f90aeaee8ca7cfa660741f65022673c7f7a08cbf44cd6c4c3f0a343c325d9e72447216ee66745200",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "where-moloon-comes-from",
+   "snapshot_en": {
+    "sha256": "bbdcda8cc5abe4dae5e0560902b8ab0fd2b37018337dd814c5a695cdd70981fe",
+    "url": "https://blog.aicent.com/where-moloon-comes-from/"
+   },
+   "snapshot_zh": {
+    "sha256": "bacb31fc7385da94266ccc52063cca61d4557129c4334c2f20fd1d3229b3cf45",
+    "url": "https://blog.aicent.com/zh/where-moloon-comes-from/"
+   },
+   "source_en": {
+    "path": "_src/c012-where-moloon-comes-from.html",
+    "sha256": "7c427bdba98154d024ed8b171177a818d9bcdbf1e688da6739c49475f5a23f42"
+   },
+   "source_zh": {
+    "path": "_src_zh/c012-where-moloon-comes-from.html",
+    "sha256": "ee2cbb80f8cb500e296ebefb0f37531d2f989fba3323601bd5c7258ca8b2d2fb"
+   },
+   "title_en": "Where MOLOON comes from: a moon, an extra letter, and a reading that is ours",
+   "title_zh": "MOLOON \u8fd9\u4e2a\u540d\u5b57\u4ece\u54ea\u6765\uff1a\u4e00\u4e2a\u6708\u4eae\uff0c\u4e00\u4e2a\u591a\u51fa\u6765\u7684\u5b57\u6bcd\uff0c\u548c\u4e00\u4e2a\u5c5e\u4e8e\u6211\u4eec\u7684\u8bfb\u6cd5",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://8bac9a21e2dbbd8a7ca8a5620e487e7e.forge.iqa",
+    "rttp": "rttp://8bac9a21.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "8bac9a21e2dbbd8a7ca8a5620e487e7e360b491e19462627403a07e3dbd7049e",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "46c58f6957a96e94",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://8bac9a21e2dbbd8a7ca8a5620e487e7e.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "c2d9ddc8c1c386a22f96be54070e729e34e6c4a6f09f9cfe45b859b314b9d679ff3dcd729a5ff89c5e7c496bcdf3c1b0b337180ed2f7e28a5b1cf00c80b6be08",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "where-picsi-comes-from",
+   "snapshot_en": {
+    "sha256": "f4701b817bf3778feb0ade663d36835d6fe434715c7d9e461cb39de7a570fdc9",
+    "url": "https://blog.aicent.com/where-picsi-comes-from/"
+   },
+   "snapshot_zh": {
+    "sha256": "8be552adfdc367b4fa38823fdbe9688441c9197ab651f201ad8cfe389bb41386",
+    "url": "https://blog.aicent.com/zh/where-picsi-comes-from/"
+   },
+   "source_en": {
+    "path": "_src/c014-where-picsi-comes-from.html",
+    "sha256": "b43dbe7162c1b0f8255641275c7a96c5dfe6cadf7dcebab47badb35e6285dd9a"
+   },
+   "source_zh": {
+    "path": "_src_zh/c014-where-picsi-comes-from.html",
+    "sha256": "b7489e71f03a3c9228e6ac1ce39a084bc99c1fb1b02081f57841f13c14018a81"
+   },
+   "title_en": "Where PICSI\u00ae comes from: the only name built from inside the stack",
+   "title_zh": "PICSI\u00ae \u8fd9\u4e2a\u540d\u5b57\u4ece\u54ea\u6765\uff1a\u5168\u6808\u552f\u4e00\u4e00\u4e2a\u4ece\u5185\u90e8\u62fc\u51fa\u6765\u7684\u540d\u5b57",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://9d5ed3c8a55c3dab9527f9b3a9d6d27f.forge.iqa",
+    "rttp": "rttp://9d5ed3c8.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "9d5ed3c8a55c3dab9527f9b3a9d6d27f28ecafb78529ca61786d05604f9f3f73",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "810193d603787aea",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://9d5ed3c8a55c3dab9527f9b3a9d6d27f.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "a9d04b36487e76c8c135eb5aad8022683d6988b6ae7a676d7d919838b887a1279baabe75e44334510ed9cd376cf3d744973d672968dd951cc8ac5794fdc0db0f",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "where-rpki-comes-from",
+   "snapshot_en": {
+    "sha256": "141c9bbdbcf842f157f78b3c9a7bc4ece576b7645e9457f9f5a069675b889fff",
+    "url": "https://blog.aicent.com/where-rpki-comes-from/"
+   },
+   "snapshot_zh": {
+    "sha256": "077d828f8c00d705e88e2bfa9172d18a3bb54a30828e4a9605e4d73a1d6a22a4",
+    "url": "https://blog.aicent.com/zh/where-rpki-comes-from/"
+   },
+   "source_en": {
+    "path": "_src/c003-where-rpki-comes-from.html",
+    "sha256": "e2a99bf634d5e2c7ee21f59d2993d5373996c7d6937c758684e1a55b88e1f33e"
+   },
+   "source_zh": {
+    "path": "_src_zh/c003-where-rpki-comes-from.html",
+    "sha256": "36971503f0d0ff40dbf8d97eb07334afc11a849fe7d0bf9fb876dc4e4abb498d"
+   },
+   "title_en": "Where RPKI comes from: the name that collides",
+   "title_zh": "RPKI \u8fd9\u4e2a\u540d\u5b57\u4ece\u54ea\u6765\uff1a\u649e\u4e0a\u7684\u90a3\u4e00\u4e2a",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://cd520e368686c667488832388ff7e215.forge.iqa",
+    "rttp": "rttp://cd520e36.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "cd520e368686c667488832388ff7e2153c66aac7ca9ee66542009eb51fd2de41",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "b7f884013d5d29ef",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://cd520e368686c667488832388ff7e215.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "498d0bb1129338f2b07b8f0e3ef5fb33180052913e2c8d6fe93fe8b1454730cb3fcee03092610d449b6b8223c8bd829b4c4824b8ba0e81345dca2b232ef58206",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "where-rttp-comes-from",
+   "snapshot_en": {
+    "sha256": "90b28cbb1c832ebaf611800a82c01b0fbaadc7554c1d2e7a63f0afe449128341",
+    "url": "https://blog.aicent.com/where-rttp-comes-from/"
+   },
+   "snapshot_zh": {
+    "sha256": "3bf61965f9ae622cd435503e34f688a9d1cd02568e395675ae9e9dcf1c661221",
+    "url": "https://blog.aicent.com/zh/where-rttp-comes-from/"
+   },
+   "source_en": {
+    "path": "_src/c002-where-rttp-comes-from.html",
+    "sha256": "ef55f357d420110ef09ebeaef6be7c2d7eb9397688e8279b3b2d0f864743d53f"
+   },
+   "source_zh": {
+    "path": "_src_zh/c002-where-rttp-comes-from.html",
+    "sha256": "7b9fdee607005b75b461beaa5a2781c4d357b31cf7ed627461c9f09db236f500"
+   },
+   "title_en": "Where RTTP comes from: four borrowed words and one empty letter space",
+   "title_zh": "RTTP \u8fd9\u4e2a\u540d\u5b57\u4ece\u54ea\u6765\uff1a\u56db\u4e2a\u501f\u6765\u7684\u8bcd\uff0c\u4e00\u683c\u6ca1\u4eba\u5360\u7684\u5b57\u6bcd",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://734457aaa7bba3540661b114bdb7340b.forge.iqa",
+    "rttp": "rttp://734457aa.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "734457aaa7bba3540661b114bdb7340ba7ab11a3916edfe1c50eb7523e11c205",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "cad3d2437bb80604",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://734457aaa7bba3540661b114bdb7340b.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "a1405e44463a0af0309d0cb179b330242a60e041683c57f1cc795b0bf184de80d58e55aee832b76f3367b4c903c2658dd82e5727bd3f712ed4dc8c17ea872700",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "where-sascar-comes-from",
+   "snapshot_en": {
+    "sha256": "6370fc0b52a63ea16f631b61fa534b327b03539191c6758df265a1fc7cb58deb",
+    "url": "https://blog.aicent.com/where-sascar-comes-from/"
+   },
+   "snapshot_zh": {
+    "sha256": "a4ad2d1c49393019f46e298663d45408fdc4a3479c979a397d73475a19507620",
+    "url": "https://blog.aicent.com/zh/where-sascar-comes-from/"
+   },
+   "source_en": {
+    "path": "_src/c010-where-sascar-comes-from.html",
+    "sha256": "35fe4c447aec54865874af6cfe1b042e1e24304324090d89a00689f660e258b7"
+   },
+   "source_zh": {
+    "path": "_src_zh/c010-where-sascar-comes-from.html",
+    "sha256": "11fe9b54621e0dcbdd7b3919b04b50bf5e4fbc3ea9048280ae8ec1245e7c9a29"
+   },
+   "title_en": "Where SASCAR\u00ae comes from: the name printed, the boundary drawn",
+   "title_zh": "SASCAR\u00ae \u8fd9\u4e2a\u540d\u5b57\u4ece\u54ea\u6765\uff1a\u540d\u5b57\u5370\u51fa\u6765\uff0c\u8fb9\u754c\u4e5f\u5212\u6e05\u695a",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://3c6a6edb5a7f4669a13ead049a6fd696.forge.iqa",
+    "rttp": "rttp://3c6a6edb.blog.aicent"
+   },
+   "date": "2026-10-17",
+   "digest": "3c6a6edb5a7f4669a13ead049a6fd6960502cf01f5a77b4a3d39c54eb115b0e5",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "6b43d67ef6007b98",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://3c6a6edb5a7f4669a13ead049a6fd696.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "593adff8f88fed557614e1789a40cc27e2fb768e61cb150a2ab82cf812c1e1109992d83ce45c7b7e1fc404105cb6db9db60d38124714cd5a5e87d300fac59f0f",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "where-trust-lives",
+   "snapshot_en": {
+    "sha256": "cd1d7cc1a1ced265e3ead38cc41b6683ffba9bd551d449eb709008d3002922e5",
+    "url": "https://blog.aicent.com/where-trust-lives/"
+   },
+   "snapshot_zh": {
+    "sha256": "3d93c16d8aa813118f9a8f8466732ff300d065df5704855235312f0e234a32a0",
+    "url": "https://blog.aicent.com/zh/where-trust-lives/"
+   },
+   "source_en": {
+    "path": "_src/where-trust-lives.html",
+    "sha256": "a284ab0df7643271f2f137acfde906b4d2a5a053ec2aa66ab813fe74646c4eb8"
+   },
+   "source_zh": {
+    "path": "_src_zh/where-trust-lives.html",
+    "sha256": "79ec43abdbc78d558e48301f21d4caebf359fe3f15e9fff73dfe42d743d72e49"
+   },
+   "title_en": "Where the trust anchor lives: registry, federation, or derivation",
+   "title_zh": "\u4fe1\u4efb\u7684\u951a\u70b9\u653e\u5728\u54ea\uff1a\u767b\u8bb0\u65b9\u3001\u8054\u90a6\uff0c\u8fd8\u662f\u6d3e\u751f",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://ba3dce9f47472ea48587148ca842d1ce.forge.iqa",
+    "rttp": "rttp://ba3dce9f.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "ba3dce9f47472ea48587148ca842d1ce2523a2dd14be80e3036495e189b9e0b3",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "5b15f014c6887708",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://ba3dce9f47472ea48587148ca842d1ce.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "7843d0411aa266f34d4e486b463df754a7c4e5a58bc9b63124385de0a7505c1c0389c28e23bb721cabc3dd100931df7a76fe1244fee2b4105b83994865764600",
+    "ts": 1793232717,
+    "v": 1
+   },
+   "sealed_at": 1793232717,
+   "slug": "where-zcmk-comes-from",
+   "snapshot_en": {
+    "sha256": "0610d9fcde3d15b6c39a150e201dfd4ea4b23188b57116e7959e831fb5c5971e",
+    "url": "https://blog.aicent.com/where-zcmk-comes-from/"
+   },
+   "snapshot_zh": {
+    "sha256": "789dbefea7d4cc51592650d65ed9a5f75525b735fc19297300bc06fe1a6b10c6",
+    "url": "https://blog.aicent.com/zh/where-zcmk-comes-from/"
+   },
+   "source_en": {
+    "path": "_src/c004-where-zcmk-comes-from.html",
+    "sha256": "f116dc5c5b53c0ffcebd725e7470d835bd07387b7350cd3e2daaa905f76e26ee"
+   },
+   "source_zh": {
+    "path": "_src_zh/c004-where-zcmk-comes-from.html",
+    "sha256": "3553b163906533dbedc28fde794151dcafee94a794aa0fc0981cbd532ffc14cd"
+   },
+   "title_en": "Where ZCMK comes from: four letters that line up, and a tax that is not a commission",
+   "title_zh": "ZCMK \u8fd9\u4e2a\u540d\u5b57\u4ece\u54ea\u6765\uff1a\u5bf9\u5f97\u6700\u9f50\u7684\u56db\u4e2a\u5b57\u6bcd\uff0c\u548c\u90a3\u4e2a\u4e0d\u662f\u4f63\u91d1\u7684\u767e\u5206\u6bd4",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://9175fef0e753387d772b4e7521eaf954.forge.iqa",
+    "rttp": "rttp://9175fef0.blog.aicent"
+   },
+   "date": "2026-10-16",
+   "digest": "9175fef0e753387d772b4e7521eaf95468c3593cd00c8cc92cd5fc7d4e9dad0c",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "0cb1c44de66900ab",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://9175fef0e753387d772b4e7521eaf954.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "3a5cfbe38d8230426216f1ed0c8d3728e396040d47e643032deed17e6abad3766c4155234c3e1b25387e905f42c9b568a5def09b1170170d97e84e66159f6508",
+    "ts": 1793232953,
+    "v": 1
+   },
+   "sealed_at": 1793232953,
+   "slug": "agents-must-prove",
+   "snapshot_en": {
+    "sha256": "016ec0ae2e8dda873aa1f7a5a1a4d2fb8db9cc0c647c4c6d4fd1150858c2d4a4",
+    "url": "https://blog.aicent.com/agents-must-prove/"
+   },
+   "snapshot_zh": {
+    "sha256": "135a7141e6492778a66d570adf60aaddc9b75f42cb60f4121483f66c5fdd3e50",
+    "url": "https://blog.aicent.com/zh/agents-must-prove/"
+   },
+   "source_en": {
+    "path": "_src/agents-must-prove.md",
+    "sha256": "5aa8934e12a6df753526a749ab4801c170304be2570c9518e200c26d1a319041"
+   },
+   "source_zh": {
+    "path": "_src_zh/agents-must-prove.md",
+    "sha256": "3f576823bf3966ebf709101f4214392bbb53174d7bd50169fe5e4eb6f9d4acf7"
+   },
+   "title_en": "When Agents Must Prove Themselves",
+   "title_zh": "\u5f53 Agent \u5fc5\u987b\u81ea\u8bc1",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://c28fb982c9c9ad30c05b8b8a849afe9f.forge.iqa",
+    "rttp": "rttp://c28fb982.blog.aicent"
+   },
+   "date": "2026-10-29",
+   "digest": "c28fb982c9c9ad30c05b8b8a849afe9fd12872ed287dfab5e6351925c510e3b0",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "19813514d57e1a67",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://c28fb982c9c9ad30c05b8b8a849afe9f.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "9214bf90885b71cef95642cff3859d82b477892b06522c358799960457a106cbb29c96a29e599d1843184c9418af04476f5d70d35882a2d0b909ca4cd2ebe607",
+    "ts": 1793259890,
+    "v": 1
+   },
+   "sealed_at": 1793259890,
+   "slug": "q19-the-condition-and-its-facts",
+   "snapshot_en": {
+    "sha256": "1848cf2bbc5211886f19b745f80c27699b044e71cdc7a6a269216f780ec24af8",
+    "url": "https://blog.aicent.com/q19-the-condition-and-its-facts/"
+   },
+   "snapshot_zh": {
+    "sha256": "1174238b7bdd3f25b3f36ba7b6ebd3015355fcfece791b866510915e9b02be8d",
+    "url": "https://blog.aicent.com/zh/q19-the-condition-and-its-facts/"
+   },
+   "source_en": {
+    "path": "_src/q19-the-condition-and-its-facts.html",
+    "sha256": "36918ae70f86891cc1e598823fe908f53446ff3de39fe9a29ca79173ebc690b8"
+   },
+   "source_zh": {
+    "path": "_src_zh/q19-the-condition-and-its-facts.html",
+    "sha256": "eec26222a8bb8f726aa9a77fdab48bac07f6ca4a45f89ef4de54f9c31096c047"
+   },
+   "title_en": "The condition and its facts: what a delegation's DENY stands on",
+   "title_zh": "\u6761\u4ef6\u4e0e\u5b83\u7684\u4e8b\u5b9e\uff1a\u4e00\u6b21\u59d4\u6258\u7684 DENY \u7ad9\u5728\u4ec0\u4e48\u4e0a\u9762",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://5596dd56ed3ec9842fb7c982d682527e.forge.iqa",
+    "rttp": "rttp://5596dd56.blog.aicent"
+   },
+   "date": "2026-10-30",
+   "digest": "5596dd56ed3ec9842fb7c982d682527ead2e4bc32ea0f152601f2c18cb7dfaac",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "8f8047c4b94be274",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://5596dd56ed3ec9842fb7c982d682527e.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "eb45abea756130ceebc930ab66c8979dd9fb9ad693da02c0dd58fa79f65658eeab47e83b434c7d0cad01f78110129002020f96565c9e9903edf60f22c5370f00",
+    "ts": 1793347246,
+    "v": 1
+   },
+   "sealed_at": 1793347246,
+   "slug": "q20-three-moments-one-race",
+   "snapshot_en": {
+    "sha256": "72e08d33992af0f19a212aecae553bab47a20edcff6febc53919908d291f8981",
+    "url": "https://blog.aicent.com/q20-three-moments-one-race/"
+   },
+   "snapshot_zh": {
+    "sha256": "f5af830b5fb7cce8f59bd044f4186c95ec4a42afb484cffe21837e2811a1609e",
+    "url": "https://blog.aicent.com/zh/q20-three-moments-one-race/"
+   },
+   "source_en": {
+    "path": "_src/q20-three-moments-one-race.html",
+    "sha256": "f172cdb9c04f032a663afd391a83dd212d64458f27fecabfec1904c25de6cec0"
+   },
+   "source_zh": {
+    "path": "_src_zh/q20-three-moments-one-race.html",
+    "sha256": "28764b9c946617e3ea63d55df6ab40cacce8fb43a09630557fcf64ce8c990076"
+   },
+   "title_en": "Three moments, one race: when a delegation's status is decided",
+   "title_zh": "\u4e09\u4e2a\u65f6\u523b\uff0c\u4e00\u573a\u7ade\u6001\uff1a\u59d4\u6258\u7684\u72b6\u6001\u5728\u4f55\u65f6\u88ab\u51b3\u5b9a",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://c3d28108c2ff7ae7e68f0386e4e20867.forge.iqa",
+    "rttp": "rttp://c3d28108.blog.aicent"
+   },
+   "date": "2026-10-30",
+   "digest": "c3d28108c2ff7ae7e68f0386e4e20867b12f012ba0bd55a7d3be8dd4570b5dcf",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "477efecef6679cc4",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://c3d28108c2ff7ae7e68f0386e4e20867.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "42dd162e41d712f031722eafb5736e07a585857a5557dd66380d427f529aa11dbaeaa841e7c9b447d1fb290fca89223bdffa703247e7b6528564e5115fa4f90e",
+    "ts": 1793347246,
+    "v": 1
+   },
+   "sealed_at": 1793347246,
+   "slug": "q21-the-exception-leaves-a-receipt",
+   "snapshot_en": {
+    "sha256": "3baa4f0943f42898a79ed1b895b54b2cd82ff9c47c7c472b6f49e074f1caab0d",
+    "url": "https://blog.aicent.com/q21-the-exception-leaves-a-receipt/"
+   },
+   "snapshot_zh": {
+    "sha256": "7f8965197f7e22a5a923e08574b25bf8c4b97afa468401966704a92722b84de2",
+    "url": "https://blog.aicent.com/zh/q21-the-exception-leaves-a-receipt/"
+   },
+   "source_en": {
+    "path": "_src/q21-the-exception-leaves-a-receipt.html",
+    "sha256": "9b258d21f837666cf5becc6afddf5623a1e2ace57ad4055be54e3ced88995645"
+   },
+   "source_zh": {
+    "path": "_src_zh/q21-the-exception-leaves-a-receipt.html",
+    "sha256": "77d75e0174417940786651e970b52617b2fdd2b162a6bfcd3d83904cc0d5fc95"
+   },
+   "title_en": "The exception that leaves a receipt: VOC and the readable refusal",
+   "title_zh": "\u7559\u56de\u6267\u7684\u4f8b\u5916\uff1aVOC \u4e0e\u53ef\u8bfb\u7684\u62d2\u7edd",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://1e6599b3c80929334c2bd78892e2d2cb.forge.iqa",
+    "rttp": "rttp://1e6599b3.blog.aicent"
+   },
+   "date": "2026-10-20",
+   "digest": "1e6599b3c80929334c2bd78892e2d2cb23070d8ba63769ba0bfad0a90d95bf50",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "295a7991823e0a7d",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://1e6599b3c80929334c2bd78892e2d2cb.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "895e37ed58f66c967f2be75adf5a957984bef7ec1f3e002ffcabdc2af42eb671b73d0d847c76e3b10ef44334203e3cadebb533bf4f9d50d112df3f7727c98f0d",
+    "ts": 1793350269,
+    "v": 1
+   },
+   "sealed_at": 1793350269,
+   "slug": "agent-identity-week",
+   "snapshot_en": {
+    "sha256": "e36a8e855dfc75dc7e01f6dcb4e3a15d8d4dca8d114457d2244edc19c4a40062",
+    "url": "https://blog.aicent.com/agent-identity-week/"
+   },
+   "snapshot_zh": {
+    "sha256": "a13c3e22bfaeb95b93495b70128d5636028aec71bc650ce92570fda78bc1c8f8",
+    "url": "https://blog.aicent.com/zh/agent-identity-week/"
+   },
+   "source_en": {
+    "path": "_src/agent-identity-week.html",
+    "sha256": "34b8eeb9ff81b89912f45c1144be60ca0871f1c3d1b088b9da2f248034bbc042"
+   },
+   "source_zh": {
+    "path": "_src_zh/agent-identity-week.html",
+    "sha256": "3651bb447cad92d5a6a302f3a3cf80faa0c85b5f57a446b803c296a758998350"
+   },
+   "title_en": "Agent identity week: four days, four answers, and 99.1%",
+   "title_zh": "\u667a\u80fd\u4f53\u8eab\u4efd\u5468\uff1a\u56db\u5929\uff0c\u56db\u79cd\u7b54\u6848\uff0c\u548c 99.1%",
+   "version": 2
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://e919987280a9e84bfad1b7c0550d2434.forge.iqa",
+    "rttp": "rttp://e9199872.blog.aicent"
+   },
+   "date": "2026-10-21",
+   "digest": "e919987280a9e84bfad1b7c0550d2434d9f236e1ff588c73cc804fcefa20c69d",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "0aa63fd9a2ebcbd2",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://e919987280a9e84bfad1b7c0550d2434.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "bd7ed41d7b9a723e091ca77ab6ae5a51a22ca839d5836e05dcdbadc7806607f82f09a9b8801ea04a3cd176d343583788e3a9160eec5f3de05fa77e7b3b476900",
+    "ts": 1793350269,
+    "v": 1
+   },
+   "sealed_at": 1793350269,
+   "slug": "containment-month-fences",
+   "snapshot_en": {
+    "sha256": "96081d5f0eec478502e062f8db205be66ac5436a04581e50eda3ee62268d57ef",
+    "url": "https://blog.aicent.com/containment-month-fences/"
+   },
+   "snapshot_zh": {
+    "sha256": "905c41107a384e340b12688690ead1113b07063cb21e5d5107885464891d8c57",
+    "url": "https://blog.aicent.com/zh/containment-month-fences/"
+   },
+   "source_en": {
+    "path": "_src/containment-month-fences.html",
+    "sha256": "064a454eb7ad6be7f2070c313b96f9e02ee82b463036067c80ecda27173de942"
+   },
+   "source_zh": {
+    "path": "_src_zh/containment-month-fences.html",
+    "sha256": "f6ffb7d0d27e2b11678d18034730b39b59a1cc1ea893679a910c842d6c45d6dc"
+   },
+   "title_en": "Containment month: what OpenAI's pause says about fences",
+   "title_zh": "\u904f\u5236\u4e4b\u6708\uff1aOpenAI \u6682\u505c\u8bad\u7ec3\uff0c\u4e0e\u56f4\u680f\u7684\u6781\u9650",
+   "version": 2
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://9d27e0f9c36565f491dc5e1248b46cfa.forge.iqa",
+    "rttp": "rttp://9d27e0f9.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "9d27e0f9c36565f491dc5e1248b46cfa1d5dc5a981de4bd50a48c69eb7d0b5da",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "6fcc14cb1a8d9310",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://9d27e0f9c36565f491dc5e1248b46cfa.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "065e8cf9f5c06a8da83bdb7c68c9eac8a1f13fe25130b1f6fde6f0a84ebfe207476068a9a878f6d55f5e927619486d4bc78c029c66a46b7f6e389f775a55bd03",
+    "ts": 1793350269,
+    "v": 1
+   },
+   "sealed_at": 1793350269,
+   "slug": "four-answers",
+   "snapshot_en": {
+    "sha256": "6246424cb53e1c3c34fde34664b8e9598814ddd52b875fb2c0fb85ad47f7dd78",
+    "url": "https://blog.aicent.com/four-answers/"
+   },
+   "snapshot_zh": {
+    "sha256": "1ff6ba7563b05960fa56e4bf9626afde393389a03de213fc6d07808bd71b8578",
+    "url": "https://blog.aicent.com/zh/four-answers/"
+   },
+   "source_en": {
+    "path": "_src/four-answers.html",
+    "sha256": "d1e448d02887565ef3acd0efef4dce2873a04ae00ef317244f9624edd04dfa8b"
+   },
+   "source_zh": {
+    "path": "_src_zh/four-answers.html",
+    "sha256": "77f8f6210434c058478ad6fa893c5b491963378375a7e18f18fef5d2e4665707"
+   },
+   "title_en": "Four questions, four answers: our hand-in to the Agentic Web report",
+   "title_zh": "\u56db\u95ee\u56db\u7b54\uff1a\u6211\u4eec\u7ed9\u667a\u80fd\u4f53\u7f51\u7edc\u62a5\u544a\u4ea4\u7684\u7b54\u5377",
+   "version": 2
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://ef6292d2496514998c7b0d76d0f01132.forge.iqa",
+    "rttp": "rttp://ef6292d2.blog.aicent"
+   },
+   "date": "2026-10-21",
+   "digest": "ef6292d2496514998c7b0d76d0f01132c7a2bdb590de327df2d0d5c074c03231",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "67e1da8daad406ce",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://ef6292d2496514998c7b0d76d0f01132.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "0c9b9f5ff6e7e1c991578a45cee1b2bdcf6e262be1a548d573aa9b8eb94d5d8c81ba7ecbdc4ffb8aa619e227ae467fe733b04cf90b9a0cc7af1356f3206cb303",
+    "ts": 1793350269,
+    "v": 1
+   },
+   "sealed_at": 1793350269,
+   "slug": "pap-front-door",
+   "snapshot_en": {
+    "sha256": "7ca777096845286ee5872241dd92bf22c2f5e0a66024542bc4a4326f58fe0d57",
+    "url": "https://blog.aicent.com/pap-front-door/"
+   },
+   "snapshot_zh": {
+    "sha256": "939a075a14203808d9c7c660369fed681d8dcde70bd39765b312bebde7199ed9",
+    "url": "https://blog.aicent.com/zh/pap-front-door/"
+   },
+   "source_en": {
+    "path": "_src/pap-front-door.html",
+    "sha256": "194e35ac65c228608149e252a2f0c95218777e86b89639d93b2b45007aff8542"
+   },
+   "source_zh": {
+    "path": "_src_zh/pap-front-door.html",
+    "sha256": "eb8f4b881770086861be45f27376e7cef6aa956525787c24d6b46dc7f1e227c9"
+   },
+   "title_en": "The front door: what Personal Agent Protocol answers, and what it cannot",
+   "title_zh": "\u6b63\u95e8\uff1aPersonal Agent Protocol \u56de\u7b54\u4e86\u4ec0\u4e48\uff0c\u56de\u7b54\u4e0d\u4e86\u4ec0\u4e48",
+   "version": 2
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://2948fc7abcc52c90807801a06838f3bb.forge.iqa",
+    "rttp": "rttp://2948fc7a.blog.aicent"
+   },
+   "date": "2026-10-21",
+   "digest": "2948fc7abcc52c90807801a06838f3bb10d86ced8e69dc1ca69905097c77f699",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "0416687e56068278",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://2948fc7abcc52c90807801a06838f3bb.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "4f29442d9de44ff60b8fb26a37183d7c1c625784749fdbd9582715fe5846eef848e8ae641aeb6055cd0f3862604898fc5d87080d57f89c1fdbc5e85eb4de7402",
+    "ts": 1793350269,
+    "v": 1
+   },
+   "sealed_at": 1793350269,
+   "slug": "protocol-pivoting-hallway",
+   "snapshot_en": {
+    "sha256": "80fb607d8ac1a680fd2d1a8336b243778aace4eabea2f71a2e3fc880ea0a0168",
+    "url": "https://blog.aicent.com/protocol-pivoting-hallway/"
+   },
+   "snapshot_zh": {
+    "sha256": "a8b3bba0d4d9bc02a9f3cced0830c26f60533e891654fbfd0422e926f1e6586e",
+    "url": "https://blog.aicent.com/zh/protocol-pivoting-hallway/"
+   },
+   "source_en": {
+    "path": "_src/protocol-pivoting-hallway.html",
+    "sha256": "57b936d71ca5e0702d7bb01c0165d49ad4dfb271ad766d7d20f9072c456e386e"
+   },
+   "source_zh": {
+    "path": "_src_zh/protocol-pivoting-hallway.html",
+    "sha256": "61e3109747de775dd6e63e2b42467585e72a228682aac06f6d82e985e2ec8583"
+   },
+   "title_en": "One bug, five organizations: the hallway problem has a name",
+   "title_zh": "\u4e00\u4e2a\u7f3a\u9677\uff0c\u4e94\u5bb6\u673a\u6784\uff1a\u8d70\u5eca\u95ee\u9898\u7ec8\u4e8e\u6709\u4e86\u540d\u5b57",
+   "version": 2
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://03850a5b0e6e63b2bc04c80f4f085013.forge.iqa",
+    "rttp": "rttp://03850a5b.blog.aicent"
+   },
+   "date": "2026-10-17",
+   "digest": "03850a5b0e6e63b2bc04c80f4f085013eb26a840cb11c8996ccec502e1ab0191",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "e5e82da948eb5084",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://03850a5b0e6e63b2bc04c80f4f085013.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "5b9a73b2ad86bf74c5430c871e3b7699507b52814233b6bc743546bdebaf885fe79a3db1449792ff090468fdd7d674d523f8805d5cb06c404d0bc655fc2c1005",
+    "ts": 1793350269,
+    "v": 1
+   },
+   "sealed_at": 1793350269,
+   "slug": "signature-not-trust",
+   "snapshot_en": {
+    "sha256": "a6ea9c26ba032c5c0fd56bf31e1e05fd4788f24b83be493cf6c36b407b7d96dd",
+    "url": "https://blog.aicent.com/signature-not-trust/"
+   },
+   "snapshot_zh": {
+    "sha256": "e7777d38ebd0554a4148c76454810853afbe0a36cd939da99cb170642e86cb5a",
+    "url": "https://blog.aicent.com/zh/signature-not-trust/"
+   },
+   "source_en": {
+    "path": "_src/signature-not-trust.html",
+    "sha256": "f5818fe6eb92c2b5904922f67a31ff56705f79d71455874153f853b7a97fbfa9"
+   },
+   "source_zh": {
+    "path": "_src_zh/signature-not-trust.html",
+    "sha256": "bf58f5be2e41f9fb72dde06f4a02245a23057cbf4ddaba7351913f5a525be703"
+   },
+   "title_en": "A signature is not trust: three silent questions in the agent protocol stack",
+   "title_zh": "\u7b7e\u540d\u4e0d\u7b49\u4e8e\u53ef\u4fe1\uff1a\u667a\u80fd\u4f53\u534f\u8bae\u6808\u91cc\u6c89\u9ed8\u7684\u4e09\u4e2a\u95ee\u9898",
+   "version": 2
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://fe89b4857190d0a501510d2bbe7f500f.forge.iqa",
+    "rttp": "rttp://fe89b485.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "fe89b4857190d0a501510d2bbe7f500fb6ae47fc025f4a7836154b1c1cbc908c",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "6c47a295b828d599",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://fe89b4857190d0a501510d2bbe7f500f.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "c60273a9e8ef7031ce2f7f1b4d451c0f41748f4d8eb91cc87aa04a7f1d819d631c174f76e32d3a273c8c05c1964927959a230bce119e0a75543abb1134854d0c",
+    "ts": 1793350269,
+    "v": 1
+   },
+   "sealed_at": 1793350269,
+   "slug": "stateless-mcp",
+   "snapshot_en": {
+    "sha256": "a65ee31383af0887423beeed46c8de7aac46e528e3d65ddc6b4a1d198d663b43",
+    "url": "https://blog.aicent.com/stateless-mcp/"
+   },
+   "snapshot_zh": {
+    "sha256": "c9f6a8dbec18991f30a025e7cd933414efb942b0eec87a14ae8d381993f6ff12",
+    "url": "https://blog.aicent.com/zh/stateless-mcp/"
+   },
+   "source_en": {
+    "path": "_src/stateless-mcp.html",
+    "sha256": "0d62b900c13ed255a353a73699e061bcf83fb3a9b918fc2f13578b3e8863d017"
+   },
+   "source_zh": {
+    "path": "_src_zh/stateless-mcp.html",
+    "sha256": "d0734c8dd73bb3a8660e6e51b45ad4ec65c065a00c8545580107d9652d89e1d6"
+   },
+   "title_en": "MCP deleted the session: where does state live now?",
+   "title_zh": "MCP \u5220\u6389\u4e86\u4f1a\u8bdd\uff1a\u72b6\u6001\u4ece\u6b64\u4f4f\u54ea",
+   "version": 2
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://6f51df81a2fbd8cfb6d890a9024357b5.forge.iqa",
+    "rttp": "rttp://6f51df81.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "6f51df81a2fbd8cfb6d890a9024357b57e71942653dae8c9a43bdb733d83283e",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "e6140517c2a20350",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://6f51df81a2fbd8cfb6d890a9024357b5.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "5da1d645a31bca2e069b5b3798ba19a63fa46ab1132ac84d1269d449ce5f416a84c7101604364265ca3d1f368a08b3f795aa136e9b3f1dccaf6be619a2cd1d03",
+    "ts": 1793350269,
+    "v": 1
+   },
+   "sealed_at": 1793350269,
+   "slug": "the-label-before-the-spec",
+   "snapshot_en": {
+    "sha256": "97da22b7403a94df7dfb30d59860e0a03bec5f653816af9048da21913e24dcfc",
+    "url": "https://blog.aicent.com/the-label-before-the-spec/"
+   },
+   "snapshot_zh": {
+    "sha256": "a4c08fbfde3ff994a7deb2d80e7a72317a9619d914b649c88bdc89b5f51dbd57",
+    "url": "https://blog.aicent.com/zh/the-label-before-the-spec/"
+   },
+   "source_en": {
+    "path": "_src/the-label-before-the-spec.html",
+    "sha256": "e12dc48028955c26b5fce012eccf2404a4d2d0482a43c9d73a43fee4bf9b3863"
+   },
+   "source_zh": {
+    "path": "_src_zh/the-label-before-the-spec.html",
+    "sha256": "f3ec1427b86788544714a0d12320d8e7619810c295ed8aae92db5ad4312dad35"
+   },
+   "title_en": "The label before the spec: what \u201cA2A-compliant\u201d actually verifies",
+   "title_zh": "\u6807\u7b7e\u5148\u4e8e\u89c4\u8303\uff1a\u300cA2A \u517c\u5bb9\u300d\u5230\u5e95\u9a8c\u8bc1\u4e86\u4ec0\u4e48",
+   "version": 2
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://f8dd84fa864a7ee3f26bfaf0b23085ba.forge.iqa",
+    "rttp": "rttp://f8dd84fa.blog.aicent"
+   },
+   "date": "2026-10-18",
+   "digest": "f8dd84fa864a7ee3f26bfaf0b23085bae2af9eba2c13ce880d6931c2c89ba1d1",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "6d2463b410508136",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://f8dd84fa864a7ee3f26bfaf0b23085ba.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "8a02ec963ed5da9024310b1524f5a0034da0ff83c24ee83c1cc6b005fc1f6d9256f87a4522fa5dc5d9adadfacf830a10dbc475f4e2615f49e6899fc0b7fa1808",
+    "ts": 1793350269,
+    "v": 1
+   },
+   "sealed_at": 1793350269,
+   "slug": "the-registry-vacuum",
+   "snapshot_en": {
+    "sha256": "1c234a9729961025ed6ace79cec6316a4fc369283b8829a0c88350491dd1d23b",
+    "url": "https://blog.aicent.com/the-registry-vacuum/"
+   },
+   "snapshot_zh": {
+    "sha256": "0d03d90359fd063947f8bd5fd7c5323243164af403a6492e958fb432eda9905e",
+    "url": "https://blog.aicent.com/zh/the-registry-vacuum/"
+   },
+   "source_en": {
+    "path": "_src/the-registry-vacuum.html",
+    "sha256": "098efc6b7cdbaab0af888ae40594735fbceb0ff1e56c52be9a032014f8c67449"
+   },
+   "source_zh": {
+    "path": "_src_zh/the-registry-vacuum.html",
+    "sha256": "465f8efb24f936c1ed29c4d9548045e3c35c01ed21d8f76736f746ad75456d42"
+   },
+   "title_en": "The registry vacuum: who owns the name before the spec ships?",
+   "title_zh": "\u6ce8\u518c\u8868\u7684\u771f\u7a7a\u671f\uff1a\u89c4\u8303\u53d1\u8d27\u4e4b\u524d\uff0c\u540d\u5b57\u5f52\u8c01",
+   "version": 2
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://d305f84a45de8ecdc0294746346fe18e.forge.iqa",
+    "rttp": "rttp://d305f84a.blog.aicent"
+   },
+   "date": "2026-10-17",
+   "digest": "d305f84a45de8ecdc0294746346fe18eef36053f55879da20e1e8e64c2842e96",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "2769bd03b2fea14a",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://d305f84a45de8ecdc0294746346fe18e.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "b3ffbaebc02ed079709a6bb74688a8a28ca7bdcd21420c110b9fb2194bcbb8c6cb99de0958c262776355e6d85640c3d6c65516819b42f7b2ca6ecb55f4000c05",
+    "ts": 1793350269,
+    "v": 1
+   },
+   "sealed_at": 1793350269,
+   "slug": "w3c-review",
+   "snapshot_en": {
+    "sha256": "aa924148a078e774a2baafa750dce5a054f5a32c3258c40be37fbf07293b8327",
+    "url": "https://blog.aicent.com/w3c-review/"
+   },
+   "snapshot_zh": {
+    "sha256": "1a243b20260c2031afe8070d92b7b5f9b2009ce963eec2e2aafcc75c61635ecb",
+    "url": "https://blog.aicent.com/zh/w3c-review/"
+   },
+   "source_en": {
+    "path": "_src/w3c-review.html",
+    "sha256": "28c834895d56e5224c3304eb63f76c3a115fb0ccf26554cb182f37332bebb318"
+   },
+   "source_zh": {
+    "path": "_src_zh/w3c-review.html",
+    "sha256": "51d9fff9e16f0759c605541f3a9960bbcb116b57248ec5dfa5ecad1f2be6de79"
+   },
+   "title_en": "After the W3C Agentic Web report: the identity layer has landed, the addressing layer is still blank",
+   "title_zh": "W3C \u667a\u80fd\u4f53\u7f51\u7edc\u62a5\u544a\u8bfb\u540e\uff1a\u8eab\u4efd\u5c42\u5df2\u843d\u5b50\uff0c\u5bfb\u5740\u5c42\u4ecd\u662f\u7a7a\u683c",
+   "version": 2
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://fac5fdd9db0edd943bbe4d91ac1a7f2d.forge.iqa",
+    "rttp": "rttp://fac5fdd9.blog.aicent"
+   },
+   "date": "2026-10-17",
+   "digest": "fac5fdd9db0edd943bbe4d91ac1a7f2d08dbd5d2eff39983d07d3d3ddff5b2a1",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "0433e9a6b617fe95",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://fac5fdd9db0edd943bbe4d91ac1a7f2d.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "8b9fbb17997a79931aba18e6f5691eca05f56e9a9b9d63328e591843d3d3c169fbce62ae3fd766ecdd2afce80c92e20d246961a223d476a2ea57ce17fca00608",
+    "ts": 1793350269,
+    "v": 1
+   },
+   "sealed_at": 1793350269,
+   "slug": "where-trust-lives",
+   "snapshot_en": {
+    "sha256": "27bd5d0bd4020d8bd39d9bcaae733de78d732aa92cbd90dbdebfcc337571f429",
+    "url": "https://blog.aicent.com/where-trust-lives/"
+   },
+   "snapshot_zh": {
+    "sha256": "bc9e52cf4e9844af55fcb903d2912ebc139a3d515127d8581523b8ebfb27c7c2",
+    "url": "https://blog.aicent.com/zh/where-trust-lives/"
+   },
+   "source_en": {
+    "path": "_src/where-trust-lives.html",
+    "sha256": "48ce087ee01946482612c4aaeb9910a3cff05fe6d515471456bb7a3000dc7459"
+   },
+   "source_zh": {
+    "path": "_src_zh/where-trust-lives.html",
+    "sha256": "79ec43abdbc78d558e48301f21d4caebf359fe3f15e9fff73dfe42d743d72e49"
+   },
+   "title_en": "Where the trust anchor lives: registry, federation, or derivation",
+   "title_zh": "\u4fe1\u4efb\u7684\u951a\u70b9\u653e\u5728\u54ea\uff1a\u767b\u8bb0\u65b9\u3001\u8054\u90a6\uff0c\u8fd8\u662f\u6d3e\u751f",
+   "version": 2
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://404e04cb9bb7f3d34fe0089759de042d.forge.iqa",
+    "rttp": "rttp://404e04cb.blog.aicent"
+   },
+   "date": "2026-10-31",
+   "digest": "404e04cb9bb7f3d34fe0089759de042d63e65c53a5c91bf7e9fc5569a6c163e6",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "a26ef3e5cebe54bf",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://404e04cb9bb7f3d34fe0089759de042d.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "e958bda0276d2a60be8b7839746c00872c8daeb52c2ac736d97c8d4c49c5e8ca0bc8e01999c8fc921b4971f01cc6715528e34c74aa3a98284023c0bbc654170d",
+    "ts": 1793433258,
+    "v": 1
+   },
+   "sealed_at": 1793433258,
+   "slug": "october-on-the-record",
+   "snapshot_en": {
+    "sha256": "48307735aac8ad76d7181fbb5ea234ff6d8f94753d4fdc793405f699402ebcaf",
+    "url": "https://blog.aicent.com/october-on-the-record/"
+   },
+   "snapshot_zh": {
+    "sha256": "0a4d457ffb3c68281861e3443ec889f904e2fdfc34691c933c725653892a4e4e",
+    "url": "https://blog.aicent.com/zh/october-on-the-record/"
+   },
+   "source_en": {
+    "path": "_src/october-on-the-record.html",
+    "sha256": "26641b3362690e578860f7b3fc792ec2535e8ec5329ce8e4194e48ea15a445af"
+   },
+   "source_zh": {
+    "path": "_src_zh/october-on-the-record.html",
+    "sha256": "415df1f1322246cff594fc01b40c9171108ce71f71a19008ad7f82dfd0e3809f"
+   },
+   "title_en": "October on the record: the addressing line, measured",
+   "title_zh": "\u5341\u6708\u5b9e\u5f55\uff1a\u5bfb\u5740\u4e00\u7ebf\uff0c\u9010\u9879\u53ef\u9a8c",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://480ed660bd92e3ac08970c2ba377a1fc.forge.iqa",
+    "rttp": "rttp://480ed660.blog.aicent"
+   },
+   "date": "2026-10-31",
+   "digest": "480ed660bd92e3ac08970c2ba377a1fc28404fe99c749fe4e50939277de2f8b3",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "541b1ca1a6e436ac",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://480ed660bd92e3ac08970c2ba377a1fc.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "24207a9d32bce8ab3be3affef5fa56bcaac54f286218e4106700379c9a5061a0217902fc0d27c79210016cc23042e6443be4d99e88012d8e63fed5698079260b",
+    "ts": 1793434837,
+    "v": 1
+   },
+   "sealed_at": 1793434837,
+   "slug": "october-on-the-record",
+   "snapshot_en": {
+    "sha256": "fe52ec8f770887fbf39486a06948b7860befe1639358dffa11bbc34a72116296",
+    "url": "https://blog.aicent.com/october-on-the-record/"
+   },
+   "snapshot_zh": {
+    "sha256": "f58159919c6afae7ef72540cc9060d11ef5d9e0773d4fed44b0b1679a9497498",
+    "url": "https://blog.aicent.com/zh/october-on-the-record/"
+   },
+   "source_en": {
+    "path": "_src/october-on-the-record.html",
+    "sha256": "135701c8a052e6490a3b2e9c326bb5e3b5a815838b7faf232b6bef50c74236cc"
+   },
+   "source_zh": {
+    "path": "_src_zh/october-on-the-record.html",
+    "sha256": "f32606026fdc71a06164534a653cbeec4b973cce767f9222ff78982057628893"
+   },
+   "title_en": "October on the record: the addressing line, measured",
+   "title_zh": "\u5341\u6708\u5b9e\u5f55\uff1a\u5bfb\u5740\u4e00\u7ebf\uff0c\u9010\u9879\u53ef\u9a8c",
+   "version": 2
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://1d6dec71a975c15b299597b7b9db84ea.forge.iqa",
+    "rttp": "rttp://1d6dec71.blog.aicent"
+   },
+   "date": "2026-11-01",
+   "digest": "1d6dec71a975c15b299597b7b9db84eac32df2dd78f99fc8ce6f029e1b60ca94",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "7b001d7495f85df7",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://1d6dec71a975c15b299597b7b9db84ea.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "37823cd29027771cfe5157708a51d87eae28c00e0fef24b7a5ba16e0e01a8a26a9b631c5af2de059ba0a466c58e49ad1a87be917f4c10a57f1d53b80d46f2f00",
+    "ts": 1793523632,
+    "v": 1
+   },
+   "sealed_at": 1793523632,
+   "slug": "q22-what-revision-two-adds",
+   "snapshot_en": {
+    "sha256": "706d7222472629e752278af28e1eb810c9606657aacb2f0a9153003ee8692631",
+    "url": "https://blog.aicent.com/q22-what-revision-two-adds/"
+   },
+   "snapshot_zh": {
+    "sha256": "8075379c106ce75eca5ad0dacfe7fe18dc873f51690ad519a1c2e6f022e50070",
+    "url": "https://blog.aicent.com/zh/q22-what-revision-two-adds/"
+   },
+   "source_en": {
+    "path": "_src/q22-what-revision-two-adds.html",
+    "sha256": "06bef7f75329989b24e375376f1cafe9e3b7e70f61bd77aaca5ce1547b16775d"
+   },
+   "source_zh": {
+    "path": "_src_zh/q22-what-revision-two-adds.html",
+    "sha256": "9d722d46cba2c6e84f3c121419f4c4bf44c1f7afffeb550acdd400ad15c30159"
+   },
+   "title_en": "What revision -02 of draft-li-rttp-iqa-addressing adds: the moment of use, the interpreter's seat, and the review on the record",
+   "title_zh": "draft-li-rttp-iqa-addressing-02 \u65b0\u589e\u4e86\u4ec0\u4e48\uff1a\u4f7f\u7528\u65f6\u523b\u3001\u89e3\u91ca\u5668\u7684\u5e2d\u4f4d\u4e0e\u5728\u6848\u7684\u8bc4\u5ba1",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://bb9401355ace4be6bb65ee67618676bd.forge.iqa",
+    "rttp": "rttp://bb940135.blog.aicent"
+   },
+   "date": "2026-11-02",
+   "digest": "bb9401355ace4be6bb65ee67618676bd44fe85f13aa2072d859a375daa112bf0",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "84409cadb122fcd9",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://bb9401355ace4be6bb65ee67618676bd.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "2c2ac31ccedb9c9819886d4f01c15310cb011d938f7bbae92910a1ec12b34805afd056c3321938bfc3a5d747469e156e3d753eb526987720771574a6576f8609",
+    "ts": 1793627568,
+    "v": 1
+   },
+   "sealed_at": 1793627568,
+   "slug": "arrival-point-three-questions",
+   "snapshot_en": {
+    "sha256": "3ff88765f714552234f96fbe6c93fb236b315b215e3b8799734544897b5e3a9b",
+    "url": "https://blog.aicent.com/arrival-point-three-questions/"
+   },
+   "snapshot_zh": {
+    "sha256": "530b916ca53655e123b7d37d547c084b14e6e42106fe4cb4bfb8e1337ca2a2a5",
+    "url": "https://blog.aicent.com/zh/arrival-point-three-questions/"
+   },
+   "source_en": {
+    "path": "_src/arrival-point-three-questions.html",
+    "sha256": "46bb436c32880d3ac8e65bb5ea1db85cc374c0fdf4845a7c7fa4e66246747a08"
+   },
+   "source_zh": {
+    "path": "_src_zh/arrival-point-three-questions.html",
+    "sha256": "81e298287f36fd4fd14c4e774aff45b6ba88689dada33f317302992a4d5c6808"
+   },
+   "title_en": "At the arrival point: three questions, three answers",
+   "title_zh": "\u62b5\u8fbe\u70b9\u4e0a\u7684\u4e09\u4e2a\u95ee\u9898\uff0c\u4e09\u4e2a\u56de\u7b54",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://7a4ad50bc1b95e8862673a7e0073f5c3.forge.iqa",
+    "rttp": "rttp://7a4ad50b.blog.aicent"
+   },
+   "date": "2026-11-03",
+   "digest": "7a4ad50bc1b95e8862673a7e0073f5c3d5fa417a16d58eba1213c02f70e13c11",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "527afa93b3271661",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://7a4ad50bc1b95e8862673a7e0073f5c3.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "a1bdbbcb519acc350cb5be5f28d2bce21c67868bb425f7fabc67e6c7ec773dc4d229109ad1d899dbc51c0c63af42a96c70b5fd2638c4c8f4566a62b7d8210400",
+    "ts": 1793699609,
+    "v": 1
+   },
+   "sealed_at": 1793699609,
+   "slug": "q23-the-reason-makes-refusal-auditable",
+   "snapshot_en": {
+    "sha256": "5d14f3a437c2f9b15bc4b2997509370b3d9c80d3059efc61d3f561212f24c2bc",
+    "url": "https://blog.aicent.com/q23-the-reason-makes-refusal-auditable/"
+   },
+   "snapshot_zh": {
+    "sha256": "b398b89976401e921b968c56baef64c658a08b7c6f85def4a8f121ad815b5acc",
+    "url": "https://blog.aicent.com/zh/q23-the-reason-makes-refusal-auditable/"
+   },
+   "source_en": {
+    "path": "_src/q23-the-reason-makes-refusal-auditable.html",
+    "sha256": "1357bc1496479d3d31d9af46bb84b2a703df439e74a8d6ee763f0c7f8fcc991a"
+   },
+   "source_zh": {
+    "path": "_src_zh/q23-the-reason-makes-refusal-auditable.html",
+    "sha256": "138a8d2a493a8bb0219d19632ca85232ba2f27e5045e1ddf5c3355c480fa5381"
+   },
+   "title_en": "The reason is what makes a refusal auditable \u2014 three refusal vocabularies met on the walls this fortnight, and ours came with vectors",
+   "title_zh": "\u7406\u7531\u624d\u8ba9\u62d2\u7edd\u53ef\u5ba1\u8ba1\u2014\u2014\u8fd9\u4e24\u5468\u4e09\u4efd\u62d2\u7edd\u8bcd\u8868\u5728\u5899\u4e0a\u76f8\u9047\uff0c\u54b1\u4eec\u7684\u8bcd\u8868\u5e26\u7740\u5411\u91cf\u6765",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://c294cab3f7905b2dbb24e38f256bd766.forge.iqa",
+    "rttp": "rttp://c294cab3.blog.aicent"
+   },
+   "date": "2026-11-03",
+   "digest": "c294cab3f7905b2dbb24e38f256bd7666a4ac19b3e2a3098335289d8c5e2c464",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "1f4eca9b0baec5fd",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://c294cab3f7905b2dbb24e38f256bd766.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "66b12df061be507d973d312090c79b804074c9290fae99d8aab8b58206a416d203509f189bfff04665f8cb1ff3a9822917918d98c41bbd204d0fe99a95eb7407",
+    "ts": 1793699609,
+    "v": 1
+   },
+   "sealed_at": 1793699609,
+   "slug": "q24-the-edge-of-the-lease",
+   "snapshot_en": {
+    "sha256": "9005edb5c41ddcccd25fdd881a29aa2baf368533dbfe4ef952e670d478adc905",
+    "url": "https://blog.aicent.com/q24-the-edge-of-the-lease/"
+   },
+   "snapshot_zh": {
+    "sha256": "45434210a0c9004a051bf6cc98fef63fbf512e9f626b351d3d5a64e2623d4ee2",
+    "url": "https://blog.aicent.com/zh/q24-the-edge-of-the-lease/"
+   },
+   "source_en": {
+    "path": "_src/q24-the-edge-of-the-lease.html",
+    "sha256": "2ecb4bd2251d05a001073cd67b94e872d1dd11ece28c6463a9c147ae408c7466"
+   },
+   "source_zh": {
+    "path": "_src_zh/q24-the-edge-of-the-lease.html",
+    "sha256": "0d5cc2dad9ddaa47e547fef55ffc1b7750c7aa82ef339076d64fca86d86d2ece"
+   },
+   "title_en": "The edge of the lease \u2014 the walls settle at-or-past, and the vectors test the declared boundary",
+   "title_zh": "\u79df\u7ea6\u7684\u8fb9\u7f18\u2014\u2014\u5899\u4e0a\u5b9a\u8c33 at-or-past\uff0c\u5411\u91cf\u6765\u6d4b\u58f0\u660e\u8fb9\u754c",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://e8122ff53afc75334be0ff1206c6f72f.forge.iqa",
+    "rttp": "rttp://e8122ff5.blog.aicent"
+   },
+   "date": "2026-11-04",
+   "digest": "e8122ff53afc75334be0ff1206c6f72f2052cc93cc1dc6ef4654229730f59dec",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "c00b04391c4a97fd",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://e8122ff53afc75334be0ff1206c6f72f.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "fed2f93bc51ed8880423a9f2d21e4fe5cfd539b9d1f6efb64feb41f42646edaf346f1614977508a1de0f3c8a88bcebf5e31eb120c6a236a438429f2ea960080f",
+    "ts": 1793787120,
+    "v": 1
+   },
+   "sealed_at": 1793787120,
+   "slug": "refusal-is-an-answer",
+   "snapshot_en": {
+    "sha256": "ccad3a6655b3c6a26eef65e6f3546d223b2115eaee809a287bb52ea02b9889ff",
+    "url": "https://blog.aicent.com/refusal-is-an-answer/"
+   },
+   "snapshot_zh": {
+    "sha256": "1c0d9fb927fe120676ca4ba1d3801e71e3187c2ebb787b42fd9de057b8a62177",
+    "url": "https://blog.aicent.com/zh/refusal-is-an-answer/"
+   },
+   "source_en": {
+    "path": "_src/refusal-is-an-answer.html",
+    "sha256": "00f8b7810b862697fa8a2f149a5e2fe72986135915b7cadb8d3ae670cd79aed9"
+   },
+   "source_zh": {
+    "path": "_src_zh/refusal-is-an-answer.html",
+    "sha256": "47d036159f4b65707074fa33beb89af63977a76219defbaeaed34369c32df887"
+   },
+   "title_en": "Refusal is an answer \u2014 the grant-reference family enters the lab mainline",
+   "title_zh": "\u62d2\u7edd\u662f\u4e00\u79cd\u7b54\u6848\u2014\u2014grant-ref \u5bb6\u65cf\u8fdb\u5165\u5b9e\u9a8c\u5ba4\u4e3b\u7ebf",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://aeba8579457d43edc0f82d43fba7be6b.forge.iqa",
+    "rttp": "rttp://aeba8579.blog.aicent"
+   },
+   "date": "2026-11-04",
+   "digest": "aeba8579457d43edc0f82d43fba7be6b1d12c91adabaaefe0de575f655bde4d7",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "192a5dae0095b181",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://aeba8579457d43edc0f82d43fba7be6b.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "4aee6ba387ec1b50da609f6bb3656c88d9d7eb50225f156d893964760d1a3f7a7eb0df185f0f8441030c1a02c7655099e1edf94b718aa2d662732ce04fa1a808",
+    "ts": 1793787120,
+    "v": 1
+   },
+   "sealed_at": 1793787120,
+   "slug": "the-boundary-is-a-declaration",
+   "snapshot_en": {
+    "sha256": "5dcc666f69b219e5cb724b73805d604c59d9123e5d62135796d2f6e813f553fb",
+    "url": "https://blog.aicent.com/the-boundary-is-a-declaration/"
+   },
+   "snapshot_zh": {
+    "sha256": "b8524c889bf3bb43dceb3e0b781f395ee8ee0506f510354c26c6b15026fa6b82",
+    "url": "https://blog.aicent.com/zh/the-boundary-is-a-declaration/"
+   },
+   "source_en": {
+    "path": "_src/the-boundary-is-a-declaration.html",
+    "sha256": "d71d8d668204610351ddc746e29e29be2ae411ce210ebc97da7b8bbfcaa25c2a"
+   },
+   "source_zh": {
+    "path": "_src_zh/the-boundary-is-a-declaration.html",
+    "sha256": "030c1c02ccc23b3c5a79b9b6d1d38ae301aa57d07441bc21d75ba12c104198fa"
+   },
+   "title_en": "The boundary is a declaration \u2014 the lease-boundary family enters the lab mainline",
+   "title_zh": "\u8fb9\u754c\u662f\u4e00\u79cd\u58f0\u660e\u2014\u2014lease-boundary \u5bb6\u65cf\u8fdb\u5165\u5b9e\u9a8c\u5ba4\u4e3b\u7ebf",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://75e5620a4482cb42ad3017cb449cc32d.forge.iqa",
+    "rttp": "rttp://75e5620a.blog.aicent"
+   },
+   "date": "2026-11-05",
+   "digest": "75e5620a4482cb42ad3017cb449cc32d09f16f6cf02d949bc919f5fc98896c0e",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "2f7bb1b56dee5497",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://75e5620a4482cb42ad3017cb449cc32d.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "07dc6d83a5dbc797f1caa20878a5f9ec2b92c9f68ed73b1b54712c317e8b307eaf4aa7145db59a567289b29abeffcc846f0d92207118e51eb417abd70d619605",
+    "ts": 1793815546,
+    "v": 1
+   },
+   "sealed_at": 1793815546,
+   "slug": "one-family-two-ledgers",
+   "snapshot_en": {
+    "sha256": "057bd2e29ada090dce88ce628bc286ba3244ad151a669b999c9c4088d8ec0461",
+    "url": "https://blog.aicent.com/one-family-two-ledgers/"
+   },
+   "snapshot_zh": {
+    "sha256": "60935172c4adc269ac53f1e2768d1d3fb30b6496662f33d247c8ac25e9c69b8a",
+    "url": "https://blog.aicent.com/zh/one-family-two-ledgers/"
+   },
+   "source_en": {
+    "path": "_src/one-family-two-ledgers.html",
+    "sha256": "4b3aedb3b17a4aeb235018e339b3a1d7e7185b60749ca57c7ce43ffdf961d8e0"
+   },
+   "source_zh": {
+    "path": "_src_zh/one-family-two-ledgers.html",
+    "sha256": "e331f66e184ea9bcf31dd8004a70ded0ce1cdab403c23b66218105846556b51f"
+   },
+   "title_en": "One family, two ledgers \u2014 five refusal records enter a second lab's test records",
+   "title_zh": "\u4e00\u4efd\u5bb6\u65cf\uff0c\u4e24\u672c\u8d26\u2014\u2014\u4e94\u6761\u62d2\u7edd\u8bcd\u6c47\u8bb0\u5f55\u8fdb\u5165\u7b2c\u4e8c\u5bb6\u5b9e\u9a8c\u5ba4\u7684\u6d4b\u8bd5\u8bb0\u5f55",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://1f2c7aae416549a2f887a38c5e3fb392.forge.iqa",
+    "rttp": "rttp://1f2c7aae.blog.aicent"
+   },
+   "date": "2026-11-06",
+   "digest": "1f2c7aae416549a2f887a38c5e3fb392a6c375a1ac5c5953e7a74fbe9ee3640f",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "b62ada3a8fbd536a",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://1f2c7aae416549a2f887a38c5e3fb392.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "90e7e2a6d79db3bcb6e88fcd0c280f914dc1adeeba83a53bbc6d28e47a6dbba4119b2166e41ff0ba2b3f1a06d92f3781b3721da17de664031d9c431e137e2b0a",
+    "ts": 1793954004,
+    "v": 1
+   },
+   "sealed_at": 1793954004,
+   "slug": "the-ledger-answers-not-the-argument",
+   "snapshot_en": {
+    "sha256": "04bb76e0e773f3d745be717c28f70149d58b8edc82c3e3123e8291eb7e0367b7",
+    "url": "https://blog.aicent.com/the-ledger-answers-not-the-argument/"
+   },
+   "snapshot_zh": {
+    "sha256": "ecf34719b73e24e5225301b4454adce8c792bb5e9536ad6461283ca8b7855356",
+    "url": "https://blog.aicent.com/zh/the-ledger-answers-not-the-argument/"
+   },
+   "source_en": {
+    "path": "_src/the-ledger-answers-not-the-argument.html",
+    "sha256": "05029c03950476bdc66752a7bccb2c40c9f3c3e69702a43eea8dab05f55f1f2f"
+   },
+   "source_zh": {
+    "path": "_src_zh/the-ledger-answers-not-the-argument.html",
+    "sha256": "bb6ff2913ec03b6d22e05e0da42b6572b97bb115d089242274744a4942791a58"
+   },
+   "title_en": "The ledger answers, not the argument \u2014 identity conscription in open communities, and the defense that needs no opponent",
+   "title_zh": "\u53f0\u8d26\u4f5c\u7b54\uff0c\u800c\u4e0d\u662f\u96c4\u8fa9\u2014\u2014\u5f00\u653e\u793e\u533a\u7684\u8eab\u4efd\u5f81\u7528\uff0c\u4e0e\u4e0d\u9700\u8981\u5bf9\u624b\u7684\u9632\u5fa1",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://34847824757c68c0cecb6e93d30081c2.forge.iqa",
+    "rttp": "rttp://34847824.blog.aicent"
+   },
+   "date": "2026-11-06",
+   "digest": "34847824757c68c0cecb6e93d30081c27218fdbd7a4bf99cc130b510833dd5a0",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "29b08408b3f4241e",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://34847824757c68c0cecb6e93d30081c2.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "b1e335a7dd526c46874d2ada43dad733f884941fa552eed0fec647f174a5c985a802c4c354762620824bd0054b66da1834a2b4948a25a4eefa6ae3c32b9ff30f",
+    "ts": 1793954565,
+    "v": 1
+   },
+   "sealed_at": 1793954565,
+   "slug": "the-ledger-answers-not-the-argument",
+   "snapshot_en": {
+    "sha256": "f94c92dc85b97d361e90b7481da8fbb06f53e85add9a9e9ed1ed2e455d3b31e5",
+    "url": "https://blog.aicent.com/the-ledger-answers-not-the-argument/"
+   },
+   "snapshot_zh": {
+    "sha256": "39439dff4d457a7a037f61d786f020208683a6f5581954fc4f13553a2188187a",
+    "url": "https://blog.aicent.com/zh/the-ledger-answers-not-the-argument/"
+   },
+   "source_en": {
+    "path": "_src/the-ledger-answers-not-the-argument.html",
+    "sha256": "2c5d00ca9171f62d7a1ae7e4ebe51b7066cc377ebeae4b3cbbf1a78a9516d647"
+   },
+   "source_zh": {
+    "path": "_src_zh/the-ledger-answers-not-the-argument.html",
+    "sha256": "c6594aaf337acf99ec81dc40f3940a796800a60f605a642b74f96eb347d7092c"
+   },
+   "title_en": "The ledger answers, not the argument \u2014 identity conscription in open communities, and the defense that needs no opponent",
+   "title_zh": "\u53f0\u8d26\u4f5c\u7b54\uff0c\u800c\u4e0d\u662f\u96c4\u8fa9\u2014\u2014\u5f00\u653e\u793e\u533a\u7684\u8eab\u4efd\u5f81\u7528\uff0c\u4e0e\u4e0d\u9700\u8981\u5bf9\u624b\u7684\u9632\u5fa1",
+   "version": 2
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://d438f7bf3aa85578e2a20e4bf1bdb6e1.forge.iqa",
+    "rttp": "rttp://d438f7bf.blog.aicent"
+   },
+   "date": "2026-11-07",
+   "digest": "d438f7bf3aa85578e2a20e4bf1bdb6e1b00042187e259d0fd7e8f082c757dde1",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "83e8138dd54d8887",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://d438f7bf3aa85578e2a20e4bf1bdb6e1.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "b0ac83dd7efd70abc5f872fc2a7565063b507f035a6930d61aeef18b07a1edc40c4add746e362e6982408a62245923582b4ac3a4112d6ab5d099a13b7941e807",
+    "ts": 1794040062,
+    "v": 1
+   },
+   "sealed_at": 1794040062,
+   "slug": "leaf-lifetime-is-not-determination-age",
+   "snapshot_en": {
+    "sha256": "839de621d531999d46de1565ecd077591d6dbb006bd9e00089a79844a00e0528",
+    "url": "https://blog.aicent.com/leaf-lifetime-is-not-determination-age/"
+   },
+   "snapshot_zh": {
+    "sha256": "2b8e832651efb00d9870106626bc0a4762d0152e4ac1464f65ef54e293529869",
+    "url": "https://blog.aicent.com/zh/leaf-lifetime-is-not-determination-age/"
+   },
+   "source_en": {
+    "path": "_src/leaf-lifetime-is-not-determination-age.html",
+    "sha256": "52a31a242458300339ba41c923fc0887937fc294830b602e44498f185cee0b76"
+   },
+   "source_zh": {
+    "path": "_src_zh/leaf-lifetime-is-not-determination-age.html",
+    "sha256": "98baf80ca76fcc94733a1e7ffa679218c91733652eb2d3794592b19e48a970eb"
+   },
+   "title_en": "Leaf lifetime is not determination age \u2014 two clocks a delegation chain must not merge",
+   "title_zh": "\u53f6\u5bff\u9650\u4e0d\u662f\u88c1\u51b3\u5e74\u9f84\u2014\u2014\u59d4\u6258\u94fe\u6761\u4e0d\u8be5\u5408\u5e76\u7684\u4e24\u53ea\u65f6\u949f",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://dd57d093e809cf080ec95c13a045ddfb.forge.iqa",
+    "rttp": "rttp://dd57d093.blog.aicent"
+   },
+   "date": "2026-11-07",
+   "digest": "dd57d093e809cf080ec95c13a045ddfb8325140e351d216b1c3afa97c985ed64",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "159a6a5aae676d6f",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://dd57d093e809cf080ec95c13a045ddfb.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "666167a6155aebe0dad3fceb0c5f4627aebc77bc1d2e5c9d4557da91262f3198c9796f57d78f55ef4da7e8bb219bfad9ac5aa14d435ee369f2c179e6dbb70006",
+    "ts": 1794040062,
+    "v": 1
+   },
+   "sealed_at": 1794040062,
+   "slug": "local-policy-is-not-a-verdict",
+   "snapshot_en": {
+    "sha256": "e823d0a4f648dfcb2170537087bc2482167890d195efde3c97a5a68598be42ee",
+    "url": "https://blog.aicent.com/local-policy-is-not-a-verdict/"
+   },
+   "snapshot_zh": {
+    "sha256": "e4d21be552cdce57971f55c150f4bd183d01dd309c57fbec97301cca5719867b",
+    "url": "https://blog.aicent.com/zh/local-policy-is-not-a-verdict/"
+   },
+   "source_en": {
+    "path": "_src/local-policy-is-not-a-verdict.html",
+    "sha256": "fd24bd7fc4690b0393b19d6e8600de72f845514d88ef38e14906475bc01140e1"
+   },
+   "source_zh": {
+    "path": "_src_zh/local-policy-is-not-a-verdict.html",
+    "sha256": "c08b76512388a99f40c60ddb38344119ce944d04c002ff22be5af2cce18586af"
+   },
+   "title_en": "When the status list is unreachable, 'local policy' is not a verdict \u2014 a new agent-passport draft meets the refusal vocabulary",
+   "title_zh": "\u62ff\u4e0d\u5230\u72b6\u6001\u5217\u8868\u65f6\uff0c\"local policy\" \u4e0d\u662f\u88c1\u51b3\u2014\u2014\u4e00\u4efd\u65b0\u7684 agent-passport \u8349\u7a3f\u649e\u4e0a\u4e86\u62d2\u7edd\u8bcd\u6c47\u8868",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://f183ff0f840b6b40bce566f84785defc.forge.iqa",
+    "rttp": "rttp://f183ff0f.blog.aicent"
+   },
+   "date": "2026-11-07",
+   "digest": "f183ff0f840b6b40bce566f84785defc8711e7cf817e0cce471eea1e3c7e1377",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "36a409994c7952c7",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://f183ff0f840b6b40bce566f84785defc.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "9e0d75d3964522f5632453e96de003514923d66cb5f423877848177bf93079be5c93fcbb4ae334e8b72d7a263fa5a08f178c79358d7c70e8091c4628c0fc3c00",
+    "ts": 1794040062,
+    "v": 1
+   },
+   "sealed_at": 1794040062,
+   "slug": "the-time-belongs-to-the-determination",
+   "snapshot_en": {
+    "sha256": "f8d6393fd9a54bb1bd4c4aa26d578783dc797e5055d1105608e2a13fbabe86c7",
+    "url": "https://blog.aicent.com/the-time-belongs-to-the-determination/"
+   },
+   "snapshot_zh": {
+    "sha256": "f92dc1e163a6e0a583a0d3997175455f03b04aad3b0047baf0768d4a3cec2505",
+    "url": "https://blog.aicent.com/zh/the-time-belongs-to-the-determination/"
+   },
+   "source_en": {
+    "path": "_src/the-time-belongs-to-the-determination.html",
+    "sha256": "18fe870e2cbbc96fbc934075f617765ec27eed7c388240a6b40122eff1b99979"
+   },
+   "source_zh": {
+    "path": "_src_zh/the-time-belongs-to-the-determination.html",
+    "sha256": "144b111d7f0f49a0e92d23aa9f63c7b0363b828d298156b5969df16e30e28410"
+   },
+   "title_en": "'We established this once' quietly becomes 'this is established' \u2014 the time half is a property of the determination",
+   "title_zh": "\"\u300c\u6211\u4eec\u786e\u7acb\u8fc7\u4e00\u6b21\u300d\u6084\u6084\u53d8\u6210\u300c\u8fd9\u5df2\u786e\u7acb\u300d\u2014\u2014\u65f6\u95f4\u534a\u8fb9\u662f determination \u7684\u5c5e\u6027\uff0c\u4e0d\u662f\u51ed\u8bc1\u7684\u5c5e\u6027\"",
+   "version": 1
+  },
+  {
+   "addresses": {
+    "iqa": "iqa://e745f6faf4cfe0cd9f3a2bc06ce43db3.forge.iqa",
+    "rttp": "rttp://e745f6fa.blog.aicent"
+   },
+   "date": "2026-11-08",
+   "digest": "e745f6faf4cfe0cd9f3a2bc06ce43db3ec831e4224534838e80d4dbcc3fab22d",
+   "envelope": {
+    "aid": "ba92fadd46a51caf25633e0f315c4ad10103b879d7397397362f89dc33817153",
+    "alg": "ed25519",
+    "nonce": "abeac37a3a699f33",
+    "payload": {
+     "organ": "forge",
+     "standing": "radiant",
+     "subject_uri": "iqa://e745f6faf4cfe0cd9f3a2bc06ce43db3.forge.iqa"
+    },
+    "pub": "59e20c39c50c6d2de9008873bf89107cc506c46c439618835ee291005df99302",
+    "sig": "14e66e577a57cdc58ca3fcec88c241deb3d1f6a8562220ff523838c24d1ef453f2445f64eb7bb42800166099f790ea3af98ec99ed5ec7c66f7217901ba922d0d",
+    "ts": 1794128069,
+    "v": 1
+   },
+   "sealed_at": 1794128069,
+   "slug": "the-drafts-first-outside-anchor",
+   "snapshot_en": {
+    "sha256": "2a031f4bbe34009fb7f9c2ffe24096e6d6efbf6a33b8f34366581bad990abf62",
+    "url": "https://blog.aicent.com/the-drafts-first-outside-anchor/"
+   },
+   "snapshot_zh": {
+    "sha256": "900b5130262688aac37c0c74c20b8dbf25e03872c69c3b050534bcff6f73b093",
+    "url": "https://blog.aicent.com/zh/the-drafts-first-outside-anchor/"
+   },
+   "source_en": {
+    "path": "_src/the-drafts-first-outside-anchor.html",
+    "sha256": "6f8b8108b9ee86dbe54216639d38d557e616887ebb127bdd85aebf1306c12099"
+   },
+   "source_zh": {
+    "path": "_src_zh/the-drafts-first-outside-anchor.html",
+    "sha256": "27a8b30bb9704dc254af05ea775433a0adaf3f07f001ae9c5bf164a50688bf90"
+   },
+   "title_en": "The draft's first outside anchor",
+   "title_zh": "\u8349\u7a3f\u7684\u7b2c\u4e00\u4e2a\u5916\u90e8\u951a\u70b9",
+   "version": 1
+  }
+ ],
+ "tool": "blog seal wave 1: full backfill of the published archive; seal binds bilingual sources (append-only per version); snapshot fields record the page as first published for the version (template-only changes do not re-seal; source changes bump the version)",
+ "v": 1
+}
